@@ -18,5 +18,5 @@
 |Average |	29,93 |	14,33 |	3,64 |  |		8,73 | |		7,47 |	2,91 |	3,8 |	5,4 |  |		2,8 |	3,67 |	1,8 |	4,6 |
 
 
-[^1](< 900 Lines of Code = small, 900-40k Lines of Code = medium, > 40k Lines of Code = large)
-[^2](SEPE 3 or higher on a Scale 1 to 5)
+[^1]: (< 900 Lines of Code = small, 900-40k Lines of Code = medium, > 40k Lines of Code = large)
+[^2]: (SEPE 3 or higher on a Scale 1 to 5)
