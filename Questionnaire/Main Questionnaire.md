@@ -1,10 +1,10 @@
-#Questionnaire
+# Questionnaire
 
-##Part 1:	Programming Experience
+## Part 1:	Programming Experience
 
 *See Questionnaire on Programming Experience.*
 
-##Part 2:	Programming Process
+## Part 2:	Programming Process
 
 I'd like to ask you to tell me about a recent project of yours. It can be finished or still in progress, from work or a private project. Just walk me through it from start to end.	
 
@@ -27,7 +27,7 @@ Do you also program in private? If yes, is the process different?
 Who do you write the project for? Who do you think of when programming?
 
 
-##Part 3:	Blocks
+## Part 3:	Blocks
 
 Have you ever discontinued a project? Why?
 
