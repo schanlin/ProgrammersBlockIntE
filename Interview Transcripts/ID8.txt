@@ -1,0 +1,377 @@
+00:00 --> 00:09
+
+I: So, gut. Dann nochmal Hallo. Bist du damit einverstanden, dass das Gespräch hier aufgezeichnet wird?
+
+00:09 --> 00:11
+
+B: Ja, bin ich.
+
+00:11 --> 00:25
+
+I: Alles klar, gut. Das Interview besteht aus grob drei Teilen. Der erste Teil ist ein Fragebogen, der einfach dazu da ist, deine Programmiererfahrung zu erfassen.
+
+00:25 --> 00:27
+
+B: Mhm.
+
+00:27 --> 00:30
+
+I: So, erste Frage. Wie alt bist du?
+
+00:30 --> 00:34
+
+B: 35.
+
+00:34 --> 00:38
+
+I: Wie viele Jahre programmierst du insgesamt schon?
+
+00:38 --> 00:45
+
+B: Lass es 15 Jahre sein.
+
+00:45 --> 00:50
+
+I: Wie viele davon in irgendeiner Art Ausbildung?
+
+00:50 --> 00:58
+
+B: In einer Art Ausbildung. Also, ich hab nicht/ Ich bin kein Programmierer, der das gelernt hat. Also während Studium, während Schule.
+
+00:58 --> 01:00
+
+I: Einfach so nebenbei?
+
+01:00 --> 01:02
+
+B: Einfach so nebenbei, genau.
+
+01:02 --> 01:05
+
+I: Gut, dann trage ich hier die Null ein. * Und dann erledigt sich auch die welche Art Ausbildung Frage. Also halt so, selbst. * Okay. Seit wie vielen Jahren programmierst du für größere Softwareprojekte, zum Beispiel in einer Firma, also quasi professionell?
+
+01:25 --> 01:29
+
+B: Seit sechs, sieben Jahren.
+
+01:29 --> 01:31
+
+I: Sieben, okay. * Wie groß sind die professionellen Projekte üblicherweise? Wir unterscheiden da in quasi drei Größen. Klein ist unter 900 Code-Zeilen, Mittel wäre 900 bis 40.000 Code-Zeilen und Groß wäre über 40.000 Code-Zeilen.
+
+01:44 --> 01:49
+
+B: Mittel.
+
+01:49 --> 02:00
+
+I: Auf einer Skala von 1 bis 10, 1 bedeutet sehr unerfahren, 10 bedeutet sehr erfahren, wie hoch schätzt du deine eigene Programmiererfahrung ein?
+
+02:00 --> 02:03
+
+B: 4 bis 5.
+
+02:03 --> 02:09
+
+I: 4 bis 5\. Ich runde immer auf, also sage ich 5\. * Gut. Auf einer Skala von 1 bis 5 nur, aber 1 ist wieder niedrigste, wie hoch schätzt du deine Programmiererfahrung im Vergleich mit Experten mit 20 Jahren professioneller Erfahrung ein?
+
+02:22 --> 02:24
+
+B: 2.
+
+02:24 --> 02:26
+
+I: 2 * Okay. * Auf einer Skala wieder von 1 bis 5, wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen, Coworkern, Peers ein?
+
+02:40 --> 02:44
+
+B: Auch die 2, weil ich ja mit Professionellen zusammenarbeite.
+
+02:44 --> 02:48
+
+I: Okay, alles klar. * Wie viele Programmiersprachen kennst du, wo du deine eigene Programmiererfahrung bei 3 oder höher einschätzen würdest und welche Sprachen sind das?
+
+03:01 --> 03:13
+
+B: Also, ich kenne zwei, wo ich es 3 und höher einschätzen würde, das wären PHP und C#.
+
+03:13 --> 03:16
+
+I: Mhm * Alles klar. * So, dann haben wir noch abschließend vier Fragen. Wie erfahren bist du mit den folgenden Programmierparadigmen? Wieder auf einer Skala von 1 bis 5, falls du mit dem Begriff was anfangen kannst. Das erste wäre funktionale Programmierung?
+
+03:34 --> 03:35
+
+B: 1.
+
+03:35 --> 03:38
+
+I: 1, okay.
+
+03:38 --> 03:43
+
+B: Ich glaube, ich kann mit den Begriffen bestimmt nichts anfangen.
+
+03:43 --> 03:46
+
+I: Das ist möglich. Ich habe auch von vielen Leuten das Feedback bekommen, dass das eher so Begriffe sind, die werden an der Uni genutzt, aber nicht im echten Leben (lacht)
+
+03:53 --> 03:56
+
+B: (lacht) Wahrscheinlich, ja.
+
+03:56 --> 04:02
+
+I: Genau, also funktionale Programmierung, das ist sowas wie Haskell, Lisp, F#. Wird manchmal als Paradigma kommt es auch in anderen Sprachen zum Zug. * Imperative Programmierung, das wäre eher so Pascal, C.
+
+04:12 --> 04:18
+
+B: Ja, da recht viel Erfahrung, also 4 müsste das dann auf deiner Skala sein.
+
+04:18 --> 04:23
+
+I: Logische Programmierung, das ist ein bisschen eine seltenere, Prolog ist so die Sprache, die da genannt wird.
+
+04:26 --> 04:27
+
+B: 1.
+
+04:27--> 04:30
+
+I: Und objektorientierte Programmierung?
+
+04:30 --> 04:31
+
+B: Da ist es die 3.
+
+04:31 --> 04:35
+
+I: Da ist es die 3, okay, alles klar. * Gut, das wäre der erste Teil gewesen.
+
+B: Juhu
+
+04:40 --> 04:46
+
+I: (lacht) Vielen Dank. So. Dann der zweite Teil. Da geht es quasi um deinen Programmierprozess, also wie du beim Programmieren vorgehst. Und dazu würde ich dich gerne bitten, mir einfach was über ein aktuelles oder jüngst abgeschlossenes Projekt von dir zu erzählen. Kann von der Arbeit sein, kann privat sein. Irgendwas, wo du mich so ein bisschen von Anfang bis Ende durchführen kannst.
+
+05:14 --> 08:33
+
+B: Okay, abgeschlossenes Projekt * Ganz kurz zum Hintergrund. Also ich programmiere vor allem Virtual Reality Anwendungen. Da ist in den Projekten meist die Aufgabenstellung, lass doch die Person in die VR, also VR Virtual Reality, eintauchen. Und die sollen dort Aufgaben lösen. Im jüngsten Projekt ging es darum, dass die Person Distanzen schätzen sollte, also wie weit ist irgendwas entfernt und noch zeigen sollte, wo dieses Objekt sich befand. * Hat einfach den Hintergrund, nur kurz zur Background Story, dass eben Entfernungen in der VR unterschätzt werden.
+
+Wie ist jetzt so mein Programmierstand? Weil wir das im Team machen, also ich habe ein Team zwischen Psychologen, mich als Halbinformatiker, also dass ich mit Programmieren etwas auskenne und ich sage jetzt mal so typische Orga * Wissen ist dabei. Also so ein Dreigespann ist das. Das heißt, ich bekomme meistens von den Kollegen oder in Zusammenarbeit die Aufgabe, programmier doch die VR Anwendung.
+
+Wie geht es da los? Ich sage, okay, das und das können wir machen, das können wir nicht machen. Dann kriege ich meistens ein Storyboard hingesetzt. Ich sage jetzt mal eher typisch psychologisch Storyboard hingesetzt. Ja, die Person soll zum Beispiel mit dem Laserstrahl klicken, wo das Objekt war, wo es einschätzen sollte.
+
+Ja, wie fange ich an beim Programmieren? Natürlich leeres Projekt und ich sage jetzt, okay, viele Sachen sind in der VR Standardsachen. Die Bewegung, die Interaktionen mit den Controllern, das sind Plugins, die hat man einmal geschrieben, die habe ich vor x Jahren geschrieben. Die passt man auf aktuellen Softwarestand an, weil da relativ viel geupdatet wird. Hat man dann schon ganz einfach die Sache drinnen, man sieht was in den Brillen, den VR-Brillen, man kann sich bisschen bewegen. Und dann kommen halt nach und nach die Funktionen hinzu. In dem Fall zum Beispiel zuerst das Objekt, dass das erscheint, dass man dort sagt, wo erscheint das Objekt. Meistens gekoppelt mit ner Datenbank dahinter, um das irgendwie zufällig zu machen. Also quasi erstmal diese Grundfunktion, Objekt erscheint, man kann/ man sieht es, Objekt verschwindet. Und dann kommen halt quasi die Benutzinteraktionen hinzu.
+
+Das heißt, da kümmere ich mich dann dadrum, okay, mein Storyboard steht drinnen, da wollen wir einen grünen Laserstrahl haben. Suche ich mir das Plugin, was ich schon vor x Jahren genommen habe, grüner Laserstrahl, hänge das an meine 3D-Umgebung ran, fertig. Das sind halt quasi so die Grundsachen. Und dann mit den Grundsachen gehe ich wieder zurück ins Storyboard und sage, was wollt ihr drumherum haben. Das heißt, die Objekte müssen in so und so vielen Millisekunden verschwinden. Das heißt, diese kleine Funktion, Objekt verschwindet nach 500 Millisekunden, ist ausgeblendet, wird zerstört, wie auch immer. Dann halt das Nächste, okay, die Leute sollen sich virtuell in ein Dreieck bewegen zum Beispiel. Das heißt, man programmiert den Bewegungsablauf, ob das eine Animation ist oder ob das einfach nur ein stures ich bewege mich von A nach B ist. Das hängt wirklich davon ab, was das Storyboard vorschreibt.
+
+08:33 --> 09:06
+
+Hm, ja, ist jetzt, ich sage jetzt mal, dieses grundlegende Gerüst fertig, geht es in die ersten Tests, wo ich dann meine Arbeitskollegen ran lasse und sage, hier, gefällt dir das, funktioniert das so. * Ja, und dann wird das quasi immer kleinteiliger, wenn dann quasi die Kollegen sagen, hm, okay, das Objekt verschwindet, jetzt möchte ich gerne noch einen Effekt haben, dass das halt wie in Wasser eintaucht oder sowas. Dann wird halt quasi diese Funktion wieder angefasst und gesagt, okay, mache ich jetzt die Wasseranimation raus, um dann festzustellen, in drei Runden später ist es doch durch, wir machen es wie die erste Funktion.
+
+09:06 --> 09:11
+
+Ja, das ist eigentlich so dieser typische Ablauf bei mir. Die Sache ist aber meistens etwas langwieriger, also jetzt ist es relativ kurz gesagt, weil man halt viele Abstimmungsrunden hat und weil sich in dieser VR-Welt der Softwarestand relativ zügig ändert. Es kann sein, dass man im Vierteljahr vier, fünf große Versionsupdates von der Hardware hat, also Softwareupdates von der Hardware hat, und dass man manche Sachen einfach, ich sage jetzt mal in Anführungszeichen, wegwerfen kann oder es einfache Lösungen gibt.
+
+09:38 --> 09:44
+
+I: Alles klar. Okay, ja spannend. Das Grundprinzip, dass man die Distanzen unterschätzt, kann ich mir sehr gut vorstellen. Gut, also um das nochmal zusammenzufassen, dass ich das so einigermaßen richtig verstanden habe. Also du bekommst halt die Aufgabenstellung, das in Form von einem Storyboard und dann geht das quasi so ein bisschen in Schüben vom Groben ins Feinere. Also erst kommen so die Grundfunktionen und dann geht es zurück zum Storyboard, dann kommen die feineren Funktionen, dann kommen Tests und dann wird es weiter verfeinert.
+
+10:19 --> 10:20
+
+B: Genau.
+
+10:20 --> 10:24
+
+I: Und das ist auch so chronologisch quasi die Reihenfolge.
+
+10:24 --> 11:16
+
+B: Genau, das ist so chronologisch. Hängt einfach damit zusammen, weil in diesen Projekten, wo ich da programmiere, halt viele psychologische Sachen sind. Und auch da sind halt, okay, ich sage jetzt mal, wenn ich sage, das Objekt ist rot, heißt rot ist eine Signalfarbe, lass uns das doch lieber mal gelb machen. Das sind zwar kleine Anpassungen, aber halt genau solche kleinen Anpassungen kommen halt immer wieder und wieder und wieder. Dass man sagt, okay, eine Farbe ändern ist in meiner Programmierungsumgebung relativ einfach, relativ zügig gemacht, also es ist ein Mausklick. Aber halt, dass das Objekt nach unten verschwindet oder lieber nach links oder nach rechts verschwindet, halt sowas kommt erst im Nachgang in den ganzen Diskussionen. Wenn quasi man im Team zusammen ist, dass sich alle das mal gemeinsam angeschaut haben und dann sagt der Psychologe, oh verdammt, da hinten ist noch eine Fahne zu sehen, das möchte ich lieber nicht haben. Oder * genau.
+
+11:16 --> 11:28
+
+I: Okay, dann vielleicht so ein bisschen ins Detail. Deine persönliche Planung, also im Groben die Planung, was passieren soll, das gibt ja dieses Storyboard vor.
+
+11:28 --> 11:29
+
+B: Genau.
+
+11:29 --> 11:41
+
+I: Und dann, wie kommt es/ also wie ist es vom Storyboard zum Code der Schritt? Planst du da noch oder fängst du quasi an, mal runter zu schreiben?
+
+11:41 --> 12:39
+
+B: Naja, also ich fange meistens an, was runter zu schreiben. Das ist eher quasi der Punkt, weil ich das nicht professionell gelernt habe. Also ich fange erst mal an, was runter zu schreiben, schaue, ob das so funktioniert, was ich mir gedacht habe, mit den ganzen Fallstricken, die meine Umgebung, also meine 3D-Umgebung hergibt und der ganze C-Sharp-Code und die Funktion der 3D-Engine. Genau, fange ich halt an, dann ist es das typische, ich schaue mal bei Stack Overflow, ob es da irgendwo schon ne Lösung dazu gibt. Wenn ja, ist es cool, meistens passt es nicht ganz so. Man holt sich da, ich sage jetzt mal, auch in vielen Foren, wenn man da irgendwelche speziellen Probleme hat, Google fragt man da quasi, wie kann ich, ich sage jetzt mal, das Objekt zerstören. Dann schaue ich dort mal, gucke mal ins Handbuch rein. Viele Sachen sind halt, ich sage jetzt mal, am Anfang unstrukturiert. Entsprechend sieht auch am Anfang der Code aus, und dann das Stück für Stück zu verfeinern.
+
+12:39 --> 13:02
+
+I: Okay, also dieses, wie der Code quasi zu seinem finalen Aussehen kommt, das passiert so währenddessen
+
+B: genau 
+
+I: da gibt es nicht vorher irgendwie auf Papier noch groß/ Okay, und du sagst, du guckst dann, ob das alles so funktioniert, wie du es dir gedacht hast und ist dieses Denken, also ist das so vorher oder ist das während des Schreibens?
+
+13:02 --> 13:44
+
+B: Naja, also es ist natürlich vorneweg schon mal nachdenken, okay, ich sage jetzt mal, das einfache mit dem Laserpointer auf das Objekt zeigen, ist jetzt, ich sage jetzt mal, denke ich vorneweg, okay, ich brauche irgendwo ein Railcast, also das heißt, wo ich irgendwo eine Info habe, wie weit ist denn das Objekt weg. * Ja, also das denke ich mir vorneweg aus, was ich da alles so für Unterfunktionen brauche, um diese Hauptfunktionen zu haben und dann halt, okay, sind das 4-5 Zeilen Code, diese Unterfunktionen und dann hofft man, dass es funktioniert, aber meistens ist es so, dass man dann doch noch 3-4 mal ins Handbuch schauen muss, um wie dann wirklich die Funktion angesprochen wird, weil es halt eben die Softwarestände sich dauernd ändern.
+
+13:44 --> 14:04
+
+I: Ja, okay, und wenn ich mir jetzt das so, dass das so schubweise quasi verfeinert wird, vorstelle, ist dann so beim ersten Groben, ist man da gedanklich schon bei den nächsten feineren Schritten oder ist das einigermaßen, also voneinander abgegrenzt? Es wird natürlich, nehme ich an, keine klare Linie dazwischen gezogen, aber…
+
+14:04 --> 15:05
+
+B: Wenn du das jetzt so fragst, das ist eine coole Frage, also abgegrenzt, ja, also ich sage es mal, wenn das grobe Grundgerüst steht, fasse ich das in der Regel auch nicht nochmal an. Es sind dann wirklich die Feinheiten, aber die sich dann in irgendeiner Unterfunktion, Unterkategorie befinden, die man dann quasi/ ich schreibe es dann so, dass man dann einfach nur Parameter eingeben kann und dann sagen kann, okay, das ändert sich, das, ohne um 500 Zeilen zu durchsuchen, ah, wo ist, ich sag jetzt mal, das Tempoparameter, wenn es darum geht, wie sich die Person in der VR, wie schnell die sich bewegt.
+
+14:40 --> 15:05
+
+I: Okay * gut, dann eine Frage, bei dem Projekt oder auch allgemein, wenn du da programmierst, hast du da quasi, hast du da den User schon im Kopf oder irgendwie das Team, mit dem du das dann besprichst, also für wen schreibst du das Programm quasi?
+
+15:05 --> 16:15
+
+B: Für wen ich das schreibe? Natürlich schreibe ich das irgendwo, um wissenschaftlich bei mir voranzukommen in meinem Projekt, ja, also ich habe oft den User im Blick, wie wird sich dann der Nutzer damit zurechtfinden, weil ich persönlich hasse es, wenn eine Software von jemandem geschrieben worden ist, der nie einen User gesehen hat. Und natürlich auch, ich habe meistens im Blick den dümmsten User, den es gibt. Hat einfach den Hintergrund, weil in der VR kann relativ viel schnell schief gehen, in Anführungszeichen schief gehen, das heißt, die Benutzer verhalten sich nicht natürlich. Geht los, dass die Benutzer, ich sage jetzt mal, irgendwie loslaufen wollen, obwohl groß dasteht, "jetzt nicht bewegen", halt solche Sachen muss man dann quasi programmiertechnisch einfach abfangen, dass da halt nichts schief geht. * Genau, also wie gesagt, ich habe eigentlich meistens den dümmsten Benutzer im Blick und wenn ich irgendwas erkläre, ich sage jetzt mal jemandem, der schon mal eine Codezeile gesehen hat, wenn wir dann gemeinsam über Funktionen drüber schauen, dass der weiß, wie das im Hintergrund schon funktioniert.
+
+16:15 --> 16:30
+
+I: Okay * du hast gesagt, der Prozess von dem Projekt spiegelt mehr oder weniger so, wie das allgemein läuft wider, richtig?
+
+16:30 --> 16:31
+
+B: Genau.
+
+16:31 --> 16:39
+
+I: Gab es bei dem Projekt irgendwelche speziellen Umstände oder so, gab es irgendwie Probleme, gab es irgendwas, was die Arbeit erschwert hat?
+
+16:39 --> 17:55
+
+B: Ja, es gab tatsächlich Probleme, das typische Kommunikationsproblem zwischen, ich sage jetzt mal, Psychologen, Informatiker und anderen Wissenschaften, weil, ich sage jetzt mal, der Psychologe sagt, okay, es muss SO sein, da sage ich, ja, das muss so sein, gib mir aber meine Hardware nicht her. * Und ich sage jetzt mal, bestes Beispiel, wir haben solche VR-Brillen, die haben ein bestimmtes Sichtfeld und da heißts, okay, ich habe ein Sichtfeld von 90 Grad, das heißt, bei 90 Grad sehe ich noch einen kleinen Punkt, was macht mir der Psychologe, der setzt mir genau diesen Punkt auf 90 Grad und stellt dann fest, wenn er die Brille auf hat, ey, das sieht man ja nicht schlecht. Und das sage ich, das habe ich euch vorneweg gesagt, macht nicht auf 90 Grad, sondern auf 85 Grad. Halt solche Kommunikationsprobleme sind das eben, wo ich sage, das ist für mich klar, ist vielleicht auch ab und zu die Betriebsblindheit und das Team sagt, mach es doch lieber so. Und halt eben, ich sage jetzt mal auch, dass jemand sagt, in der ersten Iteration, okay, ich möchte alles grün haben, in der nächsten ist es gelb und dann kommt man irgendwann nach einem halben Jahr wieder zurück, ach, ich mache doch lieber alles wieder grün, das sah ja besser aus.
+
+17:55 --> 18:06
+
+I: Ja, alles klar. * Okay, dann das wäre quasi der zweite Teil gewesen. * Ich glaube, ich habe da auch alles. Ja. * Okay, dann zum dritten Teil, da bleiben wir ein bisschen bei den Problemen, aber quasi ein bisschen allgemeiner und zwar wäre so die erste Frage, hast du schon mal ein Projekt abbrechen müssen?
+
+18:28 --> 18:39
+
+B: Ein Projekt abbrechen müssen, abbrechen im Sinne von wir werfen es weg oder im Sinne von wir benutzen die Hälfte und machen was Neues draus?
+
+18:39 --> 18:44
+
+I: Das ist eine gute Frage (lacht)
+
+18:44 --> 19:00
+
+B: (lacht) Also ich sage jetzt mal, komplett abbrechen, ja, ein, zwei Projekte komplett abbrechen. Hing aber eher damit zusammen, dass die Erwartungshaltung des, ich sage jetzt mal in Anführungszeichen, des Kunden anders war als das, was technisch möglich ist.
+
+19:00 --> 19:12
+
+I: Okay. * Und das andere, also wenn du jetzt den anderen Fall mit, ja, man benutzt die Hälfte, macht was Neues draus, ansprichst, dann nehme ich an, dass der ja auch schon vorkam.
+
+19:12 --> 19:40
+
+B: Ja, also das kommt tatsächlich öfters vor. Also ich sage jetzt mal, wir programmieren/ also ich programmiere mim Team für verschiedene VR-Systeme, klassisch mit Brille und dann hieß es, ja, scheiße, Brille ist doof, lass uns das doch lieber im Browser machen. Dann sage ich, okay, dann nehme ich halt mein die Hälfte meines Codes, was für die Brille funktioniert, funktioniert auch im Browser, ist quasi das Brillenprojekt abgebrochen und dafür ist es dann die Browser-Variante geworden.
+
+19:40 --> 19:53
+
+I: Okay. Das sind dann ja quasi eher Entscheidungen von außen 
+
+B: ja
+
+I: oder Umstände von außen, also gibt es Projekte/ ja?
+
+19:53 --> 20:12
+
+B: Genau, also die Umstände zum Beispiel, ich sage jetzt mal, wir hatten mit Corona das Problem, dass wir halt nicht jedem ne Brille aufsetzen konnten, dass die Leute nicht hier in die Uni durften. Was heißt, wir setzen die Leute vorm eigenen Rechner, machen das browserkompatibel, funktioniert auch, ist aber halt eben Abbruch in Anführungszeichen gewesen.
+
+20:12 --> 20:35
+
+I: Okay. Genau, also gab es, abgesehen davon gab es schon Projekte, die durch Probleme im Prozess selbst abgebrochen oder auch lange verzögert wurden, also wo du quasi nicht vorangekommen bist aus irgendwelchen Gründen?
+
+20:35 --> 21:06
+
+B: Ja, meistens Zuarbeiten, also ich sage jetzt mal, oft Zuarbeiten von anderen Leuten, also wenn es heißt, es muss eine Datenbank angebunden werden, wenn die Datenbank halt im Hintergrund nicht steht, kann man zwar anfangen zu programmieren, die Schnittstellen zu machen, aber halt eben nicht dagegen testen. Das heißt, man wartet dann ein halbes Jahr darauf, bis zum Beispiel die Datenbank im Hintergrund steht, in der Zeit kann man vielleicht nicht viel anders machen, schiebt dann andere Projekte da rein und dann verzögert sich das entsprechend lange.
+
+21:06--> 21:10
+
+I: Okay, ja. * Moment, kurz Notizen * Okay. Hattest du beim Programmieren selbst schon mal so eine Art Blackout, also dass du vor dem Code saßt und so, okay, wie geht es jetzt weiter oder ist das alles so routiniert, dass sowas gar nicht vorkommt?
+
+21:47 --> 22:14
+
+B: Ne, also tatsächlich, ich arbeite seither an anderen Projekten, da kann ich nicht näher ins Detail reingehen, aber auch da ist es halt so gewesen, nach 16 Stunden vor dem Code sitzen, halt größer kleiner als Zeichen einfach verdreht und man sitzt davor, warum funktioniert dieser Mist nicht? Und da helfen auch keine drei Kaffees, sondern dann musste halt noch mal jemand anderes mal mit drüber schauen und der hat, ach guck, da hast du das Zeichen vergessen und schon hat alles anders funktioniert.
+
+22:14 --> 22:33
+
+I: Okay, also wäre jetzt die nächste Frage nach, wie wurde das Problem gelöst, auch direkt mit beantwortet. * Genau, aber abgesehen von Bugs und von so Fehlern in der Logik eher nicht so.
+
+22:33 --> 23:13
+
+B: Eher nicht so, also liegt vielleicht daran, vielleicht an meinem, ich nenne es Stil (schmunzelt), eher, dass ich dann relativ zügig anfange Handbücher und Google zu fragen, wenn irgendwas nicht klappt und dann landet man auf die vielen Unterseiten da von Stack Overflow und GitHub und ja, irgendwann ist man dann wieder bei Wikipedia rausgekommen. Also ich sage jetzt mal, so richtig Blackout, dass gar nichts mehr funktioniert * also ich kann mich nicht erinnern. Ist vielleicht diese Blackout-Funktion, aber ja, also die Lösung ist meistens Google und zur Not dann eben, ich sag jetzt mal, unsere professionellen Programmierer.
+
+23:13 --> 23:30
+
+I: Okay, alles klar. Als Wissenschaftler hast du ja auch schon mal den einen oder anderen Text geschrieben. Hattest du schon mal eine Schreibblockade?
+
+23:30 --> 23:36
+
+B: Schreibblockade im Sinne, man hat keine Lust seine Arbeit fertig zu schreiben?
+
+23:36 --> 23:40
+
+I: Das geht oft damit einher.
+
+23:40 --> 24:02
+
+B: (lacht) Also ich sage mal so, ich kann jetzt nicht sagen, dass ich das wahrgenommen habe als Schreibblockade, sagen wirs mal so, also * ich würde jetzt weder Ja noch Nein sagen wollen zu dieser Sache. Also dass man jetzt mal, ich sage jetzt mal, keine fünf Wochen Lust hat mal seine Arbeit zu schreiben oder ne Dokumentation zu schreiben, würd ich nicht als Schreibblockade nehmen, sondern man muss sich einfach durchbeißen.
+
+24:02 --> 24:15
+
+I: Okay, ja gut. Dann parallel dazu wäre jetzt die Frage, ob du denkst, dass du schon mal eine Programmierblockade in dem Sinne hattest, aber wenn du keine Schreibblockade hattest...
+
+24:15 --> 24:26
+
+B: Also sag mal so, wie gesagt, ich kann weder Ja noch Nein dazu sagen, weil ich nicht weiß, wie sich sowas anfühlt oder * ja.
+
+24:26 --> 24:36
+
+I: Alles klar, gut. Ja, dann war es das auch schon mit Teil 3. 
+
+B: Juhui
+
+I: Möchtest du von deiner Seite irgendwas hinzufügen?
+
+24:36 --> 24:57
+
+B: Ja, was ich hinzufügen möchte, also du hast am Anfang gefragt, ich bin ja kein professioneller Programmierer, arbeite halt mit Professionellen zusammen und gerade aktuell im Projekt merkt man es halt einfach von meinem Programmierstil. Das es halt, ich sag mal, fast grundlegend anders, als was die gelernten Programmierer können.
+
+24:57 --> 25:02
+
+I: Okay, was sind so die Unterschiede, die du wahrnimmst, wenn ich fragen darf?
+
+25:02 --> 25:31
+
+B: Also die Unterschiede, die ich da wirklich wahrnehme, ist, ich sag jetzt mal, ich bin relativ zügig dabei, eine Funktion 3-4 mal zu kopieren und einfach nur die Parameter anders einzustellen. Und meine Kollegen, die das halt öfters/ die das gelernt haben, die schreiben halt von Anfang an so eine Funktion, dass die wirklich nur einmal geschrieben werden muss und nicht halt dieses typische Copy-Paste im Code vorkommt.
+
+25:31 --> 25:44
+
+I: Okay. * Und das nehme ich an vereinfacht den Prozess dann einfach.
+
+25:44 --> 25:47
+
+B: Ja.
+
+25:47 --> 25:56
+
+I: Okay, alles klar. Gut, dann, wenn du möchtest, kann ich dir noch ein bisschen was darüber erzählen, worum es denn eigentlich geht.
+
+25:56 --> 26:01
+
+B: Genau. Das wäre mir ganz lieb, also wenn du mir das erzählen würdest.
+
+26:01 --> 26:47
+
+I: Genau. Ja, ich wollte es jetzt halt nicht vorwegnehmen, weil, also tatsächlich, ich habe so ein bisschen in meinem Bachelor mich mit Schreibprozessforschung befasst. Und mein Ziel aktuell für meine Arbeit hier ist es, quasi die Theorie von da aufs Programmieren zu übertragen. Deswegen auch die Frage nach den Schreibblockaden. Und also die Grundfrage ist, gibt es sowas wie Programmierblockaden überhaupt? Und lässt sich das mit Schreibblockaden quasi vergleichen? Und ich versuche da die Prozesse so ein bisschen zu vergleichen, was da ähnlich ist. Deswegen frage ich nach den Programmierprozessen, um da so ein bisschen eine Grundlage dafür zu bekommen, wie denn Programmierer überhaupt programmieren.
+
+26:47 --> 26:59
+
+B: (lacht) Aha, okay. Also, cool. Also, ist eine interessante Theorie.

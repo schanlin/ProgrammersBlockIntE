@@ -1,0 +1,477 @@
+00:00 --> 00:06
+
+I: Hier läuft auch. Okay. Bist du damit einverstanden, dass das Gespräch aufgezeichnet wird?
+
+00:06 --> 00:08
+
+B: Ja, ich bin damit einverstanden.
+
+00:08 --> 00:21
+
+I: Sehr gut. Dann das Interview hat drei Teile. Der erste Teil, den wirst du kennen, das ist der Fragebogen zur Programmiererfahrung.
+
+00:21 --> 00:22
+
+B: Okay.
+
+00:22 --> 00:27
+
+I: Dann können wir den einfach kurz durchgehen. Erste Frage ist, wie alt bist du?
+
+00:30 --> 00:33
+
+B: Schwierige Frage, 32.
+
+00:33 --> 00:36
+
+I: Ich habe nicht gefragt, ist Duzen überhaupt okay?
+
+00:36 --> 00:37
+
+B: Ja, ist okay.
+
+00:37 --> 00:43
+
+I: Okay, gut. Wie viele Jahre programmierst du insgesamt schon?
+
+00:43 --> 00:47
+
+B: 17 Jahre.
+
+00:47 --> 00:57
+
+I: Wie viele Jahre davon in Ausbildung? * Falls es eine formale Ausbildung überhaupt gab.
+
+00:57 --> 01:07
+
+B: Ich habe angefangen vor zwölf Jahren mit der offiziellen Ausbildung. Und die war dann fünf Jahre später abgeschlossen.
+
+01:07 --> 01:11
+
+I: Also fünf Jahre. Und das war Uni, einfach Studium?
+
+01:11 --> 01:16
+
+B: Genau, Studium.
+
+01:16 --> 01:21
+
+I: Seit wie vielen Jahren programmierst du professionell?
+
+01:21 --> 01:24
+
+B: Ich habe während der Uni-Zeit schon angefangen. Und dann die drei Jahre danach komplett professionell. Und dann wieder zur Forschung gewechselt, wo ich es nicht mehr komplett Vollzeit mache.
+
+01:33 --> 01:35
+
+I: Okay.
+
+01:35 --> 01:41
+
+B: Also ich würde sagen, vier Jahre wirklich Vollzeit, professionell. Und seitdem mehr oder weniger nur noch nebenbei.
+
+01:41 --> 01:46
+
+I: Okay. Programmierst du auch noch privat für dich oder nur für die Uni?
+
+01:46 --> 01:49
+
+B: Ja.
+
+01:49 --> 02:03
+
+I: Genau, also wie groß sind oder waren deine professionellen Projekte üblicherweise Also klein ist unter 900 Codezeilen, mittel ist 900 bis 40.000 Codezeilen und groß über 40.000 Codezeilen.
+
+02:03 --> 02:06
+
+B: Also von mittel bis groß war alles dabei.
+
+02:06 --> 02:20
+
+I: Okay. * Mittel bis groß. * Auf einer Skala von eins bis zehn. Eins ist sehr unerfahren, zehn ist sehr erfahren. Wie hoch würdest du deine eigene Programmiererfahrung einschätzen?
+
+02:20 --> 02:26
+
+B: Ich würde sagen sechs.
+
+02:26 --> 02:39
+
+I: Okay. Auf einer Skala von eins bis fünf. Wie hoch schätzt du deine Programmiererfahrung im Vergleich mit Experten mit 20 Jahren praktischer, professioneller Erfahrung ein?
+
+02:39 --> 02:41
+
+B: wie vielen Jahren?
+
+02:41 --> 02:42
+
+I: Zwanzig.
+
+02:42 --> 02:45
+
+B: Dann wahrscheinlich zwei.
+
+03:02 --> 03:10
+
+I: Auf einer Skala von eins bis fünf. Wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen, deinen Peers gerade ein?
+
+03:10 --> 03:12
+
+B: Wahrscheinlich drei.
+
+03:12 --> 03:23
+
+I: Drei. * Wie viele Programmiersprachen kennst du, wo du deine eigene Programmiererfahrung bei drei oder höher einschätzen würdest und welche sind das?
+
+03:23 --> 03:30
+
+B: Dann zählen wir mal durch. Also Java, JavaScript, C-Sharp, Python. * Das sind, denke ich, die, wo ich drei oder höher sagen würde. Also vier.
+
+03:34 --> 03:50
+
+I: C-Sharp, Python, vier. Ja. * Okay. Wie erfahren bist du mit den folgenden Programmierparadigmen, wieder auf einer Skala von eins bis fünf jeweils? Funktionale Programmierung?
+
+03:50 --> 03:55
+
+B: Zwei.
+
+03:55 --> 03:57
+
+I: Imperative Programmierung?
+
+03:57 --> 04:00
+
+B: Vier.
+
+04:00 --> 04:02
+
+I: Logische Programmierung?
+
+04:02 --> 04:05
+
+B: Eins (lacht)
+
+04:05 --> 04:08
+
+I: Und objektorientierte Programmierung?
+
+04:08 --> 04:09
+
+B: Vier.
+
+04:09 --> 04:11
+
+I: Okay. Dann haben wir den schon. Gut. Dann habe ich hier den falschen Zettel offen. * So. Okay. Entschuldigung nochmal.
+
+04:27 --> 04:29
+
+B: Alles gut. Ganz entspannt.
+
+04:29 --> 04:59
+
+I: Okay. Also der zweite Teil, da soll es um deinen Programmierprozess gehen. Und zwar wollte ich dich dafür darum bitten, dass du mir einfach über ein einigermaßen aktuelles Projekt von dir was erzählst. Also das kann vor kurzem abgeschlossen oder noch in Arbeit sich befinden sein, kann privat sein oder jetzt für die Arbeit. Einfach so ein bisschen so von Anfang bis Ende, so ein bisschen wie du da vorgegangen bist.
+
+04:59 --> 07:38
+
+B: Okay. Gut. Also vielleicht zum Hintergrund. Während des Studiums habe ich mit zwei Freunden eine Webseite gestartet, was im Laufe der Jahre immer komplexer wurde, wo Leute, sagen wir mal, Inhalte/ war im Prinzip Anfang mal ein Blog mit technischen Inhalten, wo Leute lernen konnten. Und daran gab es ein relativ großes Interesse, wo wir dann irgendwann entschieden haben, dass es noch zusätzliche Premium-Inhalte geben kann, wo Leute dann bezahlen für. Dann können sie sich, sagen wir mal, einschreiben oder irgendwie so ein (?)-Coaching machen. Und dieses Projekt ist halt in die Jahre gekommen. Wir sind aktuell dabei, das wieder neu aufzubauen, weil einfach die Technik so weit veraltet ist mittlerweile, dass da auch keiner mehr dran wirklich arbeiten möchte. Daher fangen wir sozusagen von Null an, vom Programmieren selber, aber haben sozusagen schon eine gewisse Vorstellung, was wir machen wollen. Das heißt aktuell/ oder wir hatten vor kurzem, sagen wir mal, das Treffen, wo wir uns überlegt haben, okay, was wollen wir alles umsetzen? Also wir haben gewisse/ wir sind sozusagen Features durchgegangen, wo wir sagen, okay, was gibt es bisher und was wollen wir in der Zukunft haben? Oder was braucht man noch? Was ist noch aktuell? Und sozusagen nach und nach durchgegangen, einfach ganz grob, was braucht man wirklich an Features noch?
+
+Und dann ging es sozusagen in die einzelnen Features rein. Bei uns war es dann halt so, wir haben es aufgeteilt, wer macht so was. Eine gewisse Basis haben wir schon. Und dann sind wir durchgegangen, okay, für jedes Feature, wie genau wollen wir das umsetzen? Wie interagieren die vielleicht miteinander? Zum Beispiel, wenn du sagst, du hast ein Mitglied, das muss halt ne Subscription haben, das muss halt irgendwie einen Bezahlprozess machen können, damit sie gewisse Inhalte abrufen können. 
+
+Genau, und dann ging es sozusagen an die Implementation, wo wir dann, nachdem wir abgesprochen haben, was wir machen wollen, wie wir es machen wollen, dass man tatsächlich das dann implementiert. Und ich bin jemand, der gerne es umsetzt und danach den Testcode schreibt. Das machen andere anders, aber ich fand das Testen zuerst immer umständlicher. Und dann, wenn ich zufrieden war, also ich habe mein Feature implementiert, ich habe es getestet, ich war zufrieden, dann ging es sozusagen an einen der anderen beiden. 
+
+Die haben dann ein Review gemacht, was an Codequalität, also ist der Code verständlich, in die Richtung geht, als auch das Testen insgesamt mit dem gesamten System, also passt das im Großen und Ganzen. Genau, und das ist noch nicht komplett fertig, also es ist jetzt noch nicht wieder öffentlich, aber das ist so aktuell der Prozess, den wir immer durchlaufen.
+
+07:38 --> 07:52
+
+I: Okay, also quasi grobe Planung, was will man haben, was kann man noch benutzen, und dann genauere Planung der einzelnen Feature, Implementierung, Review. So die grobe Struktur.
+
+07:52 --> 07:54
+
+B: Genau, ja.
+
+07:54 --> 07:59
+
+I: Genau, und das lief auch so mehr oder weniger linear?
+
+07:59 --> 08:01
+
+B: Ja, würde ich sagen.
+
+08:01 --> 08:09
+
+I: Okay, und bei der Implementation selbst, also die Features, also war dann nochmal viel Planung vorab für das, was du dann coden willst, oder hast du eher so drauf losgecodet?
+
+08:14 --> 09:01
+
+B: Naja, also man muss sagen, in diesem Projekt habe ich natürlich eine gewisse Vorlage, weil es existierte ja schon mal. Ist ja auch anders, wenn man sagt, man hat ein komplett neues Projekt, wo man vielleicht ein Feature implementieren muss, wo man noch nicht weiß, wie genau das funktioniert. Ich mache es in der Regel so, dass ich, wenn ich mich an die Implementation setze, ich zuerst mal im Prinzip in Kommentaren sage, okay, ich brauche das, das und das, ganz high level, und dann ich mich erst an die Konkrete der Implementation, zum Beispiel der Funktion, mich setze.
+
+Und dann sage ich, okay, ich habe halt diesen Schritt implementiert, ich habe diesen Schritt implementiert, ich habe diesen Schritt implementiert, und gehe sozusagen vom ganz groben Plan, auch wenn es bloß um ein Feature geht, oder von mir ist es auch bloß eine Methode, dann erst ins Detail.
+
+09:01 --> 09:06
+
+I: Okay, also in Kommentaren einen Plan machen und dann vom Groben ins Detail.
+
+09:06 --> 09:23
+
+B: Genau. Muss jetzt nicht unbedingt ein Kommentar sein, manchmal mache ich das auf Papier oder so, wenn es mal ein bisschen komplexer ist, aber im Prinzip mache ich mir in Gedanken oder von mir ist auch schriftlich irgendwie einen großen Plan, und dann gehe ich erst an die Tastatur und schreibe wirklich das auf.
+
+09:23 --> 09:27
+
+I: Okay, aber verhältnismäßig oft auch schriftlich, oder?
+
+09:27 --> 09:39
+
+B: Ja, also wenn ich es schriftlich mache, dann manchmal auch so mit Pfeilen, wenn es da mal eine gewisse Abhängigkeit/ genau. Also ich mag es ganz gern, oder zumindest hilft es mir beim Denken, wenn ich irgendwie zuerst mal auf Papier was aufmale.
+
+09:39 --> 09:41
+
+I: Irgendeine Visualisierung einfach.
+
+09:41 --> 10:07
+
+B: Genau. Also jetzt nicht formal, sondern einfach mehr in meinen Gedanken, aber für mich hilft das dann. Also ich habe das Gefühl, wenn ich am Anfang Zeit in die Planung stecke, dass ich dann in Implementation schneller bin, als wenn ich, sag mal, direkt mich direkt an die Tastatur setze und irgendwie die ersten Zeilen Code schreibe und dann nach der Hälfte merke, ah, ich habe irgendwie Schritt XY vergessen am Anfang, den ich irgendwie machen hätte können, der mir das vereinfacht.
+
+10:07 --> 10:23
+
+I: Okay, und dann ist das dadurch auch/ also du sagst, du testest aber trotzdem erst nachher, also musst du dann oft quasi überarbeiten, also gibt es dann viele Iterationen, oder geht das dann meistens relativ gut direkt?
+
+10:23 --> 11:13
+
+B: Es geht. Also was mir öfters passiert, dass ich irgendwelche Randfälle, wo ich dann, wenn ich Testcode schreibe, wirklich spezifisch darauf achte. Also angenommen, ich habe einen Login und habe vielleicht nicht darauf geachtet, dass jemand irgendwie ein leeres Passwort oder so eingeben könnte oder ein extrem langes oder sowas. So Randfälle fallen mir dann erst auf, wenn ich den konkreten Testcode schreibe. Die Funktion an sich funktioniert dann aber meistens ganz gut. Also ich würde vielleicht noch unterscheiden zwischen, ich schreibe den Code, teste informell selber für mich, also in dem Fall klicke vielleicht durch, funktioniert es wie ich da/ und dann schreibe ich richtige Testfälle, also Unit-Tests oder sowas in der Art, die dann alle Fälle abdecken. Und da kommt dann öfters mal, dass ich doch noch was entdecke, wo ich sage, ah, hier diesen Fall habe ich vielleicht übersehen am Anfang.
+
+11:13 --> 11:20
+
+I: Okay, und vielleicht eine Ebene abstrakter, so in der Architektur, da verändert sich dann nicht mehr viel, weil der Plan steht ja, oder?
+
+11:20 --> 12:11
+
+B: In diesem Fall selten. Wenn ich jetzt mal weiter zurückdenke in den großen Projekten, in den Industrieprojekten, da gibt es natürlich dann schon ab und zu mal, wo man/ oder ein Fall, wo man dann irgendwie merkt, okay, von der Architektur passt ja irgendwie was nicht.
+
+Also ich kann mich zum Beispiel daran erinnern, wo wir ein sehr großes Projekt hatten, wo sehr viele Nutzer drauf arbeiten sollten, wo wir dann gemerkt haben, dass als es zum Testen ging, dass okay, das funktioniert mit 10, 100, vielleicht auch noch 500 Nutzern, aber das Projekt war halt darauf aufzusehen, dass es halt viele Tausender sind, die gleichzeitig drauf arbeiten, wo es dann Performance-Probleme gab. Das war jetzt bei dem kleinen jetzt nicht der Fall, aber das sind, sagen wir mal, Sachen, die schwieriger vorherzusagen sind, insbesondere wie diese Performance eines Systems aussieht.
+
+12:11 --> 12:25
+
+I: Okay, und du sagst, das war jetzt ein einigermaßen spezieller Fall, dadurch, dass die alte Website halt schon vorhanden war, unterscheidet sich/ also ist der Prozess dann sehr anders von deinem üblichen Prozess gewesen, oder?
+
+12:25 --> 13:21
+
+B: Kommt drauf an. Also in diesem Fall war der Vorteil, dass ich Kunde bin und sozusagen Entwickler. Also ich kenne sozusagen beide Seiten aus meiner/ wenn ich zurückdenke an die professionelle Zeit, wo ich, sagen wir mal, jemand anderes der Kunde war. Was ich immer als Schwierigstes empfunden habe, ist, dass wenn Kunden sich nicht selber sicher waren, was sie genau wollten, und sich sozusagen während der Entwicklung herausgestellt hat, dass sie doch was anderes haben wollten. Also wenn sich, sagen wir mal, die Anforderungen vom Kunden geändert haben, weil sie sich vielleicht am Anfang noch nicht vorstellen konnten, was sie genau haben wollten. Und dann kommt man halt in diese Schleife, die sehr aufwendig sein kann. Also du sagst, du hast schon eine gewisse Implementation. Du sagst, hier ist eine Demonstration. Und dann sagen, ja, eigentlich haben wir halt dann doch viel mehr Kunden, die irgendwie drauf zugreifen wollen, und dann geht die Performance müssen wir jetzt anpassen. Und dann schlägt sich halt das gesamte Projekt aus. Und das kann nervig sein, ja.
+
+13:21 --> 13:23
+
+I: Okay.
+
+13:23 --> 13:31
+
+B: Aber das ist manchmal auch als Entwickler sehr, sehr schwierig zu managen. Weil wenn du das vorher nicht weißt, ja, was soll man machen?
+
+13:31 --> 13:47
+
+I: Ja, würdest du dann auch sagen, dass es dann einfach, weil Änderungen vornehmen, ist halt, weil das einfach mehr Aufwand ist, ist das ärgerlich? Oder ist das auch irgendwie so Kopfsache? So jetzt hat man das andere/  Oder ist es schwer, das anzupassen?
+
+13:47 --> 14:46
+
+B: Beides. Also * ich meine, kommt halt auf den Fall drauf an. Aber ich fand es immer sehr nervig, wenn Kunden gefühlt sich erst während des bereits laufenden Prozesses Gedanken gemacht haben, was sie genau haben wollten. Und ich habe es immer als nervig empfunden, wenn ich, sagen wir mal, Wochen in ein Feature, sagen wir mal, gesteckt habe, und dann ist das fertig, oder aus meiner Sicht nah dran, fertig zu sein, und dann wird, ja, eigentlich haben wir uns das anders vorgestellt.
+
+Weil sagen, okay, ich habe jetzt irgendwie zwei Wochen meines Lebens irgendwie hier reingesteckt, und dann stellt sich heraus, das kann man so nicht nutzen, oder man muss es doch nochmal umbauen. Und man hat das Gefühl, man hätte von vornherein es besser machen können, wenn man es wusste. Es gibt ja einen Grund, dass ich nach drei Jahren gesagt habe, ich mache keine Vollzeitprogrammierung mehr, sondern gehe in die Wissenschaft und bin da, sagen wir mal, mehr mein eigener Chef als in Kundenprojekten.
+
+14:46 --> 14:55
+
+I: Okay. Ja. Ist das jetzt, die Webseite, gilt das für dich als privates Projekt?
+
+14:55 --> 15:00
+
+B: Also, wir verdienen Geld damit. Das ist eine GbR. Aber es ist für mich ein privates Projekt. Also, es hat jetzt mit meiner Beschäftigung als Unimitarbeiter nichts zu tun.
+
+15:04 --> 15:19
+
+I: Also, es geht mehr darum, wie du es für dich wahrnimmst. Also, es wär quasi die Frage, unterscheidet sich dein Prozess bei Projekten, die du nur für dich schreibst, ist das anders, als wenn du was für den Job ist, oder halt hier für mehr für außen?
+
+15:19 --> 15:44
+
+B: Also, von der reinen Implementation würde ich wahrscheinlich sagen, nicht. Der erste Schritt ist, denke ich, unterschiedlich. Also, die Anforderungen. Ich sage mal, ich bin mir schon klar, was ich haben möchte. Wenn die Anforderungen extern kommen oder von mir ist auch vom Chef oder intern vom Unternehmen, wenn man in einem großen Unternehmen ist, aber wer auch immer der Kunde ist, das beeinflusst halt schon, wie sauber das Projekt durchläuft.
+
+15:44 --> 15:51
+
+I: Aber privat, deine eigenen Vorstellungen, die ändern sich für gewöhnlich nicht, also, die ändern sich nie in der Hälfte des Projekts oder so?
+
+15:51 --> 17:02
+
+B: Na, nie würde ich nie/ nicht sagen. Es kommt halt auf das Projekt an. Also, hier in dem Fall wusste man ja schon relativ genau, was wir haben wollten. Wenn ich jetzt an meine wissenschaftliche Arbeit denke, wo ich sage, okay, ich habe irgendwie einen Datensatz, den ich auswerten möchte, und ich habe ein gewisses Ziel in Richtung Forschungsfrage, die ich auswerten will, dann schreibe ich das runter, und dann merkt man irgendwie, ach, guck mal, hier ist mir das aufgefallen, das könnte ich auch noch machen. Was aber in eine ganz andere Richtung geht, was irgendwie die Daten von ganz anderen Winkeln sich anschaut. Gut, dann ändert sich halt das auch. Also, das passiert schon. 
+
+Das finde ich aber halt nicht als nervenaufreibend, weil das für mich eine sinnvolle Investition ist. Weil ich sage, okay, das hat sich halt im Laufe des Projekts, wo man gewisses Wissen ansammelt, gewisse Informationen dynamisch dann entwickelt. Das ist halt für mich anders, als wenn man irgendwie die Situation hat, hey, das hätte ich von Anfang an besser machen können, wenn ich halt mal die Informationen gehabt/ * in diesem Moment schon haben könnte. Das gibt es natürlich nicht immer. Dass man im Laufe eines Prozesses irgendwie Neuigkeiten dazu lernt, ist das für mich okay.
+
+17:02 --> 17:08
+
+I: Okay. Gut, dann das war Teil zwei. Danke.
+
+17:08 --> 17:09
+
+B: Okay.
+
+17:09 --> 17:33
+
+I: Genau, dann haben wir noch einen dritten Teil. Da geht es eher um Probleme im Prozess. Und einmal möchte ich direkt so das Extrembeispiel abfragen quasi. Hast du schon mal Programmierprojekte abgebrochen, wegen Problemen im Prozess? Das heißt vielleicht nicht mangelnde Finanzierung oder so, sondern...
+
+17:33 --> 17:35
+
+B: Was versteht sich unter abgebrochen? Also, im Sinne, dass ich aus dem Team raus bin, oder dass ich sage, das komplette Projekt ist für mich gestorben?
+
+17:41 --> 17:43
+
+I: Eher letzteres.
+
+17:43 --> 18:04
+
+B: Okay. Naja, in gewisser Weise, wenn ich jetzt an die alte Webseite denke, dann haben wir das abgebrochen, weil wir gesagt haben, die Technik ist so veraltet, dass wir damit nicht mehr arbeiten wollen. Wir wollen sozusagen neu anfangen. * Andere Fälle? Komplett abgebrochen.
+
+18:04 --> 18:13
+
+I: Sonst, wenn komplett abgebrochen eher nichts ist, dann vielleicht gibt es Projekte, die sich einfach lange verzögert haben? Also, merkbar?
+
+18:13 --> 18:31
+
+B: Ja, das gab es öfters, ja. Und da würde ich halt auch sagen, in vieler Hinsicht, weil einfach gewisse Anforderungen nicht klar waren oder sich stark verändert haben im Laufe der Arbeit. * Ja.
+
+18:31 --> 18:36
+
+I: Okay. Und wie geht man mit diesem Problem dann um?
+
+18:36 --> 19:06
+
+B: Na gut, das kommt drauf an. (lacht) In der Arbeit ist eine gewisse Art eine Frage der Finanzierung. Das war für mich immer/ Also ich war in der Unternehmensberatung tätig. Das heißt, für mich muss sozusagen jede Stunde bezahlt werden. Und wenn nach einem Monat klar stand, dass ich noch einen Monat brauche, obwohl das vorher nicht abgesprochen war, dann war halt die Frage, okay, wer bezahlt das jetzt und warum ist die Extrazeit entstanden. * Was war nochmal die Frage?
+
+19:06 --> 19:21
+
+I: Genau, also bei Projekten, die sich halt lange verzögert haben oder so, wo der Prozess sich lange verzögert hat, was war denn, also wo du meintest, es hauptsächlich durch/ also du hast jetzt hauptsächlich, wenn die Anforderungen nicht klar sind oder sich ändern, wie man damit dann umgeht?
+
+19:21 --> 20:04
+
+B: Ah ja, genau. Genau, also Finanzierung war eines. Angenommen das wär jetzt kein Problem, man hat gesagt, okay, man implementiert es halt neu oder ändert, dann muss man das halt machen. Also am Ende, ich bin relativ pragmatisch, sage, okay, dann müssen wir es halt wieder probieren. Und ich sage mal, für mich war immer so ein bisschen die Frage, kann man es vielleicht vermeiden, dass es wieder geschieht? Also kann man irgendwie sich vorher Gedanken machen, was genau die Anforderungen sind? Muss man spezifischer nachfragen beim Kunden? Kann man vielleicht zuerst einen Prototypen machen oder sowas? Also ich versuche dann immer so ein bisschen was rauszuziehen aus einem Problemfall, der aufgetreten ist, auch wenn das aber nicht immer funktioniert.
+
+20:04 --> 20:07
+
+I: Okay.
+
+20:07 --> 20:20
+
+B: Aber wie gesagt, ich fand es immer, man muss es halt am Ende dann noch machen, ist okay. Aber nervig ist es schon. Und wenn es halt zu oft geschieht, dann sagt man sich auch, ja, was mache ich eigentlich?
+
+20:20 --> 20:23
+
+I: Ja, also wenn jetzt so ein/ keine Ahnung, ein privates Projekt hättest du schon längst abgebrochen, oder?
+
+20:26\. --> 20:27
+
+B: Genau.
+
+20:27 --> 20:29
+
+I: Also wenn du die Wahl hättest so
+
+20:29 --> 20:31
+
+B: In dem Fall hatte ich halt nicht, weil es war halt mein Job.
+
+20:31 --> 20:35
+
+I: Ja, klar. * Okay. Gibt es Momente, wo du aber einfach / also, beim Projekt einfach nicht vorangekommen bist, aus anderen Gründen?
+
+20:51 --> 21:56
+
+B: Ja, ich sage mal, es gibt öfters mal, wo man sagt, ich habe technische Probleme oder technische Schwierigkeiten. Ich habe während des Studiums gerne Android programmiert, also Apps für Handys. Und damals, und wahrscheinlich auch wie heute, ist immer noch die/ eine der Herausforderungen, dass man sehr schnell die App implementieren kann, aber es ne enorme Bandbreite an Handys gibt, die alle etwas anders sind, die gewisse Funktionen anders implementieren. Und dann hat man hat das Gefühl, okay, ich implementiere jetzt * ich kann das Bild aufnehmen und irgendwie an meine Community sharen oder sowas. Und das funktioniert. Man braucht einen Tag und hat das für 90% der Handys implementiert. Und dann braucht man noch zwei Wochen, um die anderen 10% anzudenken. Weil es einfach so eine Fragmentierung der Geräte und des Marktes gibt. Und das ist immer, was ich auch sehr nervig fande, wo man das Gefühl hat, dass mit ner besseren Android-Implementation, also vom Betriebssystem, das Problem nicht geben würde.
+
+21:56 --> 21:58
+
+I: Okay.
+
+21:58 --> 22:10
+
+B: Deshalb habe ich auch irgendwann Android-Programmierung aufgegeben. * Zumindest für als Job.
+
+22:10 --> 22:32
+
+I: Okay. Und vielleicht beim Coden selbst. * Also manche beschreiben es so, gab es schon mal den geistigen Blackout einfach. Du weißt eigentlich, was du machen willst. Du weißt eigentlich auch, dass du weißt, wie es funktioniert, aber dass du trotzdem einfach irgendwie nicht voran...
+
+22:32 --> 23:48
+
+B: Ja, klar, das gibt es, denke ich, für jeden Entwickler immer mal, wo man sagt, okay, man hat irgendwie eine Funktion geschrieben und die macht einfach nicht das, was sie soll. Man denkt, es sollte X tun, es tut aber XY. Und ich versuche dann in der Regel eine Pause zu machen, zu sagen, ich gehe mal irgendwie spazieren, irgendwie in den Park oder sowas, versuche ein bisschen Entfernung vom Projekt, von den Problemen zu bekommen. Und manchmal fällt einem dann abends ein, ach ja, ich habe irgendwie vergessen, dass da irgendwie Parallelität auftreten kann oder was auch immer. Also ich glaube, technische Probleme gibt es immer. Das ist immer Teil eines Programmierjobs, dass man sagt, okay, man löst halt technische Probleme. Das ist mir öfters passiert, ja. Aber in der Regel findet man irgendwann eine Lösung. Und wenn nicht, dann spricht man halt mit Kollegen und sagt, hey, guck mal, ich habe hier mir das und das und das gedacht, denk du mal mit. Und dann sagt er entweder, guck mal, du hast ja ganz offensichtlich hier was vergessen. Oder er sieht vielleicht das Problem auch nicht, denkt aber anders über das Problem und sagt, guck mal, du kannst ja irgendwie diesen Ansatz mal ausprobieren und mal so debuggen und schauen, was rauskommt. Also manchmal hilft es dann, mit anderen Leuten zu sprechen, die vielleicht ein bisschen anders denken.
+
+23:48 --> 24:09
+
+I: Okay. Dann letzte Frage. Also vielleicht denkst du, die Frage ist repetitiv, dann kannst du es ignorieren. Aber für die Formulierung einmal, denkst du, dass du schon mal eine Programmierblockade hattest?
+
+24:09 --> 24:11
+
+B: Ja, definitiv.
+
+24:11 --> 24:15
+
+I: Okay. Was würdest du darunter verstehen?
+
+24:15 --> 24:38
+
+B: Also für mich ist das, ich sag mal eine Blockade ist, wenn ich einen gewissen Schritt machen möchte, ich diesen aber nicht machen kann. Das kann sicherlich technischer Natur sein. Das kann vielleicht auch an anderen Problemen liegen. Wenn ich sage, okay, ich warte vielleicht auf jemand anders. Ich warte auf einen Kunden, ich warte auf einen Kollegen. Sicherlich das Frustrierendste ist, wenn es an mir selber liegt.
+
+24:38 --> 24:40
+
+I: Ja.
+
+24:40 --> 25:04
+
+B: Weil dann weiß ich, die Schuld liegt an mir und irgendwie kann ich hier gerade nicht das Problem denken oder warum auch immer. Dann verzweifelt man natürlich gerne mal ein bisschen und sagt argh, ich kriegs hier nicht raus. Aber wie schon gesagt, ich versuche dann wirklich bewusst, mich von dem Problem zu entfernen und dann vielleicht mit anderen Leuten sprechen. Dann findet man irgendwann eine Lösung. Hoffentlich.
+
+25:04 --> 25:14
+
+I: Alles klar. Okay, gut. Dann sind meine Fragen durch. Möchtest du dem noch irgendwas hinzufügen?
+
+25:14 --> 25:16
+
+B: Mir fällt gerade nichts ein.
+
+25:16 --> 25:17
+
+I: Okay. Gut, dann dankeschön.
+
+25:19 --> 25:22
+
+B: Gerne, gerne.
+
+25:22 --> 25:26
+
+I: Jetzt wäre quasi die Stelle, ich kann jetzt erklären, worum es theoretisch geht.
+
+25:26 --> 25:28
+
+B: Ja, schließ los.
+
+25:28 --> 25:52
+
+I: Genau. Ja, was ich versuche zu machen für meine Masterarbeit ist, ich gucke mir Theorie, die wir zu Schreibprozessen haben, an, also zu Schreibprozessen und Schreibblockaden und versuche das aufs Programmieren zu übertragen. Also quasi die Frage, lässt sich das überhaupt übertragen? Deswegen auch die ominöse Formulierung mit dem Blockaden. Das ist quasi der Gedanke, das zu vergleichen.
+
+25:52 --> 26:00
+
+B: Okay. Was ist so die Theorie zu den Blockaden?
+
+26:00 --> 26:51
+
+I: Oh, wie weit hole ich da jetzt aus? (lacht) Also Blockaden, also in der Schreibprozesswissenschaft, sehen wir vor allem den Schreibprozess an und dann können da verschiedene Blockaden, also verschiedenste Probleme im Schreibprozess auftreten. Und Blockaden, es gibt so ein paar größere, die man unterscheidet, die häufiger sind. Also häufig haben die mit der Konzeptbildung zu tun, dass halt entweder Leute fangen an, darauf loszuschreiben, ohne ein Konzept zu entwickeln oder haben ein löchriges Konzept und bleiben dadurch dann halt einfach irgendwann im Schreibprozess stecken, weil gar nicht das Bild vorhanden ist, wie der Text schlussendlich aussehen soll. Und das kann ich mir vorstellen, dass das beim Programmieren auch gibt.
+
+26:51 --> 26:54
+
+B: Ja, das klingt sehr * sehr nach manchen Leuten.
+
+26:54 --> 27:56
+
+I: Ja, es klingt jetzt beim Programmieren halt oft extern verursacht. Zum Beispiel, wie du erzählst. Von daher kann man vermutlich diskutieren, ob das wirklich eins zu eins vergleichbar ist. Aber naja, die Diskussion soll ja angestoßen werden quasi. Genau, und das andere ist halt, dass beim Formulieren der Perfektionismus zuschlägt. Das passiert ganz häufig. Aber ich glaube, da gibt es beim Programmieren Mechanismen und Tools, die das ein bisschen eher schon verhindern von Anfang an. Also einfach dadurch, dass man halt die Möglichkeit hat, dein Code, dein erster Adressat ist ja quasi die Maschine, die gibt dir sofort Feedback, ob das funktioniert, was du da geschrieben hast oder nicht. Während du halt beim Schreiben einen Text, da brauchst du erstmal einen Leser, der dann erstmal in der Lage ist, auch Feedback zu geben, um da quasi die Probleme zu finden.
+
+27:56 --> 278:47
+
+B: Wahrscheinlich gibt es beim Coden halt noch die objektive Schiene, wenn du sagst, du schreibst irgendwie eine Funktion, der Computer sagt, es funktioniert. Dann gibt es beim Code Review vielleicht manchmal noch die subjektive Schiene, wo dann der andere sagt, hey, guck mal, der Code, der funktioniert zwar, aber es ist unsauber. Oder ich hätte das anders gelöst. Und dann kann man halt in diese Streitigkeit gehen, na ja, okay, was ist jetzt wirklich besser? Aber ich vermute, beim Schreiben gibt es das wahrscheinlich auch, wenn ein Autor sagt, ich habe hier ein Buch geschrieben. Und wenn der Editor sagt, man müsste es irgendwie anders aufziehen oder der Charakter sollte, weiß nicht, eine große Nase haben, aber ich weiß auch nicht. Aber das ist halt nur subjektiv. Zumindest vermute ich mal, dass das nur subjektiv ist. Das ist vielleicht noch ein bisschen schwieriger, wenn man irgendwie nur Meinungsverschiedenheiten hat, wo es keine objektive Wahrheit gibt. Beim Code kann man ja sagen, hey, es funktioniert, worüber diskutieren wir hier?
+
+28:47 --> 28:49.000
+
+I: Genau. Genau, und das ist so. Und jetzt quasi mit dem Wissen, willst du da noch irgendwas dazufügen?
+
+29:00 --> 29:03
+
+B: Fällt mir jetzt auch gerade nichts ein, aber klingt spannend.

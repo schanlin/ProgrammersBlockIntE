@@ -1,0 +1,293 @@
+00:00 
+
+I: Seid ihr damit einverstanden, dass das Gespräch hier aufgezeichnet wird?
+
+00:09 
+
+B: Klar. Kein Problem.
+
+I2: Ja
+
+00:15 
+
+I: Das Interview hat jetzt noch zwei Teile. Normalerweise sage ich drei. Und in dem Teil jetzt, da soll es um deinen persönlichen Programmierprozess gehen. Und da würde ich dich gerne darum bitten, dass du mir einfach was über ein aktuelles Programmierprojekt von dir erzählst. Ob das jetzt vor kurzem abgeschlossen oder noch in Arbeit, ob von der Arbeit oder privat. Das ist egal. Einfach irgendwas, wo du mir so ein bisschen erklären kannst, wie du da vorgehst.
+
+00:38 
+
+B: Okay, ja. Also, das äh * weiß nicht, ob du das... Das ist auch auf GitHub, worum es da geht. Weiß nicht, ob das weiterhilft, ob du den Link dann noch haben willst dazu. Aber darum geht es wahrscheinlich gar nicht so sehr. Also, wie gehe ich da vor? Ich bin tatsächlich jemand, der die meiste Zeit irgendwie immer noch Konsole benutzt. Ich bin kein so großer IDE-User, also ich hab halt ein paar Shell-Fenster offen mit Editor und Command-Line und so weiter. Und das Projekt, das ich jetzt gerade/ Also, es sind zwei Projekte, an denen ich gerade aktuell noch arbeite. Das eine ist ein relativ großes Python-Projekt und das andere ist C++. Und ich denke mal, die meiste Zeit sieht es so aus, ich hab, wie gesagt, ein paar Shell-Fenster offen, eins für den Editor und dann noch ein paar zum Testen und Kompilieren, falls es um das C++-Projekt geht. Und parallel dazu dann auf dem anderen Screen, also eigentlich mach ich das immer mit zwei Screens, so und auf dem anderen hab ich dann halt Web-Browser offen mit Dokumentation.
+
+Und üblicherweise * Was brauch ich denn an Dokumentation? Also, es geht um/ Das Python-Projekt, das benutzt WebRTC, also genau das, was jetzt auch BigBlueButton benutzt. Das heißt, ich hab ganze Menge so Dokumentation zu Video-Streaming und so weiter eben üblicherweise im Browser offen. Und auch häufig genug Stack-Overflow oder die Mailing-Liste von G-Streamer, das ist die Library, die ich da halt benutze. Also, wenn man das alles from scratch machen würde, dann würde man nie fertig werden. Das heißt, fertige Library dringend nötig, und aber auch, selbst wenn du die Library hast, ist es immer noch fieselig genug. Das heißt, ich muss da auch öfter mal auf der Mailing-Liste irgendwas nachfragen. Und ja, ich denk mal, das wär so der Gesamtprozess oder die Tools, die ich da benutze üblicherweise.
+
+03:34 
+
+I: Ja, dann vielleicht ganz kurz... Also, magst du vielleicht ganz kurz was so zum Projekt sagen, was es ist, das ich einordnen kann?
+
+03:44 
+
+B: Das sind eigentlich zwei Komponenten, die mehr oder weniger zum selben Projekt gehören. Das eine ist, das was in C++ geschrieben ist, das ist so eine Video-Processing-Anwendung, die halt von diversesten Kamera-Quellen Video holen kann und das dann halt noch so ein bisschen nachbearbeiten und insbesondere Hintergrund rausfiltern. Das ist nicht exakt das, was jetzt hier läuft, aber sehr ähnlich. Das ist eher dafür gedacht, dass die Kamera von oben auf nen Tisch guckt und dann da sozusagen die Tischplatte rausfiltert.
+
+Und das Projekt insgesamt ist eben mit dem Video-Streaming ist dafür gedacht, dass du mehrere solche, sagen wir mal, interaktiven Tische zusammen vernetzt und halt das Video, das jeder von den Tischen einzeln liefert, wird zu nem Server gestreamt. Der Server mixt das dann und stapelt die Video-Streams sozusagen übereinander und schickt's dann wieder zurück an die einzelnen Tische, sodass man dann sehen kann, was andere Leute an anderen Orten sozusagen auf diesen Tischen machen. Das ist so das Grundkonzept.
+
+Und dann den sozusagen den performance-kritischen Teil, der ist halt in C++ geschrieben
+
+und alles, was das Streaming angeht und so weiter, das ist in Python geschrieben, weil diese Library, dieses G-Streamer, da muss man halt irgendwie unendlich viele Komponenten miteinander verknüpfen und das geht in Python mit, ich würde spontan sagen, mit einem Drittel von der Codemenge, als es in C++ oder so gehen würde. Darum habe ich das dann aufgesplittet, weil es sonst irgendwie völlig unüberschaubar werden würde.
+
+05:46 
+
+I: Und das ist ein Forschungsprojekt, oder?
+
+05:48 
+
+B: Ja.
+
+05:52 
+
+I: Okay.
+
+05:51 
+
+B: Das ist, ähm * Gut, inzwischen ist das jetzt aktuell nicht mehr offiziell finanziert, das lief im Juli aus oder so. Das hatte ich noch in Deutschland. Ich bin ja jetzt in Dänemark, das lief noch in Deutschland. Das ist, wie gesagt, im Juli jetzt zu Ende gegangen und ich will das aber noch weitermachen. Der Doktorand ist halt jetzt nicht mehr da, aber es ist halt noch nicht komplett fertig geworden und ich habe jetzt mit Kollegen von hier und auch aus Deutschland, sind ja gerade dabei, das eben jetzt noch als Paper aufzuschreiben und dafür muss eben auch noch was entwickelt werden. Das habe eh die meiste Zeit ich selber gemacht, während das Projekt lief, aber jetzt ist es eben sozusagen ganz bei mir und ja, wie gesagt, aktuell nicht finanziert, aber trotzdem Uni-bezogen.
+
+07:03 
+
+I: Okay. Genau, jetzt ein bisschen, also wenn man jetzt so den Prozess, also das Programmieren, Projekt an sich so, quasi von der Konzeption und der Planung und so, also wie verlief das?
+
+07:22 
+
+B: Das * sehr iterativ würde ich sagen, also immer versucht an möglichst kleinen Prototypen erstmal für ein bestimmtes Feature zusammenzubauen und dann so viel sozusagen Hardcoden wie möglich, so völlig egal wie inflexibel es ist, Hauptsache es läuft erstmal und dann den so Schritt für Schritt immer ausbauen. Und das hat tatsächlich, glaube ich, ein oder zwei, also mindestens ein komplettes Rewrite beinhaltet, das Projekt,
+
+weil am Anfang habe ich eben nicht WebRTC benutzt für das Videostreaming und irgendwann festgestellt, dass man dann, sogar wenn man schon die fertige Library benutzt, immer noch so viel selber machen muss, sozusagen, dass es einfach utopisch ist, das irgendwie in nem/ so als ein Ein-Personen-Projekt weiterzumachen, darum habe ich dann sozusagen alles nochmal weggeschmissen und mit WebRTC neu aufgesetzt und das sah dann, also für jedes größere Feature sah es so aus, dass ich erstmal irgendwie halt nach irgendeinem random Beispiel-Programm im Internet gesucht habe, das ungefähr so das macht, was in die richtige Richtung geht und dann an dem so lang rumgeschraubt, dass es sozusagen mein Feature implementiert, egal wie hässlich der Code ist sozusagen
+
+und dann das in das größere Projekt dann versucht, halbwegs ordentlich zu integrieren.
+
+Das hat sich dann auch, ohne dass ich jetzt vorher irgendwie ein Klassendiagramm oder so gemacht hätte, hat sich das dann so nach und nach zu einem relativ simplen Objekt * wie sagt man * naja, halt objektorientiertes Design entwickelt. Das ist jetzt nicht superkomplex und ich habe es, wie gesagt, auch vorher nicht geplant, aber es hat sich halt einfach ergeben, dass der Ansatz am besten funktioniert. Und dementsprechend jedes Mal, wenn jetzt ein neues Feature kommt, kann man das mit relativ wenig Aufwand
+
+dann sozusagen in die existierenden Klassen mit reinpluggen. Also es ist inzwischen zumindest hinreichend modular, dass man dann nicht jedes Mal alles neu umkrempeln muss.
+
+Aber das ist, wie gesagt, das war sehr iterativ und das ist immer noch immer wieder die Phase dazwischen, dass es halt irgendeinen ganz fürchterlichen Spaghetti-Hack-Code gibt, der halt ungefähr das tut, was er soll und dann muss ich es halt nochmal ordentlich machen, weil sonst, selbst wenn ich der Einzige bin, der wirklich im Moment an dem Projekt was macht, nach zwei Wochen hätte ich selber vergessen, was ich da zusammen gehackt habe. Also es ist quasi einfach Zukunftssicherung, dass ich es dann nochmal ordentlich mache, weil sonst kann ja auch gut passieren, dass ich mal zwei Wochen einfach gar nichts dran machen kann, weil Lehre und was auch immer sonst und drum, wenn ich dann nach zwei Wochen wieder drauf schaue und es ist immer noch der Spaghetti-Code, dann hätte ich keine Ahnung mehr, was da eigentlich passiert.
+
+11:08 
+
+I: Ja * Okay, also um das für mich nochmal zusammenzufassen, genau, du fängst mit einem, du hast gesagt, du hast einen möglichst kleinen Prototyp, Hauptsache es läuft, angefangen, dafür
+
+11:24 
+
+B: Genau
+
+11:25 
+
+I: und für so diese Kleinstvarianten suchst du dir dann irgendwie Vorbilder aus dem Internet an Code, die du quasi modifizierst, bis es funktioniert.
+
+11:37 
+
+B: Oder auch so ein bisschen Frankenstein-mäßig diverse Kurzschnipsel zusammen kopiert. In Python geht das ja halbwegs, dass man dann, ohne dass man allzu viel umschreiben muss, die einfach irgendwie in ein File pastet und dann so lange dran rumschraubt, bis es zusammen funktioniert. Und dann, wie gesagt, wenn es dann erstmal funktioniert, dann versuche ich es nochmal sauber zu machen.
+
+12:06 
+
+I: Okay. Und dann einfach immer, geht es dann mit der nächsten Komponente, die sich dann irgendwie so ergibt, geht es dann weiter?
+
+12:15 
+
+B: Ja. Das ist jetzt auch tatsächlich so ein bisschen, wie könnte man sagen, paper-driven.
+
+Also wir haben jetzt das Paper zum ersten Mal eingereicht, ist abgelehnt geworden, hat aber gute Reviews gekriegt und da waren auch ein paar Verbesserungsvorschläge drin, wo ich mir denke, das macht tatsächlich Sinn, das implementiere ich jetzt erstmal, bevor wir es neu einreichen. Und auch ich versuche das auch, das Projekt, inzwischen immer mal wieder Masterstudenten damit was machen zu lassen. Es gibt jetzt zum Beispiel gerade welche, die Werkstudenten bei Lego sind und das einsetzen wollen, um eben sozusagen Remote-Lego zu bauen. Es geht ja tatsächlich um so interaktive Tische, die vernetzt sind. Und da kriege ich dann sozusagen auch immer wieder Feedback, so ja, hier ist es aber noch ganz laggy. Dann gucke ich mal, kann man da was verbessern oder so und das liefert dann sozusagen das externe Feedback, was jetzt sozusagen die nächsten Baustellen sind, an die ich rangehen müsste.
+
+13:41 
+
+I: Und das Vorgehen, lässt sich das, also ist das bei dem Projekt, lässt sich das mit deinen anderen Projekten so vergleichen? Gehst du meistens so vor oder?
+
+13:49 
+
+B: Ich überlege gerade, also * ja doch, ich denke schon. Also das letzte größere Projekt davor war auch Video-Processing und da, also in dem Fall dann mit Deep-Learning-Netzwerken und da habe ich aber genau denselben Ansatz gemacht. Da hatte ich glaube ich sogar irgendwie vier irgendwie Prototypen, bevor ich dann irgendwie bei der Version gelandet bin, die dann sozusagen im weitesten Sinne production-ready war. Weil halt diverse Ansätze nicht so richtig gut funktioniert haben, bis ich es dann/ damit man das eben möglichst schnell rausfindet, fange ich halt immer mit den ganz simplen Prototypen an und an der Stelle habe ich dann irgendwann gemerkt, da lohnt es sich jetzt einfach nicht, das noch zu versuchen zu optimieren, weil es/ also der Grundansatz ist schon Mist, das heißt, da könnte man jetzt auch den, selbst wenn man den simplen Prototypen noch schön macht, wird es auch nicht besser funktionieren. Drum lieber den gleich ganz wegwerfen und nochmal was anderes versuchen.
+
+Und * jetzt lass mich überlegen, bevor dem * also das andere größere, wirklich besonders große Projekt, was wahrscheinlich das größte war bisher, war das, was ich in meinem PhD gemacht habe, denke ich mal, und da, wenn ich an das zurückdenke, war es auch nicht anders, denke ich. Da habe ich auch immer ganz kleine  ugly Prototypen gebaut erstmal und geguckt, funktioniert das? Und wenn es funktioniert hat, dann eben versucht, das weiter auszubauen.
+
+15:55 
+
+I: Okay, und das Design ergibt sich dann immer aus diesem 
+
+15:59 
+
+B: Genau, genau.
+
+16:03 
+
+I: diesem Zusammenbauprozess.
+
+16:03 
+
+B: Ja
+
+16:06 
+
+I: Okay, ja, abgesehen davon programmierst du auch noch privat oder ist das alles unibezogen?
+
+16:13 
+
+B: Nö, also das überlappt sich dann irgendwann schon so ein bisschen, aber ich mache schon auch Privatsachen, wobei das sind eher, also dieses eine Video-Processing mit Deep-Learning-Netzwerk, das war tatsächlich eigentlich nur für Spaß sozusagen, das war ein Privatprojekt. Und sonst * was mache ich sonst so? * Ich/ gelegentlich eher so Hardware-Bastelzeug, 3D-Druckersachen und sowas, weil das sind nicht so in dem Sinne Programmierprojekte.
+
+17:04 
+
+I: Okay, alles klar. Aber das Vorgehen unterscheidet sich dann privat nicht von dem, was du…
+
+17:09 
+
+B: Nee, ich denke nicht, ich denke nicht.
+
+17:11 
+
+I: Alles klar. * Gut, ich glaube, dann war das eigentlich schon ein ganz guter Einblick in den Prozess. Ja, danke dafür. Und dann haben wir noch den letzten Teil Fragen, da geht es jetzt mehr um Probleme im Prozess. Und ich stelle quasi immer einmal so die Frage, also die Extremfrage, ob du denn schon mal irgendwie ein Projekt abgebrochen hast.
+
+17:54 
+
+B: Hmm * Projekt abgebrochen * Gute Frage. Ich denke mal, es sind ne Menge Sachen liegen geblieben, aber ich würde nicht unbedingt sagen, dass das am Prozess selber liegt, sondern eher einfach an den externen Umständen, dass ich halt kein Vollzeitentwickler bin und auch nicht sein kann. Dementsprechend, ich würde nicht unbedingt sagen, dass der Prozess damit unmittelbar was zu tun hat. Also vielleicht macht es der Prozess sogar eher leichter, dass man Sachen auch mal ein halbes Jahr liegen lassen kann und dann mal wieder reinschauen, weil es eh ja nur so ein ganz simpler, idealerweise immer erstmal nur so ein ganz simpler Prototyp ist, den man hoffentlich dann relativ schnell wieder versteht, wie es weitergeht.
+
+Und bei den Projekten, die halt dann tatsächlich zu etwas Größerem werden, da muss man dann wohl * sozusagen dranbleiben irgendwie. Damit man nicht ganz verliert sozusagen den Überblick und nicht erstmal zwei Tage sich wieder reinlesen muss, bevor es weitergeht. 
+
+Also, wie gesagt, es gibt ne Menge Sachen, die ich denke ich mal schon lange nicht mehr angefasst habe, wo eben genau solche halbfertigen Prototypen irgendwo noch in meinem Homefolder rumliegen, aber das würde ich jetzt nicht unbedingt mit meinem Entwicklungsprozess irgendwie in Verbindung bringen.
+
+19:51 
+
+I: Okay. Ja, und wenn du sagst, dass wenn Prototypen quasi auch mal Mist sind, dass du die dann mal ersetzt quasi, das liegt dann eher daran, dass wie zum Beispiel vorhin, wie du erzählt hast, dass du ein unpassendes Framework oder so, das liegt dann eher an sowas?
+
+20:15 
+
+B: Ja, weil wie gesagt, ich probiere halt sozusagen den ersten Lösungsansatz aus, den ich irgendwie/ wo ich irgendwie Ressourcen dazu finde meistens oder wo ich schon mal irgendwie eine Idee hatte, in welche Richtung es gehen könnte. Und wenn sich der als Mist rausstellt, dann ist sozusagen bei so einem ganz simplen Throwaway-Prototypen ist die Hemmung auch nicht so groß, den dann halt wegzuschmeißen und nochmal was anderes auszuprobieren.
+
+20:49 
+
+I: Okay, also das fällt dir da auch nicht schwer zu sagen, nee, das muss anders gemacht werden?
+
+20:54 
+
+B: Ein bisschen vielleicht schon. Ein bisschen denke ich mir dann immer, naja, das war jetzt ja doch irgendwie Arbeit, könnte man nicht doch irgendwie noch was Sinnvolles draus machen, aber üblicherweise war es dann eben nicht so viel Arbeit, als dass man es nicht doch relativ schnell dann eben wegschmeißen kann.
+
+21:16 
+
+I: Okay. * Gut, dann frage ich trotzdem noch die anderen Sachen auch ein bisschen ab. Gab es Projekte, die jetzt vielleicht nicht abgebrochen, aber wo sich der Prozess lange verzögert hat?
+
+21:37 
+
+B: Ja, also das aktuelle Projekt, das ich jetzt wie gesagt, dieses Videostreaming und so weiter, das hat, würde ich sagen, 2018 angefangen und das lag zwischendrin mal sicher ein Jahr lang oder eineinhalb komplett auf Eis, bis ich es dann wieder angefasst habe. Dann eben festgestellt, okay, der originale Ansatz war halt einfach doch nicht so toll. Das muss man nochmal/ sollte man nochmal ordentlich machen und dann nochmal quasi neu anfangen. Daraus ist dann jetzt sozusagen die zweite Iteration geworden, so im Lauf vom letzten Jahr oder eineinhalb oder so. Das ist durchaus jetzt mehrfach vorgekommen, dass die Sachen dann lange Zeit auch einfach auf Halde lagen, sozusagen.
+
+22:39 
+
+I: Aber liegen sie dann auf Eis, quasi weil der Ansatz nicht optimal ist oder ist es einfach durch äußere Umstände und man stellt es einfach im Nachhinein fest, wenn man es nochmal anguckt?
+
+22:52 
+
+B: Ist beides schon passiert. Also ich hatte sowohl den Fall/ doch ich hatte beide Fälle schon. Zum einen, dass ich halt einfach keine Zeit hatte, mich um das Projekt groß zu kümmern und dann nachher festgestellt habe, nee, so funktioniert es aber doch nicht. Und auch Sachen schon einfach erstmal liegen gelassen habe, weil sie eben nicht gut funktioniert haben und dann eben nach ner Weile drauf geschaut und auch gemerkt, naja, das könnte man doch anders machen auch.
+
+23:33 
+
+I: Okay. * Und gibt es sonst irgendwie Momente, wo du bei Projekten so einfach nicht vorankommst?
+
+23:44 
+
+B: Ja, gibt es ständig. Und ich bin * manchmal dann ganz schön verbissen bei sowas, aber ich habe inzwischen auch genug Erfahrung, dass mir eigentlich klar ist, dass das überhaupt nichts bringt, sondern dass man dann lieber es erstmal liegen lassen sollte und was anderes machen. Meistens geht es dann am nächsten Tag sehr viel besser wieder.
+
+24:23 
+
+I2: Was anderes machst du dann? Also auch Programmieren oder eine andere Tätigkeit?
+
+24:27 
+
+B: Nö, was ganz anderes. E-Mails lesen, Hund rausgehen, something * Kaffee holen, wenn ich in der Uni bin oder sonst * keine Ahnung, was kann man denn sonst noch machen * Büro aufräumen, alles schon da gewesen. Aber wie gesagt, das dauert meistens schon eine Weile, bis ich merke, okay, ich bin jetzt gerade festgesteckt, jetzt sollte ich mal was anderes machen. Insbesondere manchmal, wenn das irgendwie etwas später am Abend ist und ich eigentlich am nächsten Tag aufstehen muss und so, und dann merke ich aber nee verflixt, jetzt ist es doch irgendwie schon elf oder so und ich hocke immer noch dran, wäre vielleicht doch eine gute Idee, das jetzt mal liegen zu lassen. Also mir ist abstrakt bewusst, dass es meistens besser funktioniert, wenn man dann erstmal ne Pause macht und einfach irgendwas ganz anderes, aber es dauert manchmal eine Weile, bis ich es mir ins Gedächtnis rufe. Moment, das bringt jetzt eigentlich gerade alles nichts mehr.
+
+25:41 
+
+I: Und wo du so hängen bleibst, sind das eher so das, was nicht funktioniert, weil da irgendwo ein Bug ist? Oder ist es irgendwie in der Konzeption irgendwas, das da nicht ganz klar ist?
+
+25:56 
+
+B: Ja, ich würde schon sagen, das sind hauptsächlich Bugs, doch, dass irgendwer sagt/ Wobei, also diese ganzen Video-Streaming-Sachen, muss ich sagen, da sind so viele Komponenten immer inzwischen beteiligt, die auch teilweise ganz automatisch dann von dieser Library da instanziiert werden. Und das ist dann schwierig zu sagen, ist es jetzt ein Bug oder ist es einfach irgendwie ein Verhalten, das eigentlich sozusagen schon so vorgesehen ist, das aber halt einfach nicht zu meinem Use-Case gerade passt. * Beispiel jetzt irgendwie, ob der/ diese ganzen Video-Mixer und so weiter, ob die jetzt sozusagen/ da gibt es irgendwie zwei Modi, im einen Modus achten sie drauf, dass die Timestamps immer akkurat sind, das ist sozusagen für Offline-Processing, und im anderen versuchen sie es einfach so schnell wie möglich rauszuschieben für Live-Anwendungen. Und wenn jetzt halt irgendwie eine von diesen Komponenten aus Versehen noch sozusagen im akkuraten Modus steht, dann hält die den ganzen Rest auf. Und das ist aber an sich jetzt, jedes Ding für sich genommen, tut was es soll, genau so wie es eigentlich auch gedacht ist, nur halt irgendwie das Gesamtergebnis ist dann wieder was anderes. Das ist in gewissem Sinne auch ein Bug, aber gerade weil da jetzt eben so viele Komponenten beteiligt sind, ist es dann manchmal ganz schön schwierig drauf zu kommen, an welcher Stelle es jetzt genau hakt.
+
+Ich glaube, ich habe irgendwo noch so einen, man kann sich von dieser Library dann auch den Komponentengraf als so einen Dot-File zum Plotten ausspucken lassen, und da sind dann halt irgendwie 200 Einzeldinger drin, von denen ich selber vielleicht 20 irgendwie sozusagen selber erzeugt habe, und der ganze Rest wird dann immer automatisch irgendwie noch miteinander verknüpft, und das gerade diesem automatischen Verknüpfen dann hinterher zu kommen, was denn jetzt da gerade mit was anderem irgendwie gekoppelt wird, das ist dann teilweise ganz schön fieselig.
+
+Und in den meisten Fällen ist es dann tatsächlich so, dass irgendwas in meinem Code halt sozusagen * ein anderes Library-Verhalten triggert, als ich eigentlich möchte. Letztlich dann auch ein Bug, denke ich mal. Aber es ist halt manchmal gar nicht so einfach, dem dann hinterher zu kommen. Insbesondere wenn man dann auch noch so Sachen hat, wie wenn du dich dann mit anderen Clients dazu connectest. Du könntest zum Beispiel auch mit einem Webbrowser dich hinconnecten, dann hast du gleich wieder noch das Problem on top, Chrome, Firefox, Safari, macht jeder auch wieder ein klein bisschen anders, und das ist dann, also gerade so diese Edge-Cases, die können ganz schön viel Nerven kosten, habe ich jetzt festgestellt.
+
+29:28 
+
+I: Okay, also gerade so den Überblick zu behalten, die Vorstellung, wie das alles untereinander interagiert. 
+
+29:36 
+
+B: Ja
+
+29:40 
+
+I: Gut dann letzte Frage * für die Formulierung. Denkst du, dass du schon mal eine Programmierblockade hattest?
+
+29:50 
+
+B: Oh, reichlich. (lacht) Das kommt eben sehr häufig vor, wenn ich dann, gerade wie gesagt bei diesem aktuellen Projekt, wenn irgendwas nicht funktioniert, oder, noch besser, zwar funktioniert, aber laggy ist, wo man dann sozusagen irgendwie immer gleich mal drei separate Systeme beteiligt hat, irgendwie den einen Client, den Server, den anderen Client, und idealerweise dann noch zwei unterschiedliche Clients, wo hakt's jetzt? Ist heute einfach nur das Internet langsam, oder ist wieder irgendeine Komponente aus Versehen auf Synchron gestellt, was sie eigentlich nicht sollte, oder ist auf dem Server irgendwie zu viel CPU. Also das, und gerade sowas dann zu debuggen, das kann tatsächlich ordentlich blockieren. 
+
+Vor allem, weil es, also da würde ich mir für diese Library, für GStreamer, würde ich mir auch echt irgendwie noch ein bisschen besseres Tooling wünschen, wo man zum Beispiel eben live reingucken kann, was da eigentlich intern abgeht. Da gibt's irgendwie so ein paar Ansätze, aber die hab ich nie ordentlich irgendwie zum Laufen gekriegt. Und vor allem, selbst wenn du auf einem von den drei Systemen dann reingucken kannst und nichts siehst, heißt das ja nicht, dass es nicht auf einem von den anderen immer noch irgendwas hakt, also gerade bei so verteilten Systemen wird das dann echt manchmal ganz schön nervig.
+
+Und drum, ja, das würde ich sagen, das passiert locker einmal die Woche, dass ich da irgendwie dann, wie gesagt, dann auch gern mal etwas frustriert irgendwie jetzt erstmal einen großen Kaffee trinken gehe oder Schokoriegel kaufen in der Cafete, weil es mir einfach so auf den Nerv geht. Also, falls das als Programmierblockade durchgeht, dann denke ich, habe ich das locker einmal die Woche.
+
+32:08 
+
+I: Okay. Ja, und du sagst, bessere Werkzeuge würden dir da quasi das Leben leichter machen.
+
+32:15 
+
+B: Ja, ich denke schon. Wobei ich jetzt auch nicht hundertprozentig sagen könnte, wie die aussehen müssen. Ich weiß nur, dass die Werkzeuge, die es gibt, noch nicht so ganz das Wahre sind. Entweder weil sie outdated sind und mit drei Library-Versionen vorher irgendwie das letzte Mal irgendwie jemand was damit gemacht hat oder weil sie einfach abstürzen. Ist mir auch schon passiert. Du verbindest diesen Debugger mit deinem Programm und dann stürzt es irgendwie instantan ab. Damit ist dann auch nicht so wahnsinnig viel gewonnen. Und dann noch selber zu versuchen, den Debugger zu fixen, dafür hat man dann eindeutig die Nerven gefehlt.
+
+33:04 
+
+I: Okay. Möchtest du von deiner Seite noch was hinzufügen?
+
+33:10 
+
+B: Was mir jetzt spontan noch einfällt, weil wir gerade über Debugging reden, ist, dass ich dann doch erstaunlich häufig, gerade bei den Python-Sachen und auch beim C++-Zeug, immer noch wieder so bei Printf-Debugging lande. Dass man einfach irgendwie irgendwelche internen Daten auf die Konsole dumpt und damit versucht herauszufinden, was eigentlich gerade passiert oder nicht. Das ist vielleicht so ein Punkt, wenn ich jetzt selber darüber nachdenke, wo ich mir, glaube ich, vielleicht das Leben ein bisschen einfacher machen könnte, wenn ich mir mal ne IDE, auch ne Python-IDE anschaue, die mir das live anzeigen kann. Aber * ja doch, ich denke mal, das wäre jetzt das Einzige, was mir noch einfällt.
+
+34:07 
+
+I: Okay. Gut, dann vielen Dank. Wenn du möchtest und Interesse hast, kann ich dir gerne ein bisschen erzählen, was der Hintergrund ist.
+
+34:17 
+
+B: Ja, ja, gerne.
+
+34:22 
+
+I: Genau, zwar habe ich in meinem Bachelor mich mit Schreibprozessen ein bisschen auseinandergesetzt und mir Schreibprozessforschung und zu Schreibblockaden Dinge angeguckt.
+
+34:34 
+
+B: Ah, okay.
+
+34:36 
+
+I: Und die Idee ist jetzt quasi die Theorie und Methodik davon zu gucken, ob sich das auf Programmieren übertragen lässt.
+
+34:44 
+
+B: Okay. * Und Schreibblockade aber dann tatsächlich im Sinne von Textschreiben.
+
+34:54 
+
+I: Ja, genau. Und ob sich diese ganze Thematik Schreibprozesse mit Programmierprozessen vergleichen lässt.
+
+35:07 
+
+B: Ah, okay. Das macht Sinn.
+
+35:10 
+
+I2: Ja, vielleicht auch von dir noch die Perspektive. Du schreibst ja auch Paper. Hast du da auch Schreibblockaden und ist das irgendwie ähnlich? Hast du da ein Gefühl oder eine Erfahrung gemacht?
+
+35:23 
+
+B: Also ich persönlich muss tatsächlich sagen, auch wenn ich es jetzt schon 15 Jahre mache oder so, habe ich immer noch sehr viel mehr Schwierigkeiten und bin sehr viel langsamer dabei, Paper zu schreiben, als ich beim Programme schreiben habe.
+
+35:41 
+
+I: Okay.
+
+35:40 
+
+B: Weil * gut, das ist wahrscheinlich einfach ein persönliches Ding, weil ich halt einfach doch auch eher so ein bisschen vielleicht nicht die allergrößte People-Person bin, dass ich/ bei Programmen lässt sich zumindest auf Anhieb überprüfen, stimmt's oder nicht. Weil bei Papern ist immer sehr viel mehr Interpretationsspielraum drin, ob es jetzt verständlich ist oder nicht. Aber grundsätzlich würde ich schon sagen, dass ich das dann auch nicht anders mache, wenn ich gar nicht mehr weiter weiß, dann mache ich halt was anderes. 
+
+Und was ich eigentlich immer versuche beim Paperschreiben ist, das jeden Tag halt so ein bisschen zu machen. Das ist auch wieder irgendwie so Vorstellung und Wirklichkeit so ein bisschen auseinander, aber grundsätzlich denke ich, wird das am besten funktionieren. Und das ist wahrscheinlich beim Programmieren jetzt auch nicht wirklich anders, würde ich jetzt einfach spontan behaupten, wenn ich so kurz drüber nachdenke.

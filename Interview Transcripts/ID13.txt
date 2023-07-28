@@ -1,0 +1,559 @@
+00:00 
+
+I: Okay. Bist du damit einverstanden, dass das Gespräch hier aufgezeichnet wird?
+
+00:06 
+
+B: Ja, bin ich.
+
+00:11 
+
+I: Okay, sehr gut. Dankeschön. Das Interview besteht aus drei Teilen und der erste Teil
+
+ist einfach ein Fragebogen, mit dem wir versuchen, die Programmiererfahrung zu erfassen.
+
+00:25 
+
+B: Okay.
+
+00:28 
+
+I: Und die erste Frage lautet, wie alt bist du?
+
+00:30 
+
+B: 29.
+
+00:33 
+
+I: 23?
+
+00:34 
+
+B: 29.
+
+00:34 
+
+I: 29, okay. Gut. Wie viele Jahre programmierst du insgesamt schon?
+
+00:43 
+
+B: Ich glaube, es sind jetzt inzwischen sieben oder acht, ja acht.
+
+00:50 
+
+I: Wie viele Jahre davon im Rahmen einer förmlichen Ausbildung?
+
+00:57 
+
+B: Inwiefern förmliche Ausbildung? Ich habe studiert und habe dann in der Firma angefangen.
+
+01:05 
+
+I: Okay, also auch Informatik studiert?
+
+01:06 
+
+B: Ja, Medieninformatik.
+
+01:08 
+
+I: Okay. Wie viele Jahre lang?
+
+01:12 
+
+B: Vier. Regelstudienzeit drei, aber.
+
+01:20 
+
+I: Und dann arbeitest du jetzt seit vier Jahren als Programmierer?
+
+01:28 
+
+B: Nee, also acht. Ich bin, ich gucke noch mal kurz nach, wann ich aus der Uni raus bin. Und habe dann eigentlich von da an, ich bin jetzt fünf Jahre hier in der Firma, in der ich aktuell arbeite. Ich habe davor schon in einem Start-up gearbeitet.
+
+01:43 
+
+I: Achso.
+
+01:45 
+
+B: 2016 habe ich mein Studium abgeschlossen.
+
+01:49 
+
+I: Okay, das sind sechs Jahre.
+
+01:54 
+
+B: In den letzten Jahren vom Studium habe ich da schon immer in einem Start-up gearbeitet, was ich aus der Hochschule raus gründen wollte. Das hat sich dann aber erledigt.
+
+02:08 
+
+I: Okay, nächste Frage. Wie groß sind deine professionellen Projekte üblicherweise? Also klein wäre unter 900 Codezeilen, mittel wäre 900 bis 40.000 Codezeilen und groß wäre über 40.000.
+
+02:27 
+
+B: Also da ich hauptsächlich in Projekten mit Teams arbeite, sind jetzt alle Projekte, in denen ich irgendwie mitprogrammiere, gemeint?
+
+02:37 
+
+I: Ja, also üblicherweise halt.
+
+02:41 
+
+B: Groß.
+
+02:44 
+
+I: Groß, okay.
+
+02:45 
+
+B: Also mindestens eins zählt als groß, insofern. Wollte gerade gucken, ob ich das mal einsehen kann schnell auf den ersten Blick, aber.
+
+02:53 
+
+I: Achso, ungefähr reicht auch.
+
+02:55 
+
+B: Ja, groß, definitiv.
+
+03:00 
+
+I: Alles klar. Dann, auf einer Skala von eins bis zehn. Eins bedeutet sehr unerfahren,
+
+zehn bedeutet sehr erfahren. Wie hoch schätzt du deine eigene Programmiererfahrung ein?
+
+03:23 
+
+B: Ne Acht. * Kannst du nochmal die Skala sagen?
+
+03:30 
+
+I: Eins bis zehn.
+
+03:33 
+
+B: Eins wenig, zehn sehr.
+
+03:35 
+
+I: Genau.
+
+03:35 
+
+B: Ja, eine Acht.
+
+03:41 
+
+I: Eine Acht, okay. * Und auf einer Skala von eins bis fünf nur. Wie hoch schätzt du deine Programmiererfahrung im Vergleich mit Experten mit 20 Jahren praktischer Erfahrung ein?
+
+03:57 
+
+B: Fünf wäre quasi genauso? * Zwischen drei und vier.
+
+04:05 
+
+I: Zwischen drei und vier. Ich runde auf.
+
+04:06 
+
+B: Ja, ich *  ohne jetzt großkotzig zu sein, aber eine Vier.
+
+04:15 
+
+I: Ja, die meisten, die ich interviewt habe, sind sich einig, die Jahre machen irgendwann nicht mehr so viel aus.
+
+04:21 
+
+B: Ja, richtig, richtig, richtig. Also eher sogar, ich würde sogar fast eine negative Neigung dazu sagen.
+
+04:28 
+
+I: Okay.
+
+04:28 
+
+B: Und sagen, ab einem gewissen Jahrespunkt hat man auch so eine gewisse Engstirnigkeit und da ist man dann so gesättet und fest in seiner Position, dass man da auch nicht mehr so viel dazu gewinnen will, muss, wie auch immer.
+
+04:45 
+
+I: Okay, verstehe. * Okay, dann wieder auf einer Skala von eins bis fünf. Wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen ein?
+
+05:00 
+
+B: Vier.
+
+05:04 
+
+I: Okay. Wie viele Programmiersprachen kennst du, wo du deine eigene Programmiererfahrung bei drei oder höher einschätzen würdest? Und welche sind das?
+
+05:14 
+
+B: Ich würde von hinten nach vorne anfangen und gleich, welche sind das, aufsagen, weil dann ist das Durchzählen, glaube ich, einfacher.
+
+05:20 
+
+I: Genau, ja.
+
+05:22 
+
+B: Wirklich Programmiersprachen oder zählen da auch Skriptsprachen dazu? Also würde JavaScript eine valide Antwort auf die, welche Frage es ist?
+
+05:31 
+
+I: Ja, JavaScript haben wir bisher gezählt, TypeScript auch.
+
+05:33 
+
+B: JavaScript, Typescript, C-Sharp, Python, Ruby, Punkt, also fünf.
+
+05:44 
+
+I:Ruby, okay, fünf.
+
+05:46 
+
+B: Aber ich zähle jetzt da zum Beispiel so Sachen wie HTML und CSS nicht dazu, weil es ja keine Programmiersprachen sind.
+
+05:51 
+
+I: Ja, ich glaube, die haben wir bisher auch nicht gezählt, also passt das so. * Gut, dann abschließend noch, fragen wir noch zu Programmierparadigmen. Wieder auf einer Skala von eins bis fünf. Wie erfahren bist du mit den folgenden Programmierparadigmen? Erstes, funktionale Programmierung.
+
+06:15 
+
+B: Erfahren im Sinne von, wie viel weiß ich da drüber oder wie häufig habe ich das schon benutzt, eingesetzt?
+
+06:21 
+
+I: Also, wie würdest du dich selber einschätzen?
+
+06:26 
+
+B: War das eine Fünfer- oder eine Zehnerskala?
+
+06:27 
+
+I: Das war eine Fünferskala.
+
+06:29 
+
+B: Fünferskala, vier.
+
+06:31 
+
+I: Vier, okay. Imperative Programmierung?
+
+06:37 
+
+B: Ich würde jetzt sagen, null.
+
+06:40 
+
+I: Also, das ist C und so.
+
+06:43 
+
+B: Achso, dann, also mit dem Begriff, da gebe ich offen zu, kann ich nichts anfangen. Gerade mit C hatte ich ja mal im Studium Kontakt, eins oder zwei. Eher eins, minimal eins.
+
+06:58 
+
+I: Eher eins, okay. Logische Programmierung?
+
+07:02 
+
+B: Drei.
+
+07:04 
+
+I: Drei?
+
+07:05 
+
+B: Ja.
+
+07:07 
+
+I: Okay, und objektorientierte Programmierung?
+
+07:09 
+
+B: Vier.
+
+07:12 
+
+I: Ja, alles klar. Gut, das war der Fragebogen. Danke dafür schon mal. So, im zweiten Teil sind das jetzt offenere Fragen. Und da geht es jetzt um deinen persönlichen Programmierprozess. Und zwar würde ich dich gern bitten, mir erstmal einfach was über ein einigermaßen aktuelles Projekt von dir zu erzählen. Also, das kann sich noch in Arbeit befinden, kann vor kurzem abgeschlossen sein. Kann von der Arbeit oder auch was Privates sein, wo du mir einfach so ein bisschen von Anfang bis Ende erzählen kannst, wie du dabei so vorgegangen bist.
+
+07:58 
+
+B: Also, tatsächlich fällt mir jetzt auf Anhieb kein Projekt ein, was jemals abgeschlossen war, ist und sein wird.
+
+08:06 
+
+I: Okay.
+
+08:10 
+
+B: Da wir ja einfach sehr, sehr aktiv in der Produktentwicklung unterwegs sind. Die Produkte sind zu irgendeinem Zeitpunkt insofern abgeschlossen, dass sie benutzt werden können. Das heißt aber ja noch lange nicht, dass dann da Schluss ist. Also, wir machen ja, ich weiß nicht, ob jetzt schon so viel Information zu dem, was wir bei uns in der Firma machen, bekannt ist. Aber wir machen sehr, sehr wenig Auftragsentwicklung. Also, wir machen wirklich eigene Produktentwicklung. Das unterscheidet das auch ein bisschen, was ich in der vorigen Firma gemacht habe, wo man jetzt nicht sagt, ich habe einen Auftrag, der hat ein Ende. Ich würde jetzt aber einfach als Beispiel unser allergrößtes Produkt nehmen. Einfach, weil man da auch am meisten, denke ich, dazu erzählen kann.
+
+08:49 
+
+I: Okay.
+
+08:52 
+
+B: Das ist eine personelle Einsatzplanung, die wir zurzeit entwickeln. Das auch schon, ich glaube, inzwischen seit drei Jahren. Ein bisschen herausmerkt, dass das stetig am entwickeln ist. Das ist auch in der dritten Versionsstufe, also im dritten Major Release. * Ja, wir sind aber bei dem Produkt eigentlich generell, nicht nur ich alleine, das sind ja immer Projektteams, aber so vorgegangen wie bei jedem Produkt, nämlich, dass wir uns zunächst einmal angeguckt haben, A was sind die Anforderungen? Klassisches Anforderungsmanagement in irgendeiner Form vom Kunden. Dann haben wir natürlich erstmal herausgefiltert/ also vom Kunden, uns, unserer Mutterfirma, dann haben wir natürlich erstmal herausgefiltert, welche Anforderungen machen da irgendwie Sinn, welche nicht, und wie machen das weltweite Konkurrenten auf dem Markt. Also weniger jetzt User Interface mäßig, sondern wirklich auf einer technischen Sicht, jetzt für meinen Bereich als Entwickler.
+
+Und dann ist es aber bei uns generell so, dass wir relativ agil in die Produktentwicklung starten. Also diese klassische Softwareentwicklung, wie man's auch viel, also, ich zumindest viel im Studium hatte, mit Lastenheft, Pflichtenheft und so weiter und so fort, ist jetzt bei uns eher unüblich, sondern das geht sehr agil voran. Wir versuchen auch möglichst schnell immer ein kleines Ergebnis schon zu haben, also was zum Anfassen, um von dort weiterzuentwickeln. Das hat sehr, sehr viele Vorteile, hat aber aus Entwicklungssicht auch sehr große und massive Nachteile durchaus, weil man ja, wenn man entwickelt, eine gewisse Struktur schafft und die Struktur, also bei dem Vorgehen die Struktur einreißen zu müssen, ist viel, viel wahrscheinlicher. Weil man durchaus jetzt dann, wenn das Produkt in der ersten kleinen Mega-Alpha-Version getestet wird, fällt auf, dass der Ablauf, wie mit irgendwelchen Daten umgegangen wird, völlig verkehrt ist oder nicht dem Use Case entspricht und dann kann es halt mal passieren, dass man alles wieder einreißt und nochmal von vorne anfängt. Also es ist ein sehr zweischneidiges Schwert. Das hat man natürlich bei einer klassischen Softwareentwicklung weniger. Ich will jetzt nicht sagen nicht, weil das stimmt nicht. Eine klassische Softwareentwicklung ist meiner Meinung nach sehr, sehr theoretisch und in der Praxis gibt es da immer so einen kleinen agilen Anteil. Außer man sagt seinem Kunden, okay, das ist jetzt fertig so wie es ist und du hast Pech, aber das ist ja nicht kundenorientiert. Also da wird spätestens dann eine Vertriebsabteilung sagen, das geht so nicht weiter. Wir machen einen sehr schlechten Eindruck bei unserem Kunden.
+
+11:45 
+
+Also generell, wir gucken uns an, was brauchen wir. Das macht eigentlich auch bei uns selten jemand allein. Da sitzt immer ein frontendlastiger Entwickler, da sitzt ein backendlastiger Entwickler, da sitzt auch jemand, der wenig Entwicklungsanteil hat oder mit Entwicklung gar nichts zu tun hat, der sich so ein bisschen mehr in die eigentliche Nutzerrolle reinversetzen kann. Und das wird einmal am Anfang natürlich von dem Produkt gemacht. Wir wollen jetzt ein Personalmanagement, eine Personalplanung bauen, aber das wird natürlich auch für jeden kleinen Funktionsbaustein wieder und wieder gemacht, also * klassisch Agil. Klassisch agil, das ist eine sehr komische Wortkombination (I lacht). Ähm agil, es wird immer wieder über neue Features gesprochen. Das kann auch mal dazu führen, dass nach drei Jahren eine Funktion in dem Produkt, eine ganz ursprüngliche Logik in dem Produkt komplett wieder auseinanderreißt. Das ist gar nicht unüblich.
+
+Dann werden die Features besprochen, das was entwickelt werden soll. Wir arbeiten selbstverständlich mit einem Ticketsystem, Ticket für Ticket, werden die Funktionen umgesetzt, werden da auch als Entwickler/ inzwischen einen sehr strengen Ablauf,
+
+wie das zu erfolgen hat. Also es gibt ein Ticket, da steht drinnen, was soll umgesetzt werden, eventuell ein paar Hinweise, wie das umgesetzt werden soll. Natürlich mit dem Freiraum, den der Entwickler hat, weil der, der das Ticket schreibt, in der Regel kein Entwickler ist. Sonst würde das Ticket durchaus ein bisschen technischer aussehen, soll es aber auch gar nicht.
+
+Dann wird das Ganze umgesetzt, dann gibt es bei uns einen Merge Request, also einen kleinen Qualitätscheck für den Code. Der mal intensiver, mal weniger intensiv ausfällt,
+
+hat aber nicht unbedingt nur was mit einer Qualitätsprüfung zu tun, sondern auch einfach damit zu tun, dass jeder einen gleichen Einblick in das Produkt hat, der da mitentwickelt. Das war halt so die schnelle Reise durch, wie wir da rangehen, wie wir da vorgehen.
+
+13:55 
+
+I: Okay, ja, sehr interessant, dankeschön. * Da würde ich mir gerne also * noch rauspicken, wenn du jetzt etwas tatsächlich programmierst, also tatsächlich am Coden bist. Ich nehme an, da kommt dann irgendwie ein Ticket und dann musst du da irgendwas machen. Wie ist da der Prozess? Gibt es da nochmal einen Planungsprozess oder?
+
+14:30 
+
+B: Nee. Also ich würde jetzt mal den ganz großen Klassiker nehmen, das ist jetzt auch unabhängig von der Personalmanagementsoftware, wir haben ja mehrere Produkte. Wir haben auch durchaus mal Sachen, wo wir als Entwicklung auf einen Fehler gucken,
+
+die wir nicht selber produziert haben. Unsere Firma unterteilt sich in zwei Abteilungen, Entwicklung und Consulting. Im Consulting werden auch Entwicklungsaufgaben gemacht von den Consultants, eher so kleine Sachen, wo wir auch mal zur Unterstützung gebeten werden. In jedem Fall ist aber so der klassische Bugfix dafür, denke ich, ein gutes Beispiel. Weil der so die Kernsachen, egal ob ich was umsetze oder korrigiere oder wie auch immer, vielleicht ist es ja auch kein Bug, ist eigentlich immer der Ablauf der gleiche.
+
+Der Fehler kommt ja nicht von einem anderen Entwickler, selten. Also das wäre total toll, wenn ein anderer Entwickler den Fehler meldet, weil dann sind alle Informationen schon da, sondern der Fehler wird ja in der Regel immer vom Nutzer gemeldet, vom Kunden.
+
+Das heißt, wir haben eine sehr nutzerorientierte Fehlerbeschreibung. Wir wissen im schlimmsten Fall noch überhaupt nicht, was überhaupt der Fehler ist. Das heißt, die Fehlerbearbeitung, wenn ich loscoden will, beginnt oftmals erst mal damit zu identifizieren, wie kann ich den Fehler nachstellen.
+
+Das ist ein ganz, ganz großer Block, der auch die meiste Zeit von meinem Dafürhalten
+
+jetzt so in den letzten Jahren frisst, ist Fehler nachstellen. Außer man hat jetzt wirklich jemanden, der nur für Qualitätsmanagement da ist und schon die genaue Fehlerreproduktion darstellt.
+
+Dann wird zunächst identifiziert, wie ist auf technischer Ebene der Fehler geartet, wo kommt der her, kommt der aus dem Frontend, kommt der aus dem Backend, in welcher Komponente, in welchem Bestandteil meiner Anwendung befindet sich der Fehler.
+
+Dann wird die entsprechende Code-Stelle rausgesucht und dann gibt es eigentlich zwei Schritte. Entweder ich sehe den Fehler direkt und behebe den. Ich hab nen/ Das ist ein Fehler der, da sind wir wieder bei dem Thema strikte Prozesse bei Ticketbearbeitung. Das ist eine Zeile Code, wo ich mir nicht sicher bin, ist das wirklich ein Fehler oder ist das ein gewolltes Verhalten aus einer anderen Funktion, die implementiert wurde. Also es gibt ja ganz viele Fehler, sind gerne Seiteneffekte. Meistens so nen normalen Fehler gibt es in der Regel nicht, der fällt oft direkt auf, sondern es sind meistens eher Seiteneffekte, die vielleicht durch ne Fehlkonfiguration, durch ne Fehlstruktur entstehen, wo ich dann auch durchaus einen Kollegen mal mit zur Seite nehme, der das ursprünglich eingebaut hat. Das ist bei uns eigentlich durch die Versionskontrolle sehr, sehr gut nachvollziehbar,
+
+sowohl wer eine Zeile Code verändert hat, als auch aus welchem Grund. Da steht immer eine Ticketnummer dran, ich kann immer ins Ticketsystem gucken.
+
+Und ja, dann gibt es natürlich viele, viele Schritte, die ich zur Fehleruntersuchung mache. Also der Klassiker in der Frontend-Entwicklung bei mir als Web-Entwickler ist, dass ich sehr, sehr viel mit der Browser-Konsole tatsächlich arbeite. Ab und an auch mal Funktionen wie Haltepunkte in der Entwicklungsumgebung benutze. Und da ist auch ein großer Teil, das klingt jetzt ein bisschen sehr nach Magie, aber da ist auch ein großer Teil auch so Intuition und Gefühl.
+
+17:55 
+
+I: Okay?
+
+17:55  
+
+B: Also mit einer gewissen * Zeit, die man an einem Projekt arbeitet, hat man dann schon so ein gewisses Gefühl, wo nen Fehler herkommt eventuell und was es sein könnte. Weil man vielleicht diesen ähnlichen Fehler schon mal woanders hatte oder weil man es einfach weiß. Man hat es im Gefühl und dann guckt man an die Stelle und die ist es genau. Es ist nicht immer so ein * Suchen oder Wissen, weil man den Code liest,
+
+sondern es gibt auch Fälle, da hat man es einfach im Gefühl.
+
+18:27 
+
+I: Okay, interessant. * Okay, das war jetzt der klassische Bugfix. Wenn du selber mehr Code produzieren musst, wie gehst du dabei vor? Also codest du drauf los, machst du dir einen Plan, denkst du dir das im Kopf alles durch?
+
+18:56 
+
+B: Sehr, sehr unterschiedlich tatsächlich. Also es kommt immer auf die Komplexität des Features an und auf die Feature-Beschreibung tatsächlich. Also es gibt ja Funktionen, da wurde sich im Vorhinein, ich hatte ja eingangs erwähnt, diese wiederkehrenden gemeinsamen Termine, wo Frontend, Backend, Qualitätsmanagement, Projektmanagement zusammensitzen, das Feature besprechen. Oftmals ist es so, dass in dem Termin schon sehr, sehr tief darüber gesprochen wird und quasi das Feature, ich würde jetzt sagen so im imaginären Pseudocode schon so ein bisschen umgesetzt wird. Das ist natürlich ein super idealer Fall, weil dann hat man, wenn man selber dann zufälligerweise dieses Ticket hat, hat man den Pseudocode schon im Kopf. Das sind dann die Fälle, wo man schon drauf los entwickelt. Das/ die Variante gibt es. 
+
+Es gibt aber auch, gerade wenn es richtig große ist, ich gehe jetzt mal von großen neuen Features aus, ich habe in der Anwendung eine komplett neue Unterseite, die eine komplett neue Funktion abbildet, dann ist es auch durchaus der Gang und Gebe, dass dort viel vorher gebrainstormt wird. Sprich, man nimmt sich auch mal einen (?), man nimmt sich einen Kollegen dazu. Wenn man ne Idee hat, fragt ihn erstmal, wie würdest du das machen, macht das Sinn, dass ich das so umsetze? Und wovon ich immer ein großer Freund bin, ist, wenn viel mit Daten gehandhabt wird, was ja bei der Personalplanungssoftware durchaus der Fall ist, durchaus auch mal darüber nachzudenken, wie brauche ich meine Daten, um jetzt die Darstellung zu erzielen, die ich hier brauche. Gerade im Frontend ist es ja viel über, ich bekomme irgendwelche Daten geliefert, die sollen in Form XYZ auch dargestellt werden. Wie bekomme ich die Daten, die ich geliefert bekomme? Weil die sind meistens nicht in der Struktur, wie ich sie brauche, um sie so darzustellen. Wie bekomme ich die in die Struktur? Welche Struktur bietet sich an? Wenn ich die Daten später manipulieren soll, welche Fallstricke habe ich? Es gibt da neben der Möglichkeit, doch man kann durchaus mal direkt losprogrammieren,
+
+ist es auch viel, sich vorher zumindest so eine Art Pseudocode zu überlegen,
+
+die groben Strukturen abzustecken.
+
+21:09 
+
+Wenn ich ein User-Interface habe, wo ich jetzt kein Vorab-Design bekommen habe,
+
+wie ordne ich das an? Welche Elemente brauche ich? Und dann erstmal vor allem diese groben Strukturen sich zu bauen. Es ist immer der letzte Schritt ist erst, das hübsch zu machen. Das ist auch so ein ganz entscheidender Punkt. Weil das ist zwar schön, wenn man visuell was hat, was schon direkt richtig gut aussieht, aber das Visuelle ist der kleinste Aufwand, sondern die Funktion ist ja das Entscheidende. Also dann sind das halt erstmal irgendwelche hässlichen Knöpfe, auf gut Deutsch gesagt. Die machen aber schon das, was sie sollen und danach macht man sie hübsch. Und die Aufgaben, das gibt es bei uns jetzt auch schon so, die werden auch manchmal schon getrennt. Also es gibt jemanden, der das erstmal umsetzt. Das muss nicht schön sein. Es gibt jemand anderes, der macht das hübsch. Der eine eher so algorithmisch das Know-how hat, das Ganze in einer guten Struktur zu bauen und die auch ein bisschen eine Lebenszeit hat. Und der andere hat halt eher das Gefühl für das Optische.
+
+22:12 
+
+I: Okay. Programmierst du neben der Arbeit, programmierst du auch noch privat?
+
+22:19 
+
+B: Nicht mehr wirklich.
+
+22:21 
+
+I: Nicht mehr wirklich, okay.
+
+22:22 
+
+B: Ja, also ich würde gerne, aber das ist zeitlich einfach.
+
+22:27 
+
+I: Also jetzt auch schon länger nicht mehr?
+
+22:30 
+
+B: Ja, also die letzten anderthalb Jahre quasi gar nicht mehr. Davor durchaus mal das eine oder andere kleine App-Thema. Und wir haben bei uns in der Arbeit durchaus die Möglichkeit, nebenbei, also zu Weiterbildungszwecken, nicht arbeitsbezogene Entwicklungen durchzuführen. Also es gibt der heutige Tag, Freitag, es nennt sich bei uns alles ist möglich Freitag. Aber auch immer, wenn das die Auslastung hergibt, da gibt es die Möglichkeit, dass sich jeder mal mit einer Technologie, die natürlich irgendwie gewinnbringend für die Firma ist, quasi mit nem eigenen kleinen Projekt intensiv auseinandersetzt, sich da eine kleine App baut, eine kleine Web-App baut, ein kleines Backend baut. Weil das ja auch durchaus wichtig ist, in dem IT-Sektor, in dem Softwareentwicklungssektor da ein bisschen dran zu bleiben, die neuesten Frameworks zumindest mal angefasst und gehört zu haben, um dann in einem neuen Projekt vielleicht zu sagen, ich habe das probiert, ich kenne das aus der Weiterbildungsgeschichte, ich denke, wir können das in einem größeren Projekt auch mal einsetzen, um da mehr Kontakt mit zu haben.
+
+23:42 
+
+I: Okay. Und in diesem geänderten Kontext, ist dein Vorgehen da wesentlich anders oder ist das vergleichbar?
+
+23:50 
+
+B: Jain, also am Anfang, als ich so für mich immer mal kleine Sachen programmiert habe,
+
+habe ich wesentlich unstrukturierter gearbeitet als im Arbeitskontext, also im professionellen Kontext. Da war dieses drauflos Programmieren völlig gang und gäbe. Einfach aufgrund der Geschwindigkeit, so wie ich gesagt habe, man will ja das, was schön ist. Und es ist auch viel, viel erfüllender, wenn gleich was visuell da ist, was richtig gut aussieht. Und dass was nicht funktioniert, fällt immer erst auf den zweiten Blick auf.
+
+Mit der Zeit merkt man aber, dass diese Vorgehensweisen, da doch ein bisschen Struktur reinzubringen, gar nicht verkehrt sind. Also auch sich vielleicht selber irgendeine Art von Tickets anzulegen. Was möchte ich denn eigentlich bewirken? Was soll denn die Anwendung können? Welche Funktion soll die denn abbilden? Das lässt sich genauso in dem privaten Kontext anwenden, ohne das jetzt überzustrukturieren. Aber dann hat man auch gleichzeitig eine kleine Art von Dokumentation. Man hat eine Struktur und ist am Ende deutlich schneller, als jetzt komplett drauflos zu programmieren. 
+
+* Wenn man jetzt nur was ausprobieren will, dann ist aber drauflos meines Erachtens nach die einzige richtige Variante, weil das ganz, ganz viele Blockaden nimmt. Also wenn ich mir einfach nur ein Framework angucken will, dann * los geht's, ausprobieren. Und wenn man irgendwas wissen will, wie was funktioniert, dann durchforstet man die Dokumentation.
+
+25:24 
+
+I: Okay, also drauflos zu programmieren nimmt viele Blockaden.
+
+25:27 
+
+B: Ja, das auf jeden Fall.
+
+25:29 
+
+I: Was verstehst du da unter Blockaden?
+
+25:32 
+
+B: Der Unterschied ist tatsächlich, im privaten Kontext, das ist ja auch der Grund, warum bei mir das so ein bisschen hinten runterfällt, da privat noch viel zu programmieren, ist ja, meistens ist das auch eine Zeitfrage. Also ich hab/ Klar, auf Arbeit ist es auch ne Zeitfrage, aber da ist es ja das, was ich mache, um mein Geld zu verdienen. Da wird mir die Zeit ja irgendwie zugestanden. Die, die ich jetzt brauche, die brauche ich, solange das nicht exorbitant irgendwie über ner Schätzung liegt. Aber privat habe ich ja bloß mein begrenztes Zeitpensum neben Familie, Schlafen, was auch immer. Man hat ja durchaus auch noch ein paar andere Themen und Hobbys und will ja auch möglichst schnell irgendein Ergebnis haben.
+
+Wenn ich jetzt dieses klassische Vorgehen wähle mit, ich lege mir jetzt erstmal meine Aufgaben an, was möchte ich machen, ich fange an, das zu konzipieren, bis ich dann losprogrammiere, ist natürlich die Blockade einfach zu sagen, naja, wenn ich jetzt anfange, ich habe zwei Stunden, ich brauche aber zwei Stunden, um mir erstmal mein Konzept zu schreiben, dann sind die zwei Stunden rum und ich habe aber noch genau nichts programmiert. Und das ist für mich persönlich zum Beispiel so eine Blockade gegenüber: Ich setze mich hin und schreibe Quellcode.
+
+Das hängt natürlich davon ab, ob man jetzt eher der ist, der richtig brennt für den Quellcode oder ob man jemand ist, der eher für die Konzeption brennt. Darum ist das in der Firma dann auch meistens so ein bisschen unterteilt in gewisse Aufgabenbereiche und gewisse Personen auch, dass jeder einen dieser Teile übernimmt.
+
+27:05 
+
+I: Wo siehst du dich da selbst?
+
+27:10 
+
+B: Es kommt tatsächlich auf das Projekt an, das ist bei mir jetzt auch ein bisschen im Umschwingen. Ich bin eigentlich gerne der Selbermacher, der eigentliche, derjenige, der Code schreibt. Hab jetzt aber auch zumindest in einem größeren Projekt die Aufgabe,
+
+da mit die Aufgaben zu verteilen und nicht mehr das selber zu machen. Das macht auch zusehends tatsächlich dann doch mehr Spaß als erwartet.
+
+Man gibt natürlich ein bisschen die Kontrolle aus der Hand, aber man hat durchaus noch Kontrolle in der Art und Weise, wie man die Aufgaben übergibt. Und umso exakter man natürlich die Aufgabe gibt, umso exakter ist dann das Ergebnis gegenüber dem, wie man es sich vorgestellt hat. Und ich glaube, es ist für den späteren Umsetzer in dem Fall durchaus angenehmer, wenn jetzt ein Entwickler diese Tickets schreibt, diese Aufgaben formuliert, als wenn das jetzt jemand ohne den technischen Kontext beschreibt. Also es kann Vor- und Nachteile haben, man verliert sich ja auch gerne in dem technischen Kontext, aber für den späteren Umsetzer ist es einfacher, das von jemandem zu lesen,
+
+der während er die Aufgabe definiert, sich schon so ein bisschen überlegt, wie würde ich das jetzt programmieren. 
+
+Also wenn ich ein Ticket formuliere, dann denke ich eigentlich immer schon selber darüber nach, wie würdest du das jetzt machen, wie würdest du das programmieren. Welche Fragen hast du vielleicht noch, während du das umsetzt? Die beantwortet man einfach gleich noch mit einem Ticket und umso schneller ist dann das Ergebnis da und umso lückenloser ist es vielleicht auch, weil man gar nichts mehr vergisst oder nur wenige Sachen vergisst.
+
+28:56 
+
+I: Okay. * Du hast gesagt, privat war früher eher so dieses Drauf-Los-Programmieren
+
+und langsam hast du aber so Strukturen von der Arbeit übernommen. War dieser Übergang, ist dir der jemals schwer gefallen?
+
+29:08 
+
+B: Nö. Also es war halt nicht hammerhart so, jetzt machst du alles komplett anders,
+
+sondern oft/ also auch im Arbeitskontext ist es nicht unüblich, abhängig von der Firmengröße, weniger oder mehr Struktur zu haben. Das ist ja auch total simpel erklärbar, wenn ich wenig Leute habe, dann kann ich viel auf Zuruf machen. Also gerade bei uns in der Firma, als ich angefangen habe, war es so, da waren wir ein kleiner Raum mit wenig Leuten, da konntest du über den Tisch rufen, du konntest direkt kommunizieren. Umso größer ein Projektteam wird und umso mehr sich vielleicht auch die Arbeitsplätze verlagern, also auch das spielt ja durchaus eine Rolle, wenn wir alle in einem Raum sitzen, können wir schneller mal Fragen stellen. Wenn du jetzt in einem Remote-Kontext arbeitest oder vielleicht auch zu völlig verschobenen Arbeitszeiten, dann ist es ja immer wichtiger, dass auch das Verständnis, warum es irgendwo im Quellcode eine gewisse Umsetzung erfolgt, warum hat der das so und so gemacht, ja immer wichtiger, das zu finden, ohne vielleicht denjenigen direkt fragen zu können.
+
+Und das hat sich langsam mehr strukturiert mit der Anzahl der Leute, mit denen wir zusammenarbeiten und damit war das für mich jetzt keine zu krasse Umstellung. Also das tut manchmal weh, einzusehen, dass so eine Struktur durchaus wichtig ist, wenn man jemand ist, der eher so, ich will jetzt nicht sagen chaotisch, aber doch ja, chaotisch trifft es eigentlich ganz gut, der chaotisch drauf loslegt. Aber das Ergebnis ist eigentlich das, was einen dann überzeugt, sobald da das erste Ergebnis mal kommt und man sieht, ach Mensch, das ist aber ja viel, viel besser, was da rauskommt und es funktioniert besser und/ 
+
+Ich kann da vielleicht auch auf meinen eigenen Quellcode noch in fünf Jahren oder in drei Jahren drauf gucken und verstehe noch, was ich selber gemeint habe, weil auch das ist jetzt kein untypisches Problem für Entwickler, dass sie selbst ihren eigenen Code nach ein paar Monaten selbst schon nicht mehr verstehen. 
+
+I: Ja.
+
+B: Äh, ja.
+
+31:07 
+
+I: Okay, du hast gesagt, die Arbeit, also die gibt dir halt normalerweise die nötige Zeit, außer es liegt irgendwas exorbitant über der Schätzung. Ist das schon mal passiert?
+
+31:19 
+
+B: Ja. (lacht) Also ich denke, wenn irgendein Entwickler sagt, der länger als ein, zwei Jahre arbeitet, wenn irgendein Entwickler sagt, er hat immer mit seiner Schätzung getroffen, der lügt per se. Das glaube ich nicht. 
+
+Das hat natürlich immer mit zwei Seiten zu tun. Die eigene Überschätzung spielt da durchaus ne riesengroße Rolle. Das fehlende Hinterfragen spielt ne Rolle, aber auch das fehlende Definieren von der Aufgabe. Also ich kann eine Aufgabe ganz kurz definieren, dann kann aber natürlich das Ergebnis auch unfassbar von dem abweichen, was eigentlich ursprünglich gefordert war, weil es nichts definiert war. Und wenn natürlich dann diese unvollständige Definition von der Aufgabe geschätzt ist mit, ich sage jetzt eine imaginäre Zahl, ein halber Mann-Tag, vier Stunden und ich brauche dann auf einmal eine Woche, weil aber während des Entwicklens auf einmal neue Anforderungen dazukamen,
+
+dann ist das natürlich/ dann haben irgendwie auch zwei Seiten Schuld. Dann ist es nicht unbedingt nur die Schuld des Entwicklers. Auch wenn es da nicht immer um eine Schuldfrage geht. Aber es ist auch ganz viel Über-, Unterschätzung und ein Entwicklungsthema richtig zu schätzen, das ist auch was, das fällt keinem am Anfang leicht, weil man ganz, ganz viel vergisst, man viel zu wenig nachdenkt, bevor man so eine Schätzung abgibt.
+
+Drum ist das, denke ich/ also mich würde es wundern, wenn das nicht jedem am Anfang schon mal passiert ist. Und irgendwann ist man einfach auch mutiger im Sinne von einfach viel mehr über dem, was man denkt zu schätzen, also einfach drauf zu schätzen. Das ist nicht unüblich, auch im Projektmanagement nicht. Weil am Anfang hat man auch einfach Angst, wenn man jetzt sagt, also mich fragt jemand, wie lange brauchst du für die Aufgabe und ich sage dem, ich brauche dafür eine Woche, da ist dann am Anfang auch als unerfahrener Entwickler ganz, ganz viel die Hemmung da, da eine zu große Zahl zu sagen, weil es könnte ja sein, dass der andere dann denkt, warum brauchst du da so lange? Was aber völliger, völliger Quatsch ist, das ist auch gerade im Kontext der Webentwicklung, was so Auftragsgeschäft ist, was wir ja nicht machen. Das habe ich aber in meiner vorigen Firma auch gemacht, einfach Webseiten gebaut. Da ist zwischendurch das Preisniveau an so einem niedrigen Punkt angekommen, weil einfach die Leute so eine Barriere haben, ihrem Kunden ne hohe Zahl/ und ob das jetzt Euro oder ob das jetzt Mann-Tage sind, das ist am Ende ja bloß ne Umrechnung mit nem Stundensatz/ weil die Leute einfach so niedrig anlegen, weil sie Angst haben, dass bei einem zu hohen Wert das nicht angenommen wird und damit wird sich halt in den Keller getrieben und das ist bei den Initialschätzungen als Entwickler auch so und man macht sich da unnötig selber Stress.
+
+Also wenn ich dann sehe, ich habe acht Stunden geschätzt und bin jetzt schon bei zehn,
+
+dann weiß ich, ich bin drüber, irgendjemand wartet auf meine Arbeit, dann stimmt halt das Ergebnis auch nicht und dann ist die dementsprechende Nacharbeit auch viel größer.
+
+34:18 
+
+I: Okay. Und also, aber diese Verzögerungen, die kommen hauptsächlich durch
+
+schlecht definierte Aufgaben zustande oder ist das noch anderes?
+
+34:30 
+
+B: Ja. *  Also in nem großen Teil dadurch. In seltenen Fällen sind es auch tatsächlich,
+
+wenn man/ also ein Entwickler kann auch durchaus mal dazu neigen, dann auszuschweifen und übers Ziel hinaus zu schließen.
+
+34:45 
+
+I: Okay?
+
+34:46 
+
+B: Also ein Kollege von mir, der hat das mal so schön gesagt eigentlich: man kann eine Funktion umsetzen, dass sie funktioniert, dass sie das macht, was sie soll, man kann sie aber auch so bauen, dass sie das, was sie soll, richtig toll macht, richtig cool macht. Also ich kann für das gleiche Thema, kann ich ne Stunde brauchen, ich kann da aber auch zwei Wochen rein investieren und in zwei Wochen sitze ich jetzt nicht auf der faulen Haut und mache nichts, sondern ich kann das ja unfassbar oft restrukturieren, mein Code refactoren, ich kann auslagern, auslagern, auslagern, auslagern, auslagern, das ist das Letzte, ich kann vielleicht mein Code auch noch dokumentieren, das kostet natürlich alles Zeit.
+
+Klar ist das in gewissen Teilen ne Zeit, die ich einplanen muss, aber man muss dann halt immer abstecken, wie viel davon ist nötig und wie viel investiere ich und das ist durchaus auch ein Grund, warum man dann drüber hinaus schießt und viel, viel länger braucht, weil man einfach sagt, oh Mensch, ich mach das jetzt richtig cool, ich setze das richtig cool um, aber es war gar nicht nötig.
+
+Ich kann halt einen Kreis auf dem Papier malen und der ist einfach bloß rund und schwarz, ich kann aber auch malen und er ist genau ein Kreis und er ist wunderbar bunt
+
+und auf Leinwand, aber es sind am Ende zwei Kreise.
+
+36:00 
+
+I: (lacht) Okay, ich fand die Metapher sehr schön. * Okay, aber wir sind auch quasi fast durch, also das hat sich gerade sehr schön entwickelt, ich habe von drei Teilen gesprochen, du hast den dritten Teil quasi von selbst abgehakt.
+
+36:30 
+
+B: Sehr schön.
+
+36:34 
+
+I: Genau, also ich habe quasi noch eine Frage und zwar beim Coden selbst, also du hast viel Erfahrung, aber gibt es da trotzdem noch Momente, wo du vorm Code selbst sitzt und zwar eigentlich weißt, was zu tun ist, aber trotzdem quasi nicht vorankommst?
+
+36:55 
+
+B: Ganz oft.
+
+36:56 
+
+I: Ganz oft?
+
+36:57 
+
+B: Ja, also ich würd hier jetzt das gleiche sagen wie mit diesem über-, unter-, wie auch immer schätzen. * Es gibt sicherlich die übelsten Brains, bei denen das nicht passiert, aber das ist einfach, zum einen ist das eine tagesabhängige Sache, also es gibt auch Themen, da sitze ich an einem Tag davor und weiß, was am Ende rauskommen soll und weiß auch so grob, was passieren soll und habe aber so eine richtige Blockade und weiß nicht, wie ich das jetzt in Quellcode formulieren kann. Und die gleiche Aufgabe gucke ich mir am nächsten Tag an und löse die innerhalb von zwei Minuten. Also das gibt es und das gibt es hier auch bei jedem von uns.
+
+Ein anders geartetes Phänomen ist diese Geschichte, ich sitze da vielleicht kurz vor Feierabend an so einem Thema, wo man sich dann einfach eingestehen muss, ich lasse das jetzt liegen, ich gucke mir das morgen früh an und es ist 99 Prozent immer der Fall, das, was ich abends nicht gelöst bekommen habe, setze ich mich früh ran, fünf Minuten gelöst, fertig. Da habe ich mir und allen anderen Zeit gespart. 
+
+Aber auch unabhängig von dieser Blockade und der Tagesabhängigkeit, es gibt immer wieder Sachen, wo ich davor sitze und weiß, wie ich das nicht umsetzen können muss.
+
+Muss auch meiner Meinung nach kein Entwickler, also das erwarte ich auch von einem ganz dollen, weder von einem ganz dollen Frischling noch von einem extremen Senior, erwarte ich das gar nicht. Würde ich auch von mir nie erwarten. Weil zum einen hat man ja ein gewisses Schwarmwissen, wenn man in einem Team arbeitet, man kann immer einen Kollegen fragen, man sollte dann wissen, wann. Und man hat auch einfach heutzutage so viele Möglichkeiten, also ich google auch Dinge und ich suche auch nach Codebeispielen, auch selbst triviale Dinge, die ich schon hundertmal gemacht habe, suche ich mir vielleicht aus einer eigenen Sammlung oder aus einem Stackoverflow-Beitrag einfach raus, auch um mir die Zeit zu sparen, das nochmal hinzuschreiben, weil ich einfach/ faul sein ist auch immer nicht verkehrt als Entwickler, also generell in jedem Job muss man manchmal auch einfach nur wissen, wo was steht. Und ich weiß nicht alles, ich will auch nicht alles wissen, denke ich. Das, also diese Blockade gibts. 
+
+Und manches ist auch einfach manchmal zu lange her, also es sind auch so ganz einfache Themen, die vielleicht einen mathematischen Ursprung haben oder sowas, wo man dann einfach zwar so in der Theorie weiß, wie das ist, und dann aber nicht mehr ganz genau weiß, mit welchem Operator arbeite ich jetzt oder oder oder. Dann gibt es so eine Blockade und dann ist es halt so.
+
+39:22 
+
+I: Alles klar. Gut, dann möchtest du von deiner Seite noch irgendwas hinzufügen?
+
+39:30 
+
+B: Nö.
+
+39:33 
+
+I: Alles klar. Dann würde ich die Aufnahme an der Stelle beenden.

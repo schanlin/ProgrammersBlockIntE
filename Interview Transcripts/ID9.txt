@@ -1,0 +1,741 @@
+00:00 --> 00:07
+
+I: So recording has been started. Are you okay with being recorded?
+
+00:07 --> 00:10
+
+B: Yes, yes, that sounds good. Thank you.
+
+00:10 --> 00:30
+
+I: That's great. So okay, the interview has or is structured in like three parts. And the first part is a questionnaire about your programming experience.
+
+00:30 --> 00:32
+
+B: Sure.
+
+00:32 --> 00:37
+
+I: So the first question is how old are you?
+
+00:37 --> 00:41
+
+B: So I am 44 years old.
+
+00:41 --> 00:47
+
+I: For how many years have you been programming in total?
+
+00:47 --> 01:08
+
+B: In total, in total. Let's see. So I've been programming for 36 years. And professionally, I programmed for about, I guess, 20, 25 years.
+
+01:08 --> 01:09
+
+I: 25, okay.
+
+01:09 --> 01:13
+
+B: Yes.
+
+01:13 --> 01:19
+
+I: And have you been like formally educated in programming or have you been self-taught?
+
+01:19 --> 01:47
+
+B: Oh, that's a good question. I would say it's both. I started programming when I was eight years old. And at that point, I was self-taught. And I would say the first formal education that I received was at university. So starting about the time that I was 18 years old. So I had about a 10-year period where I was self-taught.
+
+01:47 --> 02:13
+
+I: Okay. Good. * Then how large are your professional programming projects typically? So small would be below 900 lines of code. Medium would be between like 900 and 40,000 lines of code. And large would be above 40,000.
+
+02:13 --> 02:54
+
+B: Yeah. So it's typically, professionally, it's typically either medium or large. Probably the largest piece of software that I have worked on is SAP. And so I worked on a number of SAP deployments and made a large number of customizations and extensions within SAP. That's probably the largest code base that I've worked with. I'm not sure how many lines of code it is, but it is gigantic. It's amazing. It's like a marvel of software engineering (laughs) I love it.
+
+02:54 --> 02:57
+
+I: It would probably be above 40K (laughs)
+
+02:57 --> 03:02
+
+B: I mean, Yes. Yes. Indeed. Indeed.
+
+03:02 --> 03:16
+
+I: Okay. So on a scale of 1 to 10, how do you estimate your programming experience? So 1 would be very inexperienced and 10 would be very experienced.
+
+03:16 --> 03:45
+
+B: You know, I guess maybe like an 8 or a 9, I guess. I always feel like there are things that I can learn. You know, it's definitely not a repetitive profession. Uhm (laughs) * You know, there are a lot of new things that you run into and there's always new languages and new techniques and new strategies that you can use. So I feel like there's always more to learn.
+
+03:45 --> 04:02
+
+I: Okay. That's fair. * Then on a scale of 1 to 5, how do you estimate your programming experience compared to your colleagues or peers?
+
+04:02 --> 04:55
+
+B: So that's a great question. I would say that it's situational. Like I'll give you an example. Some of the projects that I'm working on now are/ they use TypeScript. And I've been working with TypeScript for about a year. And so in many cases, some of my colleagues actually have a lot more experience than I do in TypeScript. * And, you know, some of the tooling that we use within those projects. * So I think it's situational. I mean, in terms of, you know, global, all experiences, all languages, you know, I probably have more experience than them. So maybe, you know, a 5\. But, you know, in this particular situation, you know, I'm probably, you know, somewhere in the middle, maybe like a 3 or a 2, I would say.
+
+04:55 --> 04:57
+
+I: That's okay.
+
+04:57 --> 04:58
+
+B: Sure.
+
+04:58 --> 05:00
+
+I: I put in 5 for the easy answer, and then we have the more elaborated answer on the recording.
+
+05:05 --> 05:07
+
+B: Yes. Yes. Okay. That sounds good. Sure.
+
+05:07 --> 05:08
+
+I: Okay.
+
+05:08 --> 05:09
+
+B: I understand.
+
+05:09 --> 05:21
+
+I: Okay. So this is going to be interesting. How many programming languages do you know where you would estimate your experience 3 or higher?
+
+05:21 --> 05:23
+
+B: 3 or higher. Uhm
+
+05:23 --> 05:28
+
+I: And which ones are they if it's easier for you to
+
+05:28 --> 05:41
+
+B: Yeah. Yeah. Sure. Sure. Yeah. That's a tough one. So I might not catch them all, but let me/ I'm going to say some old languages.
+
+05:41 --> 05:43
+
+I: Okay. That's (laughs) fair.
+
+05:43 --> 07:04
+
+B: Yeah. Do not laugh too hard. And I'm sure I will miss some. So let's see. Let me start with Java, C Sharp. * Let's see * Ada, COBOL, ABAP * TypeScript, JavaScript. I'm not sure if you would combine those or not. Let's see what else. Rexx. * Let's see. * 3 or higher. * That rules out a lot of the LISP-type languages that I haven't used in a long time. That would rule out Prolog. * Let's see. I'm pretty decent in C and C++. So I might make those a 3, it might be closer than a 2 though. * Let's see what other languages. * I think I hit the major ones. Yeah, I think I hit the major ones. I didn't keep count, though. Did you happen to keep count?
+
+07:04 --> 07:06
+
+I: I counted 9.
+
+07:06 --> 07:07
+
+B: Okay. All right.
+
+07:07 --> 07:10
+
+I: However, I did not catch the name of the one you said between COBOL and TypeScript.
+
+07:13 --> 07:20
+
+B: Oh, COBOL and – Oh, it was probably – was it ABAP?
+
+07:20 --> 07:21
+
+I: Yes.
+
+07:21 --> 07:25
+
+B: Okay. That's the language that you use within SAP.
+
+07:25 --> 07:27
+
+I: A B A P.
+
+07:27 --> 07:28
+
+B: Yep. A B A P.
+
+07:28 --> 07:29
+
+I: Okay. All right.
+
+07:29 --> 07:31
+
+B: Yes. Yes.
+
+07:31 --> 07:39
+
+I: So * 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 (counting in German) Okay, so it's 10\. (laughs) I miscounted
+
+07:39 --> 07:42
+
+B: (laughs) Okay. Okay. Okay.
+
+07:42.000 --> 07:49
+
+I: And about the combining of TypeScript and JavaScript. So in past interviews, I've counted them separately. So I'll/
+
+07:49 --> 07:54
+
+B: Okay. Okay. Sounds good.
+
+07:54 --> 08:15
+
+I: Okay. Then for the final questions, I want to ask again on a scale of 1 to 5\. How experienced are you with the following programming paradigms? * I hope I pronounced that correctly (laughs). Functional programming first.
+
+08:15 --> 08:37
+
+B: You know, so I've used it quite a bit in the past, but I would never say that/ so I've used, you know, different lisp variants. * It's been a long time. So maybe I would say it's probably a 2 if I had to say.
+
+08:37 --> 08:43
+
+I: Okay. Then next is imperative programming. ImPErative? IMPerative?
+
+08:43.000 --> 08:44.000
+
+B: Yes. Yes. Yes. You have it spot on. Yes, indeed. So more of a 5\. One thing that is interesting is that you see a lot of imperative languages taking on many of the * you know, stylistic methods of the functional languages. Like you see that within TypeScript, right. You can use a lot of, you know, functional approaches in there, but * yes, I would say a 5 for imperative.
+
+09:09 --> 09:14
+
+I: Okay. Then logic programming.
+
+09:14 --> 09:17
+
+B: Give me an example of what you might mean by logic programming.
+
+09:17 --> 09:29
+
+I: So there's like – I only have one language as example. I need to find it so I don't say something wrong.
+
+09:29 --> 09:32
+
+B: No, it's okay. Take your time.
+
+09:32 --> 09:34
+
+I: Prolog.
+
+09:34 --> 09:46
+
+B: Oh, prolog. Yes, I have used prolog. It has been a long time. I would probably say a 1 for prolog just because it's been so long.
+
+09:46 --> 09:52
+
+I: At least you've used it. Like most of the people I asked haven't heard of it, so/
+
+09:52 --> 10:02
+
+B: (laughs) You know, I think I used to have a book on prolog. And I think that I got rid of it last year (laughs) because I have not used it in so long.
+
+10:02 --> 10:07
+
+I: And the final one is object-oriented programming.
+
+10:07 --> 10:10
+
+B: I would say a 5.
+
+10:10 --> 10:13.000
+
+I: All right * So that was the first part.
+
+10:16 --> 10:20
+
+B: Okay. Sounds good.
+
+10:20 --> 10:23
+
+I: So I need to switch documents.
+
+10:23 --> 10:25
+
+B: Sounds good.
+
+10:25 --> 10:42
+
+I: So the second part of the interview is concerned with your programming process. Okay, so first I think I've already heard that out of your answers before, but I want to ask, do you also program in private or as a hobby?
+
+10:42 --> 10:58
+
+B: Yes, I definitely have done that. Especially/ yes, yes. I would say so. I don't have any hobby projects right now. But I definitely have in the past.
+
+10:58 --> 11:01
+
+I: Okay. But I need to know that for later.
+
+11:01 --> 11:03
+
+B: Yes. Okay. Sounds good.
+
+11:03 --> 11:41
+
+I: Okay. So, yeah, about the programming process. That's where we were. So what I'd like you to do or what I'd like to ask of you is to tell me about a recent project of yours. Maybe one that is not too large, so it's actually feasible to talk about it in time. It can be finished or still in progress. It can be from work or private project. And that you just, like, walk me through it from start to end, what you did.
+
+11:41 --> 12:11
+
+B: Sure, sure. So I would say the best one to talk about is probably a Visual Studio Code extension that I built over, I guess, over the summer. So it's very recent. And how did it start? * How exactly did it start? * It started, like most things, with an idea.
+
+12:11 --> 12:13
+
+I: Yeah, that's a good starting point.
+
+12:13 --> 13:49
+
+B: Yes. And so it started as an idea. And * I wanted to, yeah, so we had this idea for a test generation tool. And so this was a prototype to evaluate, you know, whether our ideas were feasible or not. And so we had some prior work that we looked at. And * some of the parts of the tool I had previously built before. So I had, like, a TypeScript analysis tool that I had previously built and a telemetry tool that I had previously built. And so this new application was built on top of those two pieces of code. So it was object oriented, so it was fairly easy to, you know, include those, even though some changes were needed. And so, you know, we kind of built that up and then built the interface. We did a couple, you know, different variations of the interface. I had a student who was working with me over the summer. And so right now we're running a user study on that tool to, you know, see how folks interact with it and, you know, how well they can complete their tasks using that tool.
+
+13:49 --> 14:31
+
+B: So, I mean, if I were going to break it into phases, it's a little bit different than maybe a typical business project, right? Like if I were, you know, building an application for business, you know, we would usually start with, you know, requirements. We'd have a lot of meetings, you know, talk about what was needed, you know, come up with a couple, you know, like process flows or, you know, whatever, you know, and then build and prototype and whatnot. But this one, you know, just being an academic tool, it was kind of a different process. I don't know, that seems kind of/ I don't know, does that help at all? Or do you want to ask any follow-up questions?
+
+14:31 --> 14:40
+
+I: Yeah. I've/ * that there's differences between academic tools and business is already interesting.
+
+14:40 --> 14:46
+
+B: Yes, yes, indeed.
+
+14:46 --> 14:55
+
+I: Yeah, like if you're still like, if the thoughts are still flowing, you can keep talking.
+
+14:55 --> 15:34
+
+B: Yeah, sure, sure. I mean, typically, you know, academia is so different from business, right? Typically, there's a, you know, some kind of a desired business outcome that you want to achieve. And so maybe, you know, you are, you know, modifying, or you're building a (?bolt) on to SAP that manages, you know, consignment inventory, and you kind of have this external world of, you know, different vendors and customers that you're talking to. So you have these transaction flows. And so you kind of have that boundary with the external, and then you have the business requirements that are internal, and you have to figure all those out and that kind of defines the outside scope of your solution.
+
+15:34 --> 16:35
+
+B: Whereas with, you know, academia, it's very different. Like in this case, we had some prior work that we could look at and, you know, see what techniques have been used and what had worked and not worked in the past. And we were kind of surprised that there's a lot of tools that, like, especially within like automatic test generation, where there are no successful user studies, right, which was kind of surprising. There's a great tool called EvoSuite that when they did run a user study on it, they found that it had no positive benefit. So we're kind of, you know, working within that prior work. And, you know, both development processes are iterative or tend to be. But, you know, kind of understanding the boundary between the software and the external world, it seems to be very different within academia than it is in, say, a business project, I would say.
+
+16:35 --> 16:51
+
+I: Okay. * Yeah, that's very interesting. * So I'd say we, like, stay at the process like of this project for the moment.
+
+B: Sure
+
+16:51 --> 17:13
+
+I: So, yeah, you had a lot of prior work you could build upon. And then, so like in your/ what you told me now, so it jumps from, yeah, we looked at the prior work, we could use that. And then we built the interface. * So, like, what were the steps in between?
+
+17:13 --> 17:31
+
+B: Oh, fair question. Yes. Yes. Yeah, the steps in between. * So, yeah, I would say they're not super well defined.
+
+17:31 --> 17:32
+
+I: That's fine.
+
+17:32 --> 18:47
+
+B: Yeah, like we always think of, you know, software engineering as, you know, having a lot of distinct phases and things. And you look at like, you know, VOMS spiral model and all these different models, right. It seems that the projects that I've worked on that have been the most fun or the most enjoyable, they/ * so you tend to have periods of time where, you know, you kind of develop something that is what might be called like a minimum viable product, right. It has, you know, just the very core, you know, essential, you know, pieces of functionality. And that's what we did with this tool. We kind of built the bare minimum, you know, functionality. And I don't even know if it had an interface, like a real user interface at that point. And, you know, it was pretty easy to get to that point where we just had the minimum functionality because we, you know, I already had some pieces and parts like an analysis tool that I built and, you know, the telemetry. And so, you know, we could get to that minimum viable product very, very quickly.
+
+18:47 --> 19:11
+
+And then, you know, once that was achieved and we knew that it could work, then we iterated and added features. Like initially, we didn't support things like arrays, you know, and we added that in a little bit later in a separate iteration. So kind of once we had that minimum core, you know, we would just iterate with each iteration, which was usually, you know, a couple of days or a week, right.
+
+19:11 --> 19:12
+
+I: Yeah.
+
+19:12 --> 19:35
+
+B: You know, we would see, yeah, we would see * you know, what, you know * we would kind of get to some additional functionality until we got to the point, you know, maybe a month or so ago where we felt like we were in pretty good shape. And I would say the iterations have really, really slowed down since then.
+
+19:35 --> 19:49
+
+I: So the step from like the idea and looking at the prior work to this like core functionality you described. So that was pretty quick or was there like a lot of planning involved still?
+
+19:49 --> 20:38
+
+B: Yeah, I would say there was almost no planning involved (laughs) to be candid. And I've worked in projects where you do a lot of planning and I've led those projects. And then, you know, projects like this where, you know, there was very/ like, I mean, once we reviewed the prior work, we were really confident that we would be able to get it to work. And then the question was, you know, how will, you know, how will folks interact with it? And so we were kind of more concerned about the human interaction aspects of it. But I would say this one had very, very little planning. We did not do any architectural diagrams or anything like that. It was a fairly, you know, unstructured process, I would say.
+
+20:38 --> 20:41
+
+I: Okay. Taking some notes.
+
+20:41 --> 20:50
+
+B: Sure. Yes.
+
+20:50 --> 21:15
+
+I: Okay, so you say you've like had a lot of different working processes on different projects. You mentioned there's like a big difference between academic projects and business projects. Are there like other categories you could think of where the processes are like noticeably different?
+
+21:15 --> 22:31
+
+B: Well, that's a good question. That's a really good question. * I would say that I can think of at least one more example. And with * let's say with applications that are not human facing, right, they tend to have a very different model of development in a lot of cases than ones that are human facing. * You know, there's a lot of/ you know, when it's simply a back end piece of software that, you know, folks don't necessarily see, it's actually really/ it's still challenging, but in a lot of cases, it's a different set of challenges because you only have, you know, specific items to work with at the boundaries, right, you have certain inputs, you have certain outputs. You know, you may have different application programming interfaces that you are interacting with. And maybe you have access to certain databases. And so you kind of have this fixed area that you are working in.
+
+22:31 --> 23:14
+
+B: Whereas with humans, all of a sudden those boundaries become very/ let's see, what would be a good word? I want to say squishy. But, you know, they become much less defined, right? Because humans are not, you know, humans are variable in terms of what they know and what they bring to the table and the way they interact with their tools. So in that case, you know, there is a difference, I would say, between the process when there's a, you know, it's purely a back end application and one that is user facing. There's probably other categories too. But that's one that I can think of, at least right now.
+
+23:14 --> 23:29
+
+I: Yes, I can totally see that. * One that's maybe like/ do you see a difference between projects you do for work and projects you do like privately for yourself?
+
+23:29 --> 25:09
+
+B: Yeah, I would say so. Like if I'm building something just for myself, you know, it tends to be very unstructured. Because usually I'm doing it for my enjoyment, right? And what is the way that I can enjoy, you know, two hours of coding, you know, the best, right? And usually that's not in architectural diagrams or, you know, things like that. You know, or even, you know, building test suites, right? You know, typically it's about functionality and what it does. So my priority is when it's a personal project that's just for my use is very different than if it's a, you know, one that's going to be like publicly available or one that I'm doing for business. If it is either one of those, then, you know, it needs to be tested. It needs to be, you know, pretty well designed. Whereas, you know, if it's just a personal project for, you know, me or my kids, it's some kind of a game or whatever, right? I can, you know, just, you know, write whatever, right? And I don't necessarily have to think about the next programmer who's going to maintain this piece of software or, you know, that it needs to have a comprehensive test suite so that way it, you know, we can check for regressions. You know, if it's just a game, then, you know, for the kids, then, you know, that stuff doesn't necessarily matter. Sometimes when it crashes, that's funny, right? (laughs) But that's not the case in almost any other project. Indeed.
+
+25:09 --> 25:14
+
+I: Okay, so you've already mentioned a bit of that. So when you're writing a project, like who do you have in mind? So basically, who is the code for?
+
+25:22 --> 26:25
+
+B: Yes. Yes, that's a good point. So, you know, who is the code for and who will be maintaining it after, right? So especially within business, you know, you want to be able to build your application. And you want to have a minimum of support associated with it, you know, once you deploy it in a lot of cases, right? You know, because in a lot of cases, you want to go on to the next project and, you know, not necessarily be tied down, you know, supporting this one application forever because then that's all that you'll do. So typically, you know, you're building these things to be very, very low maintenance over time. And in a lot of cases, that means that, you know, it needs to be easy for a junior developer to come in and, you know, pick up the code base and then, you know, be able to support it or, you know, maintain it as well. * I'm trying to remember what the question was. I'm sorry. I forgot the question. (laughs) What was the question?
+
+26:30 --> 26:33
+
+I: Like the question was who you have in mind.
+
+26:33 --> 26:34
+
+B: Oh, yes, yes.
+
+26:34 --> 26:35
+
+I: Writing your code.
+
+26:35 --> 26:44
+
+B: Right, right. So both from a user standpoint and then, you know, who will be maintaining the code after me, right? Those are definitely both key considerations.
+
+26:44 --> 26:59
+
+I: Yes. Okay, so I think since we've strayed a bit from the original project already, I think we can end this part here.
+
+26:59 --> 27:01
+
+B: Okay, sounds good.
+
+27:01 --> 27:03
+
+I: And go to the third part. How is it with your time since we're already at half an hour? Do you have the time or do we need to, like, speed it up?
+
+27:11 --> 27:15
+
+B: I do have about maybe seven more minutes.
+
+27:28 --> 27:29
+
+I: So I'll try to speed it up a bit.
+
+27:29 --> 27:33
+
+B: Okay. You're good. You're good. Yeah, get everything you can.
+
+27:33 --> 27:40
+
+I: Okay. So, like, the third part is it's about, like, problems in the process.
+
+27:40 --> 27:41
+
+B: Yes.
+
+27:41 --> 27:54
+
+I: So first, like, first question is, like, the extreme case. Have you ever discontinued a project due to some problems?
+
+27:54 --> 28:07
+
+B: Yes. Yes. Actually, I have. And actually, we can take as long as we need. I have just realized that I misread my calendar. So I do have plenty of time.
+
+I: Okay
+
+28:07 --> 29:39
+
+B: Yes. Yes. I think there's a/ I think on average, what is it, like, 50% to 60% of, you know, business software projects fail. I think that's the industry number. And I've definitely experienced some failed projects. And * let's see. I can think of one that was very notable. It was a pricing system and we were going to improve pricing, whatever that meant. (laughs) And we could never define what that meant, right? And we would spend/ every quarter we would have a project to figure out what that meant. And we would sit down with the leaders of that section of the company and we would, you know, define what our goals were and we would be very specific in terms of what we were going to do and how it was going to work. And then at the end of the quarter, the leaders would get together and decide that they had changed their mind. And that we weren't going to go that way.
+
+29:39 --> 30:33
+
+B: And instead, next quarter, we were going to reanalyze it and decide what we were going to do. And so, like, during this time, each quarter, you know, we want to be very visible in terms of, you know, what these choices mean. And so we would develop prototypes and mockups and, you know, draw, you know, what it would look like on the board and what that meant. And I would say that I went through this for about a year. So I went through it, I think, four times. And eventually, another senior developer was assigned to it. And but, yeah, so I guess that's a case where even after much work, more than a year's worth of work, we could never figure out what the requirements were, right? So we could never build anything. I mean, that's kind of an extreme case.
+
+30:33 --> 30:34
+
+I: Yeah.
+
+30:34 --> 30:50
+
+B: You know, can I think of a technical failure? I mean, we could always figure out how to make it work from a technical standpoint. We've had, I've seen issues with process discipline.
+
+30:50 --> 30:51
+
+I: Okay?
+
+30:51 --> 32:17
+
+B: Like, if you take a, like, let's say you take a facility or a business process that is executed with low discipline, right? So people, they don't follow the process. They kind of do whatever, right? And if you try to systematize that or computerize it, then it just makes it worse, right? And I've definitely seen that. We deployed a set of manufacturing and warehousing processes that were automated in one particular facility that we had. And it was a disaster. The software worked fine, right? But folks just did not follow the process that was supposed to be in place. So that's another situation that I've seen where/ and I guess that project didn't fail. You know, the answer there was to instill more discipline in the individuals on the manufacturing and warehouse floors. Let's see. Can I think of one that, like, technically failed?
+
+32:17 --> 32:23
+
+I: Projects that, like, have been delayed significantly or so are also interesting.
+
+32:23 --> 32:48
+
+B: Yeah. Yeah. I can/ Oh, I've got some of those. Yeah. Yeah. I've got one that failed to meet objectives due to design problems. And I've got one that failed to meet objectives or that failed to meet a timeline due to almost every reason.
+
+32:48 --> 32:49
+
+I: (laughs) Okay?
+
+32:49 --> 33:28
+
+B: (laughs) Let me start with the first one. So, you know, this particular tool, it was a pricing system. And so it was designed to price very complex telecommunication products that were configurable. So the customer could call up and say, I want this configuration, these parts, you know, this length, this type. And then based on that, the system would spit out a price, right? So it's kind of like you go onto Volkswagen's website and you build a car, right? It's kind of that sort of thing.
+
+33:28 --> 34:32
+
+B: And I was assigned to lead this project because there were a large number of telecommunication products. And this * development team, they had only been able to do one product over the course of about a year, right? And, you know, the next one, the next product was going to take another year. And no one was okay with this (laughs) right? It's like, we have 10 products to do. We cannot take a decade to do it, right? And, you know, we were not just going to throw developers at it because that is really expensive. And so I dug into it and found that the problem was really the design. You know, there was no configurability. There was no abstraction in terms of how you price things. So, like, literally, the pricing system was designed all around this one particular product. And so (laughs) you know, to do the next product, they would have to build a completely new system, right, that did the same thing.
+
+34:32 --> 34:34
+
+I: Okay, yeah, I see.
+
+34:34.000 --> 35:15
+
+B: Yeah. And so, you know, that was a situation where the design was fundamentally flawed because they did not define a layer of abstraction that would allow you to, you know, pricing is not that complicated. You only do about, you know, 10 or 15 different things. And, you know, what is the sequence of those and what are the inputs? How do you calculate it, right? Those are the things that you need to abstract. And so that was an issue where there was a lack of abstraction that we fixed. And after that, we could, you know, deploy new pricing systems pretty quickly, you know, maybe about one a month.
+
+35:15 --> 35:19
+
+I: Okay. Yeah, this is a new one for me.
+
+35:22 --> 35:26
+
+B: (laughs) Sure, sure.
+
+35:26 --> 35:32
+
+I: Okay, so, yeah, okay. So, you have a lot to tell. It's very interesting.
+
+35:32 --> 35:34
+
+B: (laughs) Sure, sure. I can talk forever.
+
+35:36 --> 36:00
+
+I: I can imagine, yeah. * So, yeah, so you're very experienced, so, but are there still, like, moments in programming or maybe you still remember them, where you, like, where you basically draw a blank? Like, you know, in theory, what to do, but, like, you sit in front of the code and you're like, huh
+
+36:00 --> 37:23
+
+B: Yeah, yeah. I would say that is part of the human experience, and, you know, some of that never goes away. I would say that, you know, especially when I was younger and if you were juggling, you know, many different/ I mean, luckily, most languages these days, they use similar syntax, right? It all looks like C. It all looks like Java. You know, a lot of the differences are in other areas. But we used to joke about, you know, how do you end an if-statement, right? Is it a curly brace? Is it end? Is it end dash if? Is it end no space if? (laughs) You know, and, you know, so joke things like that. And also the IDE support is a lot better now. Whereas even, you know, 10, 15 years ago, it was not very good. So it's a lot easier to get unstuck these days if you just don't recall, you know, a particular, you know, a particular function that you want to call, you know, what's the sequence of parameters? You know, that's all easily available within the IDE now.
+
+37:23 --> 37:58
+
+B: But I would say that, you know, I still have moments where, you know, I sit there and I know conceptually what to do, but, you know, exactly how to do it in, say, TypeScript, you know, is going to be different than it is for Java, right? It's going to be different than it is, you know, perhaps for C sharp. So I would say that I still have that. And then there's kind of an additional layer of confusion too, maybe not confusion, but complexity, you know, just in terms of, okay, I know how to do that in this language. How do I do that in this language too, right?
+
+38:03 --> 38:08
+
+I: Okay, so that brings up, that just brought up a new idea in my mind.
+
+38:08 --> 38:29
+
+B: And it's really nice if you can just work in one language, right, that's really nice, like right now I just work in TypeScript, right? And that makes it a lot easier. It's hard when you're writing in like three or four different languages within the same week.
+
+38:29 --> 38:32
+
+I: Mhm. * Okay, so final question.
+
+38:32 --> 38:36
+
+B: Yes.
+
+38:36 --> 38:54
+
+I: So maybe it's the same question to you, but the phrasing is important. So do you think that you've ever encountered like a programmer's block analog to like a writer's block?
+
+38:54 --> 40:24
+
+B: That's a good question. * Like a programmer's block like a writer's block * I would say, yeah, I mean I would say yes. And * But I'm trying to think of a specific situation. Like I know it happens, I guess the question is how long does it last and what are the particular, you know, what are the particulars around the situation? * I mean there's a, I guess there's a couple risk factors to, you know, either bad code or no code. One is definitely being tired, right? So like if I am just tired, it's been like, let's say that I was up really late the night before. Maybe something went wrong in production and you get called in and you work on that problem. And so you get to bed at four and you're back to work at eight. That is not going to be a good programming day (laughs) No matter what I do, it is not going to be a good programming day. And I'll probably have a lot of situations where, you know, candidly I stare at the screen and my mind just does not work very well.
+
+40:24 --> 40:59
+
+B: And when I was younger, I joke about this, but I made a rule that says that, you know, don't write code after 4 a.m., right? (laughs) Any code that you write after 4 a.m., it has no value. It actually has negative value because it's garbage and you're going to have to rewrite it anyway. And it may be worse than garbage because you might miss part of what you need to rewrite. And so now you have more bugs that you have to deal with. So just don't write code after 4 a.m.
+
+40:59 --> 41:56
+
+B: I would say, you know, that's probably the big thing is just being, you know, fresh. I know some people have a lot of trouble with, like, distractions. And I've coded in some pretty noisy, I would say, pretty, you know, distracting environments. So I kind of learned to focus. But I would say, you know, I mean, I guess a lot of it is kind of environmental. You know, if you're worried about something or you're tired or maybe you just need to eat, you know, I would say a lot of those fundamental needs come into play. I'm trying to think if there are any other situations, too.
+
+41:56 --> 42:49
+
+B: I mean, if there's poor support in the IDE, that can, you know, make those moments a lot longer. Like if you can't, you know, maybe/ and I've seen this even in my own work, right? You know, maybe I'm working with the library or something that, you know, doesn't have good definitions. And so there's no, you know, there's no help in the IDE, you know, for that particular function call. And, you know, you go out to the documentation and, you know, the documentation is also no help, right? And then you have to dig into the code to figure out exactly how it works. Yeah, that can definitely elongate that block. Yeah, I don't know if I'm kind of getting where, you know, where you're interested in. If I'm getting off the subject, just let me know.
+
+42:49 --> 42:57
+
+I: No, it's also, it's, I'm also, I also find it interesting just what people associate with that.
+
+42:57 --> 42:58.
+
+B: Yes.
+
+42:58 --> 43:01
+
+I: With this world I made up, basically (laughs)
+
+43:01 --> 43:07
+
+B: (laughs) That's right. That's right. I love it. It's a great word. We should use it more.
+
+43:07 --> 43:17
+
+I: Okay. So, yeah. So that was like my questions. Would you like to add anything?
+
+43:17 --> 43:22
+
+B: Would I like to add anything? Not that I can, not that I can really think of.
+
+43:22 --> 43:23
+
+I: Okay.
+
+43:23 --> 43:28
+
+B: Yeah, this has been fun. I really, I always enjoy talking about these things.
+
+43:28 --> 43:30
+
+I: That's great.
+
+43:30 --> 43:34
+
+B: Sure. Glad to do it.
+
+43:34 --> 43:41
+
+I: Okay. So, like, if you still have time and are interested, like, if you want, I can explain what this is all about.
+
+43:41 --> 43:45
+
+B: Yeah, yeah, that'd be great. Indeed.
+
+43:45 --> 44:14
+
+I: So, what I'm doing for my master's thesis, and hopefully also beyond that, is that I have some background in writing research. * So, I've, yeah, I've studied some literature about, yeah, about, yeah, writer's block, writing processes in general, and I've been trained to be, like, a writing counselor.
+
+44:14 --> 44:16
+
+B: Oh, nice.
+
+44:16 --> 44:23
+
+I: So, what I'm trying to do now is to apply, like, that theory to programming.
+
+44:23 --> 44:30
+
+B: Oh, that's neat. Yeah, that sounds really neat. * How many interviews have you conducted so far?
+
+44:33 --> 44:35
+
+I: You are number nine.
+
+44:35 --> 44:39
+
+B: Nice, nice. That's great. That's great.
+
+44:39 --> 44:41
+
+I: And number 10 will be tomorrow.
+
+44:41 --> 44:48
+
+B: Oh, great, great. So, are you getting a lot of insight that kind of helps with your theory?
+
+44:48 --> 45:57
+
+I: Yeah, so, some interesting things I think I've already encountered. Like, definitely, like, I'm, like, I'm asking both about the processes, right? So, because I feel like in, like, individual programming processes, I feel like have not been studied that well so far. So, and also I want to see if they are, like, comparable to writing processes, so that the writer's block thing is also comparable. And so far, yeah. So, yes, I see similar, like, differences in individual processes in programming, like in writing. I think that's very interesting. So, like, people do, like, planning differently or in different amounts or, like, there are these more iterative processes you, like, you told about, or some people, like, they're more like, yeah, I just throw some code on the wall. I don't do any planning at all. And I will see what sticks.
+
+45:57 --> 46:00
+
+B: (laughs) Yes, yes, indeed. Indeed.
+
+46:00 --> 46:04
+
+I: And that's very similar how it is in writing, I feel.
+
+46:04 --> 47:32
+
+B: And that's, I mean, that's a really interesting thing, too, because I would say that, you know, at the beginning, I did exactly that. You know, when I was when I first started programming, I would kind of throw things against the wall and, you know, see what stuck. And then I learned a lot of tools for creating structure. Right. And that helped me a lot. And then I found that as I, you know, as I had applied a lot of structure many times over many projects, over many programs, I kind of got an intuitive sense of what worked and what the positive patterns were and what the negative patterns were. And so I feel like now I can kind of go between structured and unstructured pretty well. And the outcome is typically pretty close. And I mean, maybe that's just a perspective of, you know, doing it for a really long time. But, yeah, because I think that's maybe kind of how we, I don't know, maybe that's how/ I guess, I guess you're the expert. So I wonder if that's kind of how we do writing, too. We just kind of when we're very small, we kind of write off the cuff and then we learn some structure. And then when you were in high school, you know, your essays are very structured. And then as time goes on, you kind of learn how to write, you know, whether it's structured or not. Yeah, that's interesting.
+
+47:32 --> 47:49
+
+I: So that's like this concept that you start out with. It's called like knowledge telling versus knowledge/ I forgot the exact word, but like that you start by just throwing everything you have into the text and then it's finished.
+
+B: (laughs)
+
+47:49 --> 48:10
+
+I: Or like maybe you generate some more ideas from like the first sentence, but that's it. And then as you like progress, as you get better with writing, you learn to use writing as a tool to generate more knowledge. So that writing is also a thinking tool.
+
+B: Yes
+
+48:10 --> 48:45
+
+I: And then there's also the concept of like most people like tend to have like a writer's type, like some want to like start writing as much text as possible as early as possible. Some like to like plan it all ahead in their head. And what writing counseling tries to do is like make people aware like of their own like type and then to teach that there are other types that you can use these other types as strategies.
+
+48:45 --> 49:01
+
+B: Oh, wow. I mean, that's neat. I think you might have hit a goldmine here. Yes. (laughs) I think this is fascinating.
+
+49:01 --> 49:07
+
+I: Yeah, so now I just need to be able to write it down in a good way myself.
+
+49:07 --> 49:16
+
+B: Right. Indeed. Indeed. That's right. That's right. Indeed. Indeed. Wow. That's neat.
+
+49:16 --> 50:05
+
+I: Yeah. And so what is also what's very interesting, I feel like so about writer's block especially, that I feel like from the conversations I've had now, it's almost like when software projects like get canceled. Like the ones you told me about. Where basically the definition of the project failed. I feel like that's also comparable to how like writing projects fail sometimes. Where you like basically there can be failure like in the conception of the/ like you never really get this final picture of what the text actually should be.
+
+50:05 --> 50:06
+
+B: Yes.
+
+50:06 --> 50:31
+
+I: And that's where a lot of like writing projects are like canceled or stopped. And what I find fascinating is that this like also in software projects, because it's done in teams mostly, that it also happens with these big teams. (laughs) Similarly to like how an individual would stop their writing project. I find that fascinating.
+
+B: Yes
+
+50:31 --> 50:38
+
+I: I don't know if it is directly comparable, but I feel like I see some similarities.
+
+50:38 --> 52:15
+
+B: Yeah. Yeah. That's right. I mean, even working on academic papers, when you have co-authors, there's not always a clear idea of what the paper is going to be about. And, you know, like my last paper, there were six of us, so six co-authors, and I was the first author. And, you know, keeping all of us on the same page about what the paper was about (laughs) was always interesting. Because a paper, like software, it can be about anything, right? You know, you can, you know, choose to focus on this one area of the data and really drill into it. Or, you know, you can keep it broad or focus on a different area. And, yeah, I can feel that similarity between the two. It looks very different in practice, but I think that, you know, it's very similar in terms of the idea. I guess maybe with the paper, it's a little bit easier to change the direction later on. Whereas, you know, software, you kind of have these complex artifacts that are built up. And, you know, in some cases it can be, especially if there is not good abstraction, you know, to change that purpose later on, it gets more difficult than with the document. But the concept, it seems to jive. Yeah.
+
+52:15 --> 52:26
+
+I: It's kind of reassuring that writing also has some advantages in such a case over programming. Because I fell like programming benefits a lot, as you've also mentioned, from the tools that we have.
+
+52:31 --> 52:32
+
+B: Right.
+
+52:32 --> 52:42
+
+I: That we can just run code through our IDE and then if it is wrong, the IDE will tell us so. But we don't know that about text until we have readers.
+
+52:42 --> 53:23
+
+B: That's exactly right, yes. Yes, that is a great advantage that we have now in IDEs. The IDEs did not used to be as good as they are now. They did not have all the, you know, static analysis and, you know, assistance. So I guess that programming, you know, in a lot of ways used to be, you know, similar or maybe a little bit more similar. But still, you always had one compiler that you were targeting, right, not necessarily or one platform. Whereas with readers, as you know, you can have five different readers. And if your language is not super precise, they have five different ideas of what you said, right? (laughs) So that's very difficult
+
+53:23 --> 53:29
+
+I: Yeah, I mean, even if your language is precise, they have different backgrounds.
+
+53:29 --> 53:32
+
+B: (laughs) Indeed, yes. Good point, yes.
+
+53:32 --> 53:35
+
+I: I guess it's an advantage of talking to a machine.
+
+53:35 --> 53:44
+
+B: Yes, yes, indeed. Indeed. That's right. That is an advantage.

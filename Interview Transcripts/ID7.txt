@@ -1,0 +1,303 @@
+A: 00:00:01,660 --> 00:00:06,400
+Okay? Ja. Bist du damit einverstanden, hier aufgezeichnet zu werden?
+
+B: 00:00:06,940 --> 00:00:07,300
+Ja.
+
+A: 00:00:08,370 --> 00:00:17,100
+Sehr gut. Das Interview hat drei Teile. Das erste kennst du vielleicht schon. Das ist unser Fragebogen zur Programmiererfahrung.
+
+B: 00:00:18,410 --> 00:00:21,010
+Ja, ich glaube, den habe ich schon mal gesehen. Ja.
+
+A: 00:00:22,670 --> 00:00:27,770
+Dann kennst du das ja schon, nur diesmal mündlich. Okay, also fängt an mit: Wie alt bist du?
+
+B: 00:00:28,910 --> 00:00:29,900
+21
+
+A: 00:00:31,130 --> 00:00:33,410
+Wie viele Jahre Programm wirst du insgesamt schon?
+
+B: 00:00:34,420 --> 00:00:40,240
+Ich habe ungefähr mit 15 angefangen, also sechs Jahre.
+
+A: 00:00:42,250 --> 00:00:44,830
+Wie viele Jahre davon in irgendeiner Art Ausbildung?
+
+B: 00:00:46,910 --> 00:00:48,620
+Die letzten mittlerweile drei.
+
+A: 00:00:50,860 --> 00:00:52,750
+Und welche Art Ausbildung?
+
+B: 00:00:54,430 --> 00:01:01,990
+Erst die zwei Jahre Berufsausbildung, Fachinformatiker Anwendungsentwicklung und jetzt Studium das letzte Jahr.
+
+A: 00:01:03,270 --> 00:01:13,770
+Wie viele Jahre davon programmierst du schon für größere Software Projekte? Zum Beispiel in einer Firma?
+
+B: 00:01:15,150 --> 00:01:15,810
+Genauso die 3 Jahre.
+
+A: 00:01:19,900 --> 00:01:26,980
+Wie groß sind deine professionellen Projekte üblicherweise? Also unter 900 Codezeilen? 900 bis 40.000 oder über 40.000?
+
+B: 00:01:29,660 --> 00:01:39,740
+Die meisten müssten zwischen 900 und 40.000 liegen. Aber ein oder zwei könnten auch drüber liegen. Müsste ich nachgucken. Aber ja, die meisten sind mittlere.
+
+A: 00:01:40,040 --> 00:01:54,960
+Auf einer Skala von 1 bis 10, eins ist sehr unerfahren, zehn ist sehr erfahren. Wie hoch schätzt du deine eigene Programmiererfahrung ein?
+
+B: 00:01:57,950 --> 00:01:58,730
+Sechs. Sieben.
+
+A: 00:02:00,810 --> 00:02:15,850
+Machen wir mal sieben. Wir runden auf. 
+Auf einer Skala von 1 bis 5 nur wie hoch schätzt du deine Programmiererfahrung im Vergleich mit Experten mit 20 Jahren praktischer Erfahrung ein?
+
+B: 00:02:21,530 --> 00:02:23,270
+Dann wahrscheinlich eher so eine drei.
+
+A: 00:02:27,110 --> 00:02:36,770
+Auf der Skala von 1 bis 5 wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen beziehungsweise Leuten, die Ähnliches machen wie du, ein?
+
+B: 00:02:40,000 --> 00:02:48,700
+Da momentan meine meisten Kollegen auch Studenten sind, würde ich da sagen schon ne vier.
+
+A: 00:02:52,330 --> 00:03:00,640
+Wie viele Programmiersprachen kennst du, bei denen du deine Programmiererfahrung bei drei oder höher einschätzen würdest?
+
+B: 00:03:01,750 --> 00:03:02,170
+Oh Gott, warte mal
+
+A: 00:03:02,980 --> 00:03:05,040
+Und welche sind das? Kannst du auch direkt aufzählen.
+
+B: 00:03:05,800 --> 00:03:33,630
+C, C++, Java, Kotlin, TypeScript, damit ja irgendwo auch JavaScript. Hm, ne, Go wäre definitiv nicht über drei. Python wahrscheinlich auch noch nicht. Ja, ich denke, dass das sollten so die wichtigsten gewesen sein.
+
+A: 00:03:34,030 --> 00:03:49,750
+Wie erfahren bist du mit den folgenden Programmierparadigmen, auch wieder auf einer Skala von 1 bis 5? Funktionale Programmierung.
+
+B: 00:03:51,160 --> 00:03:54,840
+Das wäre Lisp und Co, ne?
+
+A: 00:03:55,660 --> 00:03:56,050
+Genau.
+
+B: 00:03:56,620 --> 00:03:57,850
+Ja, dann eher so eine eins.
+
+A: 00:03:59,530 --> 00:04:01,150
+Imperative Programmierung.
+
+B: 00:04:01,990 --> 00:04:04,660
+Vier
+
+A: 00:04:09,740 --> 00:04:10,880
+Logische Programmierung.
+
+B: 00:04:13,390 --> 00:04:14,600
+Was fällt da drunter?
+
+A: 00:04:15,200 --> 00:04:18,019
+Prolog ist so die Sprache, die genannt wird.
+
+B: 00:04:18,140 --> 00:04:19,760
+Auch nie gesehen. Dementsprechend eins.
+
+A: 00:04:19,760 --> 00:04:32,420
+Und objektorientierte Programmierung.
+
+B: 00:04:33,110 --> 00:04:34,550
+Ja, würde ich auch so ne vier sagen.
+
+A: 00:04:35,240 --> 00:05:10,670
+Dann sind wir damit ja auch schon durch. Vielen Dank. Im zweiten Teil soll es um deinen Programmierprozess gehen und dazu würde ich dich gern bitten, mir einfach was über ein aktuelles Projekt von dir zu erzählen. Also kann sich in Arbeit befinden, kann vor kurzem abgeschlossen sein, kann privat von dir sein oder kann von der Arbeit sein, worüber du erzählen kannst und möchtest.
+
+B: 00:05:15,060 --> 00:05:27,930
+Dazu eine kleine Nachfrage, weil ich finde, das unterscheidet sich sehr groß. Teilprojekt in größeren Projekten oder abgeschlossenes kleineres Softwarestück?
+
+A: 00:05:29,270 --> 00:05:36,200
+Wir können gerne beides. Also, wenn du sagst, dass es für dich ein großer Unterschied, dann werde ich vermutlich sowieso noch mal nachfragen.
+
+B: 00:05:36,570 --> 00:06:34,960
+Ja, weil für größere Projekte, würde ich sagen, fällt halt der Planungsteil sehr viel anders aus. Dadurch, dass du halt nicht eine komplette Architektur dir selber vorgeben kannst, sondern halt erst mal meistens einen recht großen Anteil deiner Zeit damit verbringst, die überhaupt erst mal zu gucken, wie existenter Code strukturiert ist. Also an welchen Stellen muss neu geschriebener Code eingreifen? Zum Beispiel momentan haben wir ein Projekt auf Arbeit, wo es darum geht, halt an bestimmten Stellen, wo momentan nur eine bestimmte Auswahl an Bildchen bzw Icons oder so was in die Richtung verwendet werden kann, custom Bilder sozusagen zu erlauben.
+
+B: 00:06:34,960 --> 00:07:28,910
+Und da geht es natürlich erst mal darum, an welchen Stellen werden diese Dinge überhaupt überall eingesetzt? Wo kommen Dialoge für Uploads, Auswahl und so weiter hin? Das nimmt halt momentan einen recht großen Teil der, ich sage mal, Research Zeit in Anspruch. Was du halt bei einem von Anfang an angefangenen Projekt überhaupt nicht hast. Dann natürlich der Teil, der bei neu angefangen Projekten sehr viel größer ausfällt, aber natürlich auch bei so Teilprojekten eine gewisse Rolle spielt, ist natürlich solche Sachen wie, bei diesem einfachen Beispiel ist Architektur nicht ganz so wichtig, aber natürlich trotzdem, wie soll Software grob strukturiert sein?
+
+B: 00:07:28,910 --> 00:08:05,700
+Dann natürlich auch so ein Spaß wie API Definition. Das nimmt definitiv bei von grundauf angefangenen Projekten mehr Zeit ein, weil da hast du halt auch noch die Auswahl, welche Frameworks, welche Kommunikationsprotokolle und so weiter und so fort, den ganzen Tech-Stack zusammenzusuchen. Ich merke, ich springe gerade ein bisschen arg hin und her. Das macht es dir wahrscheinlich nicht einfacher.
+
+A: 00:08:05,700 --> 00:08:06,090
+Es ist okay.
+
+B: 00:08:06,810 --> 00:08:55,270
+Bleiben wir erstmal bei existierenden Projekten. Erst mal, an welchen Stellen muss das eingreifen? Dann, wie wird das schon existente, oder wie erweitern wir das schon Existente? An welchen Stellen kommen neue API-Routen dazu? An welchen Stellen muss Existentes umgeschrieben werden? Und dann in den meisten Fällen erst mal/ vielleicht auch nicht der sauberste Stil, aber ich implementiere meistens einen Teil, schreibe dann Tests dagegen, schau, ob die durchlaufen und wiederhole das solange, bis das komplette Stückchen Software sozusagen ergänzt ist.
+
+A: 00:08:55,930 --> 00:09:03,550
+Okay. Also im Gegensatz zu das erst mal sauber vorplanen oder was meinst du, ist das Unsaubere daran?
+
+B: 00:09:04,900 --> 00:09:51,920
+Das Unsaubere oder was zumindestens viele unserer QA Engineers lieber sehen würden, wäre erst mal alle Tests schreiben. Von meiner persönlichen Erfahrung ist es aber so, dass man doch irgendwie meistens irgendwelche kleineren Details übersehen hat, wo man dann doch noch mal irgendwas Kleines an irgendwelchen Vorgaben ändern muss. Und wenn du dann schon irgendwie 50 Testcases hast, die gegen alle Vorgaben laufen, ist das meistens nur nochmal unnötiger Aufwand. Deswegen wechsle ich da lieber zwischen, ich entwickel erst mal ein Stück und dann schaue ich, dass das sicher funktioniert. Und dann bastel ich die nächste Ebene oben drüber.
+
+B: 00:09:51,920 --> 00:10:17,770
+Und dann gucke ich, dass die wieder funktioniert, und so weiter. Vorausgesetzt, das Ganze ist so komplex, dass es mehrere Abstraktionsschichten braucht. Ja, ich glaube/ also, willst du noch irgendwas davon näher im Detail? Ansonsten wäre das glaube ich so der grobe Ablauf für Teil eines schon existierenden Projekts.
+
+A: 00:10:18,700 --> 00:10:37,930
+Okay, also dass man halt erst quasi diese Research macht, also über den alten Code. Mit diesen Kernfragen wo muss neuer Code hin, wo muss alter überarbeitet werden. Und das dann beim Implementieren du diesen Wechsel zwischen Stückchen implementieren, Tests und hin und her hast. Ja? Verstehe ich das richtig?
+
+B: 00:10:38,300 --> 00:10:38,560
+Ja.
+
+A: 00:10:39,220 --> 00:10:52,130
+Ich denke, das beschreibt schon relativ anschaulich. Also ich kann mir etwas vorstellen. So und du sagst, bei abgeschlossenen kleinen Projekten ist es anders?
+
+B: 00:10:52,490 --> 00:11:53,310
+Ja. Da würde ich halt sagen/ Also du hast halt mehr Spielraum. Dementsprechend hast du halt natürlich/ Also das, was halt wegfällt, ist dieses, okay, existierender Code, wo muss ich mich sozusagen reinhängen? Dafür hast du halt dann andere Fragen, die sehr viel mehr Zeit in Anspruch nehmen, wie, welches Framework, wie soll die API aufgebaut sein? Dafür gibt es ja auch irgendwie gefühlt 400 verschiedene Design Patterns. Aber von klassisch REST über lustige Dinge wie GraphQL oder sonstige Dinge. Dann, welche Kommunikationsprotokolle? Also, ist es ganz klassisch http und json, oder macht da vielleicht an manchen Stellen Streaming mehr Sinn, also über Websocket oder was auch immer da als Kommunikationsprotokoll sinnvoll ist.
+
+B: 00:11:53,310 --> 00:12:38,790
+Und dann für zum Beispiel größere Datenmengen, will man da wirklich noch auf json gehen oder wechselt man auf so was wie Protobuf, MessagePack, (?), irgendwas aus der Familie. Halt diese, ich sage mal, Binärformate, die halt um einiges kompakter Daten verpacken. Wenn die Entscheidung dann gefallen ist, kommt der weitere Designprozess, also der weitere sozusagen Vorbereitungsprozess, meistens auf das Framework drauf an, weil jedes davon ja irgendwie seine Eigenheiten und seine eigene Struktur so ein bisschen vorgibt.
+
+B: 00:12:40,320 --> 00:13:39,410
+Also ich meine, wenn du irgendwas hast, wo dir die (?-)Mittel der Sprache reichen, ist es meistens nicht so extrem. Aber jedes Framework für irgendwie Webserver ist ja ein bisschen anders aufgebaut. Dementsprechend da natürlich dann ein bisschen an dem Framework orientiert. Und dann kommt es ein bisschen darauf an, wie groß wie gesagt das ganze ist. Wenns irgendwelches kleinere Tooling ist, was irgendwie unter 300 Zeilen bleibt, dann schreibe ich das meistens zu großen Teilen direkt runter und guck danach, ob alles funktioniert. Also teste immer nochmal hier und da kleinere Sachen, aber schreib jetzt halt nicht großartig Unit Test zwischendrin. Wenns halt gröbere Sachen sind
+
+B: 00:13:39,410 --> 00:13:48,920
+da dann ja auch wieder dieser Wechsel meistens zwischen, irgendwie ein Modul oder eine Abstraktionsschicht schreiben, die testen, und dann weiter.
+
+A: 00:13:54,480 --> 00:14:08,480
+Also es klingt jetzt, als würdest du/ also Planung, Designphase und Implementierungsphase wären relativ klar getrennt.
+
+B: 00:14:11,700 --> 00:15:09,570
+Ich versuche es meistens. Auch, weil gerade im Arbeitskontext hast du ja Design zumindest zu Teilen ja auch als, ich sage mal, Aufgabe des Teams. Dementsprechend ist da natürlich die Trennung ein bisschen strikter. Bei privaten Projekten plane ich meistens auch Dinge nicht absolut bis ins letzte Detail durch, sondern dann ist das so ein, okay, das ist eine ganz, ganz grobe Architekturskizze und dann schauen wir mal, was die ganz genauen Implementierungsdetails werden, während gebastelt wird. Aber zum Beispiel bei irgendwelchen Projekten auf Arbeit, die irgendwie aus Frontend und Backend bestehen, soll ja zumindest vorher schon mal eine API-Dokumentation oder so was im besten Falle stehen, damit man auch einfach nicht aneinander vorbei entwickelt.
+
+A: 00:15:12,180 --> 00:15:20,910
+Und, also die Frage bezieht sich dann wohl eher aufs Private, schreibst du dir privat viel auf oder ist das mehr so/ läuft das mehr so in deinem Kopf?
+
+B: 00:15:22,710 --> 00:15:53,000
+Meistens sehr, sehr viel in meinem Kopf. Wenn im Verlauf von so einem Projekt irgendwie viele kleinere Baustellen auftauchen, wo noch Dinge zu tun sind, dann meistens entweder ein Schwall von digitalen Notizen oder halt direkt als TODO-Kommentare etc. im Code.
+
+A: 00:15:54,720 --> 00:16:15,940
+Wenn du deinen Code schreibst, für wen schreibst du den oder hast du da wen im Kopf? Also hast du da den Kunden im Kopf? Oder hast du den nächsten Arbeitskollegen im Kopf, der es kriegt? Ist da irgendwas?
+
+B: 00:16:16,910 --> 00:16:33,740
+Bei mir bei privaten Projekten kommt so ein bisschen drauf an, ob ich jemals vorhabe, dass sie das Licht der Öffentlichkeit sehen.
+
+B: 00:16:36,140 --> 00:17:15,750
+Wenn's irgendwas für einen ganz speziellen Usecase ist, den sehr, sehr wahrscheinlich nur ich habe, und dieser Code wird niemals das Tageslicht erkennen, dann ist mir meistens schnell geschriebener Code am liebsten. Auf Arbeit ist natürlich Leserlichkeit um einiges wichtiger, weil ja, wie du selber sagtest, nächster Kollege. Es gibt ja da diesen schönen Ausspruch mit, entwickle immer so oder schreibe deinen Code immer so, als wäre der Kollege, der ihn nach dir kriegt, ein psychopathischer Mörder.
+
+B: 00:17:17,920 --> 00:17:40,160
+Ich finde, das ist ein sehr guter Ansatz. Aber natürlich gerade bei uns auf Arbeit gibt's halt auch Teile, wo dann manchmal Schönheit für Geschwindigkeit draufgeht. Einfach weil es sein muss.
+
+B: 00:17:43,920 --> 00:18:29,840
+Also wo dann halt Teile einfach sehr, sehr, sehr performant sein müssen, weil da irgendwie mal schnell in den höheren Millionen/ Oder Anfragen irgendwie oder Datenpunkte irgendwie mehrere Millionen da durchfliegen. Und dann darf das natürlich nicht irgendwie fünf Stunden dauern. Dann entsteht da manchmal auch ein kleines bisschen Code, der vielleicht mal nicht so schön aussieht, aber halt dafür sehr performant sein muss. Weil er sehr performant sein muss und man manche Dinge einfach/ ja dann so Dinge wie fünf Abstraktionslayer sich einfach nicht leisten kann.
+
+A: 00:18:31,170 --> 00:18:44,950
+Okay, ist auch interessant. Ja, gut. Dann würde ich sagen, können wir den Teil eigentlich auch schon abhaken.
+
+B: 00:18:45,910 --> 00:19:11,430
+Vielleicht noch dazu: Das sind dann meistens die Teile, die auch die meiste in-code Dokumentation abbekommen. Also dann große Kommentarblöcke obendrüber haben, wo dann halt genau erklärt wird, was da passiert und warum es so implementiert ist. Auch, dass der nächste Kollege nicht auf die Idee kommt, hey, das könnte man doch schöner machen.
+
+A: 00:19:38,210 --> 00:20:08,010
+Dann können wir zum Dritten Teil. Da geht es quasi um Probleme im Prozess. Frage Nummer eins ist quasi das Extrembeispiel. Hast du schon mal ein Projekt abgebrochen?
+
+B: 00:20:11,280 --> 00:20:24,760
+Private ja. In den meisten Fällen entweder weil Aufwand-Nutzen sich doch nicht so herausgestellt hat, wie ich es mir vorgestellt hätte.
+
+B: 00:20:26,680 --> 00:21:33,750
+Also warum etwas in zehn Minuten machen, wenn man es in zehn Stunden automatisieren kann? Ist halt manchmal doch nicht so toll. Ein oder zweimal habe ich absolut mich/ Also habe ich versucht Frameworks bzw nen Tech-Stack auf ein Problemfeld anzuwenden wo er vielleicht nicht so richtig ideal war und ich habe dann festgestellt, dass es eine Sackgasse war. Das waren dann aber auch eher private, also beides mal private Projekte, wo mir halt auch vorher bewusst war, dass das vielleicht nicht unbedingt klappt. Im Arbeitsfeld wirklich abgebrochen, nicht. Es gab in meiner Ausbildung ein Softwareprojekt,
+
+B: 00:21:33,750 --> 00:22:07,850
+was wir von einer anderen Firma übernommen hatten. Und wo damals die Devise lautete: Da steckt jetzt schon ein Millionenbetrag an Entwicklungszeit drin. Das muss weiterentwickelt werden, das darf nicht neu geschrieben werden. Problem war, die Code Qualität war eher so -5.
+
+B: 00:22:10,280 --> 00:22:44,210
+Das ging dann so anderthalb, zwei Jahre so immer wieder hin und her. Es war im Endeffekt so ein Wechsel von ein Sprintzyklus neue Dinge entwickeln. Die nächsten drei Sprintzyklen neu entstandene Performance -Probleme und Bugs beheben. Und dieses Projekt wurde dann irgendwann aus, ja, anscheinend wird das nie fertig und rentiert sich nicht und blablub, eingestampft.
+
+A: 00:22:48,120 --> 00:22:51,450
+Okay, also kommt schon auch vor so was.
+
+B: 00:22:51,870 --> 00:23:31,000
+Ja. Es ist zum Glück die Seltenheit. Und es ist meistens auf, Ja, falschen Entscheidungen von oben basiert, würde ich sagen. Sind dann halt so Fälle wo Entwickler, zumindest damals in dem Fall, doch recht deutlich sagen, was das Problem eigentlich ist. Und auch eigentlich, dass man da, ich sage mal, etwas radikalere Lösungswege gehen müsste. Aber wo dann halt, Ja, weiter oben einfach entschieden wird, dass man das vielleicht auch nicht unbedingt so nach außen kommunizieren kann.
+
+A: 00:23:32,020 --> 00:24:01,440
+Wenn es vielleicht was ist, was nicht schlimm genug ist, dass mans abbricht, aber gibt es Momente, wo du dann einfach nicht/ wo du nicht voran kommst, also im Prozess irgendwie hängen bleibst?
+
+B: 00:24:03,910 --> 00:24:30,430
+Ja, natürlich. Den gedanklichen Deadlock, ich glaube, den kennt jeder Entwickler. Manchmal einfach, weil man sich so in einem Henne-Ei-Problem aufhängt von irgendwie mehreren Problemstellungen, die halt irgendwie. ja. Wo sich dann irgendwo der Kreis schließt.
+
+B: 00:24:36,470 --> 00:25:21,150
+Das ist, glaube ich, so das wo es am häufigsten passiert. Oder wenn Probleme gerade halt bei Änderungen von existenten Projekten plötzlich sehr, sehr weit auffächern. Also wo du halt irgendwelche eigentlich sehr, sehr kleinen Änderungen hast, die aber einfach durch Abhängigkeiten im Code an sehr, sehr vielen Stellen plötzlich Veränderungen sorgen. Wo dann einfach manchmal da sich wieder einen Überblick zu verschaffen sehr, sehr schwer wird. Ich glaube, das sind so die zwei Momente, die zumindestens bei mir am häufigsten so für geistige Deadlocks sorgen.
+
+A: 00:25:23,330 --> 00:25:29,330
+Zu viele Abhängigkeiten und Henne-Ei-Problem, also wo du nicht weißt, quasi wo/
+
+B: 00:25:29,810 --> 00:25:30,420
+Ja. Wo fängst du an?
+
+A: 00:25:31,460 --> 00:25:41,440
+Ist das auch bei kleineren privaten Projekten oder bezieht sich das jetzt nur auf die großen?
+
+B: 00:25:42,250 --> 00:26:19,800
+Also ich hatte bis jetzt keine so richtig großen. Also ich würde definitiv sagen, bei großen Projekten passiert es sehr viel häufiger. Einfach weil halt die Gefahr für 'Änderungen haben gravierende Auswirkungen' und 'man verliert den Überblick' höher ist. Also, ich glaube so bei privaten Projekten eher weniger. Nicht gar nicht. Aber auch dann nicht in derselben Intensität.
+
+A: 00:26:20,830 --> 00:26:44,000
+Ja, gut. Das scheint mir durchaus Sinn zu ergeben. Bei kleineren Projekten, gibt es da andere Probleme, bei denen du hängen bleibst, wenn die Großen, die du genannt hast, da vielleicht einfach von Natur aus nicht so präsent sind?
+
+B: 00:26:48,120 --> 00:27:17,200
+Hm. Na ja, also, ich meine, so die/ das sind dann zwar weniger/ ja es sind nicht so richtig vergleichbare Probleme. Ich meine, so die Klassiker, wo man dann irgendwie fünf Stunden im Debugger verbringt, weil man nicht versteht, wo gerade dieses eine falsche Datenschnipselchen herkommt, die können natürlich irgendwie bei allen Projekten auftreten.
+
+A: 00:27:38,490 --> 00:27:50,170
+Dann noch mal zurück zu den beiden Großen. Was machst du dann dagegen? Wie kommst du dann trotzdem zum Ziel?
+
+B: 00:27:52,510 --> 00:28:55,900
+Also bei so Henne-Ei-Problemen ist tatsächlich häufig ein Rubberduck-Debugging, also einfach sich selber bzw im Idealfall einem Kollegen, der Zeit hatte, das Problem noch mal erklären häufig ein guter Ansatz. Einfach weil man dann halt schnell mal auf neue Gedanken kommt. Was im Allgemeinen zumindest für mich meistens recht gut funktioniert und auch gerade für den zweiten Fall von einfach Übersicht verloren ist, das Zeug einfach erstmal komplett weglegen. Kurz vor die Tür treten. Fünf Minuten Rennen gehen, ransetzen und dann im besten Falle irgendwie mal kurz ein Textdokument, ein leeres, öffnen und einfach anzufangen niederzuschreiben
+
+B: 00:28:55,900 --> 00:29:07,330
+was denn da alles an Abhängigkeiten gerade entsteht. Oder sich das irgendwie anders kenntlich machen. Also ich habe zum Beispiel
+
+B: 00:29:09,730 --> 00:30:17,560
+für ein Paar, für ein oder zwei sehr, sehr, sehr verrückte Probleme auch schon mal zu Graphen-Software gegriffen. Einfach, um dann mir damit irgendwie sehr verzweigte Strukturen mal besser kenntlich zu machen. Ich glaube, das sind so/ Grafisches Visualisieren ist glaube ich auch häufig eine recht gute Methode. Gerade wenn es irgendwelche komplexeren Datenstrukturen sind, dass man die vielleicht mal nicht nur als ausgeklappt in irgendeinem Debugger vor sich hat, sondern halt im schlimmsten Fall mal anfängt, so was, in Anführungsstrichen, ERM-ähnliches schnell mal aufzuzeichnen. Nicht mit allen Details, aber einfach, dass man so wieder einen groben Überblick kriegt.
+
+A: 00:30:18,190 --> 00:30:29,560
+Gibt es irgendwas, was du noch hinzufügen möchtest?
+
+B: 00:30:32,150 --> 00:30:32,600
+Grad nicht
+
+A: 00:30:33,650 --> 00:30:58,790
+Okay. Ja. Dann kann ich dir theoretisch kurz erklären, worum es eigentlich geht. Und zwar habe ich mich ja viel mit Schreibprozessforschung und Schreibblockaden auseinandergesetzt früher. Und die Idee für meine Masterarbeit ist jetzt quasi die Theorie davon aufs Programmieren zu übertragen.
+
+B: 00:31:00,080 --> 00:31:04,460
+Klingt nach einem interessanten Ansatz.
+
+A: 00:31:08,040 --> 00:31:11,340
+Klingt für dich auch einigermaßen sinnvoll, oder sagst du, näh schreiben, programmieren, näh?
+
+B: 00:31:12,410 --> 00:31:49,440
+Ich würde sagen, es gibt definitiv Blockaden, wo das nicht helfen wird, einfach weil sie halt eher einer logischen Natur sind. Aber ich denke, gerade so dieser Fall von oder diese Ansätze von, wie kriege ich wieder kreative Lösungen oder wie kriege ich einen neuen Sichtpunkt auf eine Situation, die da halt schon vor mir liegt? Ich denke, für solche Sachen kann das sehr sehr gut funktionieren. Kann ich mir schon vorstellen.
+
+B: 00:31:55,290 --> 00:32:14,500
+Wie gesagt, bei so manchen Logikproblemen weiß ich halt nicht wie. Aber dafür kenne ich mich wahrscheinlich auch zu wenig mit Schreiben aus, als dass ich da jetzt alle, alle Methoden kennen würde und da sagen würde, die da wäre vielleicht dafür geeignet.
+
+B: 00:32:15,340 --> 00:32:37,100
+Das ist dein Spezialgebiet. Aber ja. Also gerade so halt dieses, wie komme ich aus irgendwie Gedanken, wo ich nur noch im Kreis renne raus und solche Sachen. Kann ich mir schon gut vorstellen, dass da solche Methoden hilfreich sein können.
+
+A: 00:32:39,680 --> 00:32:49,350
+Du machst ja Pen an Paper, ne? Da schon mal eine kreative Blockade gehabt?
+
+B: 00:32:53,520 --> 00:33:13,000
+Weniger kreative Blockade. Ich glaube, wenn ich bei Pen und Paper in irgendwelchen Blockaden lande, dann ist es meistens eher, dass ich Dinge zu komplex gestalten möchte und dann irgendwie erst mal anfangen muss da vierhundert Dinge herauszustreichen.
+
+A: 00:33:14,140 --> 00:33:15,900
+Das passiert beim Coden schon mal nicht?
+
+B: 00:33:19,380 --> 00:33:45,250
+Weniger. Also natürlich kann man irgendwie manchmal Dinge zu Tode abstrahieren. Das wäre wahrscheinlich so das Äquivalent. Aber ich glaube, das merkt man da noch mal um einiges schneller. Einfach weil man ab dem Moment, wo du irgendwie 30 Dateien hast und in jeder stehen nur fünf Zeilen? Hm. Irgendwas ist hier falsch.
+
+A: 00:33:49,710 --> 00:34:08,409
+Ja. Ja, das ist aktuell auch so mit ein Fazit, was ich so ziehe aus den Interviews. Ich glaube, dass beim Programmieren einfach viel mehr Tools und viel mehr Sachen vorhanden sind, die quasi Blockaden von Anfang an schon so ein bisschen verhindern.
+
+B: 00:34:09,550 --> 00:34:10,000
+Ja. Zum Glück.

@@ -1,0 +1,387 @@
+I: So, läuft. Bist du damit einverstanden, dass das Gespräch hier aufgezeichnet wird?
+
+00:07 
+
+B: Aber natürlich! 
+
+00:08 
+
+I: Sehr gut. Also das Interview, das besteht aus drei Teilen und der erste Teil ist ein Fragebogen zur Erfassung der Programmiererfahrung. Genau, also die erste Frage ist, wie alt bist du?
+
+00:27 
+
+B: Ich bin 27. 
+
+00:32 
+
+I: Und wie viele Jahre programmierst du insgesamt schon? 
+
+00:34 
+
+B: Elf Jahre. 
+
+00:39 
+
+I: Wie viele Jahre davon in irgendeiner Art förmlicher Ausbildung? 
+
+00:42 
+
+B: Das waren drei Jahre in einer schulischen Ausbildung.
+
+00:46 
+
+I: Schulische Ausbildung, okay. Und seit wie vielen Jahren programmierst du für größere Softwareprojekte zum Beispiel in einer Firma? 
+
+00:55 
+
+B: Das sind dann die elf minus drei, also seit acht Jahren.
+
+01:01 
+
+I: Wie groß sind deine professionellen Projekte üblicherweise? Also wir unterscheiden da
+
+zwischen klein, das ist unter 900 Codezeilen, mittel ist 900 bis 40.000 und groß ist über 40.000 Codezeilen. 
+
+01:14 
+
+B: Unter 900 hatte ich noch nie irgendwas (lacht) sonst darüber schon. 
+
+01:19 
+
+I: Also mittel bis groß. 
+
+01:21 
+
+B: Genau. 
+
+01:26 
+
+I: Okay, dann auf einer Skala von 1 bis 10\. 1 wäre sehr unerfahren, 10 sehr erfahren.
+
+Wie hoch schätzt du deine eigene Programmiererfahrung ein? 
+
+01:40 
+
+7 bis 8 würde ich sagen. 
+
+01:42 
+
+I: Okay. Ich tendiere zum Aufrunden, also schreibe ich mal eine 8 auf. Auf einer Skala von 1 bis 5, wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen ein?
+
+02:01 
+
+B: Die Frage überfordert mich. Heißt das 5, ich bin besser als die anderen oder wie?
+
+02:10 
+
+I: Jain, also 3 wäre dann halt so gut im Durchschnitt, 5 wäre dann eher so ein bisschen
+
+überdurchschnittlich. 
+
+02:17 
+
+B: Ja, dann sagen wir 3. 
+
+02:26 
+
+I: Wie viele Programmiersprachen kennst du, wo du deine eigene Programmiererfahrung bei 3 oder höher einschätzen würdest und welche sind das?
+
+02:36 
+
+B: Auf jeden Fall Javascript, TypeScript und C ja C++, auf jeden Fall.
+
+02:49 
+
+I: Okay, genau, also die 3. 
+
+B: Genau. 
+
+02:50 
+
+I: Alles klar. Gut, und dann abschließend fragen wir noch Erfahrung mit Programmierparadigmen ab, wieder auf einer Skala von 1 bis 5\. Das erste wäre
+
+funktionale Programmierung. 
+
+03:09 
+
+B: Also wieder im Vergleich zu meinen Kollegen?
+
+03:12 
+
+I: Nee, also einfach auf einer Skala von 1 bis 5, Selbsteinschätzung.
+
+03:16 
+
+B: Funktional 5 natürlich, da ist doch nichts dabei (lacht)
+
+03:20 
+
+I: Imperative Programmierung.
+
+03:25 
+
+B: Da eher 4. 
+
+03:27 
+
+I: Da eher 4, okay. Logische Programmierung.
+
+03:30 
+
+B: Auch 4. 
+
+03:31 
+
+I: Auch 4\. Und objektorientiert?
+
+03:33 
+
+B: 5. 
+
+03:37 
+
+I: Okay, genau. Also das war es mit dem ersten Teil, vielen Dank. Im zweiten Teil sind offenere Fragen und da soll es jetzt um deinen persönlichen Programmierprozess gehen und dazu würde ich dich gerne bitten, mir einfach mal was über ein aktuelles Projekt von dir zu erzählen. Also ob das vor kurzem abgeschlossen oder noch in Arbeit, von der Arbeit oder privat. Einfach so, wo du mich so ein bisschen durchführen kannst, wie das Vorgehen von Anfang bis Ende war.
+
+04:09 
+
+B: Also ein aktuelles Projekt, was wir haben, das ist so eine lustige Personalplanungssoftware, würde mir einfallen. Bin ich nur so nebenbei ein bisschen dabei. Also wir haben immer mehrere gleichzeitig, aber das kann man am leichtesten erklären. Es wird immer fortwährend weiterentwickelt, also es wird vom Kunden schon eingesetzt, dann gibt es immer irgendwelche Wünsche. Ja, wir hätten gerne dieses Feature oder das oder das andere Feature oder hier geht irgendwas nicht, fix das mal bitte. 
+
+Das funktioniert dann von außen so, dass erstmal irgendwie ein Wunsch geäußert wird, dass sich etwas ändern sollte. Dann gibt es Stellen, die sorgen dann dafür, ja, die schätzen ein, ob man das wirklich umsetzen kann und ob es überhaupt sinnvoll ist, weil manchmal weiß der Kunde selbst nicht, was er will. Und wenn ja, dann gibt es eine Aufwandseinschätzung und dann wird eingeplant, wann das umgesetzt wird. Wir haben dann auch ein ziemlich gut funktionierendes Ticketsystem, wo das dann alles quantifiziert ist, was, wann, wo, warum zu machen ist. Und irgendwann landet es dann bei uns auf dem Tisch, so ein Ticket. Das setzen wir dann um und ja, dann ist es hoffentlich umgesetzt und geht (lacht). 
+
+05:34 
+
+I: Und dann, also diese Umsetzung vom Ticket, kann man da noch ein bisschen ins Detail gehen? Also wie läuft das ab? 
+
+05:43 
+
+B: Ja, da kann man ins Detail gehen. Also man schaut einfach, gibt es irgendwelche Tickets oder bekommt direkt eins. Dann schnappt man sich das. Man holt sich natürlich den aktuellsten Source aus dem Git raus, also das sollte man ohnehin immer haben. Man erstellt einen eigenen Branch pro Ticket. Und wenn man dann fertig ist, stellt man einen Merge Request und aktualisiert den Status vom Ticket natürlich. Und im Optimalfall wird es dann reingemerged und das Ticket ist dann fertig. 
+
+06:12 
+
+I: Okay, gut. Genau, aktuelles Git, eigener Branch. Und dann wird da ja, also irgendwo dazwischen wird programmiert. 
+
+06:24 
+
+B: Genau, manchmal (lacht) 
+
+06:26 
+
+I: Genau, manchmal. Okay, genau. Ist dann aber vorm Programmieren, wird dann auch
+
+groß geplant? Muss das, wie der Code aussehen muss? Ist das irgendwie so der Programmierprozess an sich? Wie läuft der ab? 
+
+06:40 
+
+B: Das ist eigentlich sehr unterschiedlich. Prinzipiell ist das Ticket sehr genau beschrieben, wie es auszusehen hat oder wie etwas zu funktionieren hat. Wenn man jetzt irgendeine View erstellt, zum Beispiel, gibt es bei uns selten ein Mockup oder so. Da hat der Entwickler dann viel Freiheit zu entscheiden, wie man das am besten aussehen lässt. Deswegen kann es da ziemliche Unterschiede geben, je nachdem, wer von uns etwas macht, weil sich unsere Stile doch schon ein bisschen unterscheiden. 
+
+07:10 
+
+I: Okay, und wie ist dein Stil?
+
+07:14 
+
+B: Ich weiß nicht, wie beschreibt man seinen eigenen Programmierstil? Es ist meiner (I lacht) nicht? 
+
+07:22 
+
+I: Womit fängst du denn an? 
+
+07:26 
+
+B: Ich verstehe die Frage mal wieder nicht. 
+
+07:34 
+
+I: Also, okay. Unterschiedliche Programmierstile. Also. Fängst du mal an, also, codest du drauf los? Schreibst du dafür einen Plan, eine To-do-Liste oder so? 
+
+07:47 
+
+B: Achsoo. Ja, das kommt darauf an, wie groß der Aufwand ist. Also es gibt auch wirklich auch Tickets, wo es acht einzelne Punkte gibt, oder dass man sich dann auch eine Checkliste macht, damit man weiß, wo man ist. Oder wenn man sich das schon durchliest, man weiß, das wird etwas Größeres und ich muss dann ein paar einzelne Dinge machen, die aufeinander aufbauen. Dass man das schon nacheinander richtig macht. Also, man macht sich schon vorher darüber Gedanken, wie soll das vonstatten gehen. Also, nicht gleich ans Ende denken, sondern auch an dem Prozess des Umsetzens selbst. 
+
+08:23 
+
+I: Okay. Also, zum Beispiel abhängig von der Komplexität. 
+
+08:30 
+
+B: Genau.
+
+08:32 
+
+I: Okay, aber du sagst, du hast deinen eigenen Stil, es fällt dir aber schwer, ihn zu beschreiben. Was machen andere denn anders? Also, was sind denn so die unterschiedlichen Stile, die du da erkennst?
+
+08:43 
+
+B: Ja, da gibt es einen Klassiker (lacht) da werden meine Kollegen lachen, in JavaScript und TypeScript. Ich werde da ein leichter Autist, wenn ich da sehe, dass da jemand ein Let benutzt als Variable, ne Deklarierung, obwohl man ein Const nehmen müsste und solche Sachen. Da achte ich sehr genau drauf. 
+
+Und Stile von anderen. Es fällt mir nur als Beispiel ein, wir haben einen, der benutzt ungern schon vorhandene Funktionen, die es in irgendwelchen Bibliotheken gibt und erfindet immer wieder das Rad neu. 
+
+09:15 
+
+I: Okay?
+
+09:18 
+
+B: Das mache ich nicht (lacht) 
+
+09:21 
+
+I: Du guckst dann lieber, was es schon gibt.
+
+09:25 
+
+B: Genau, weil ich einfach faul bin, wenn es das schon gibt, wieso sollte ich es nochmal machen, denke ich mir.
+
+09:36 
+
+I: Okay. Programmierst du privat für dich selbst auch noch oder nur für Arbeit?
+
+09:43 
+
+B: Privat ein bisschen. Also da beschäftige ich mich zurzeit ausschließlich mit Flutter, weil ich es einfach geil finde. Ein Source Code für alle Plattformen. Da habe ich zwei kleinere Projekte, die eigentlich eher Unsinn sind, damit ich einfach für mich selbst in die Technologie reinkomme. Sonst eigentlich nur für die Arbeit. 
+
+10:07 
+
+I: Okay. Und bei deinen Projekten zu Hause, gehst du da anders vor als auf Arbeit?
+
+10:14 
+
+B: Da gehe ich tatsächlich anders vor. Also ein bisschen, weil da bin ich nur alleine. Ich habe auch eine ganz normale Versionskontrolle im Git, aber ich erstelle jetzt keine Branches oder so, außer ich mache jetzt was wirklich Experimentelles, wo ich dann wieder hin und her switchen kann. Ich pushe dann einfach in den Master immer. Und selbstverständlich gibt es keine Tickets. Was ich tun will, steht in einem Textfile. 
+
+10:45 
+
+I: Okay. Und wenn du eine Komponente oder irgendwas programmierst, machst du dann so eher von vorne nach hinten? Also programmierst du von vorne nach hinten oder programmierst du dann an verschiedenen Stellen mal weiter? Ist der Prozess eher linear
+
+oder verzettelt sich das? 
+
+11:10 
+
+B: Also bei irgendeiner Komponente, da gehe ich eigentlich immer gleich
+
+vor. Ich baue erstmal einen Minimal-Prototyp, der irgendwas tut, damit ich sehe, dass das auch alles richtig eingebunden ist oder richtig angezeigt wird, je nachdem, was es für eine Komponente sein soll. Wenn das dann der Fall ist, dann gehe ich auf die andere Seite, dass ich mir sämtliche Daten beschaffe oder so, dass das alles aufbereitet ist. Und am Schluss mache ich dann noch UI-Sachen, falls die da sind. 
+
+11:44 
+
+I: Okay, also ist eher so ein iterativer Prozess. Also man geht da noch mal
+
+drüber und erweitert das. 
+
+11:52 
+
+B: Der Kollege ist gerade angekommen. Ich habe die Frage nicht gehört. 
+
+11:57 
+
+I: Ja, also kann ich mir das so vorstellen, dass halt/ Also es wird die Grundfunktionalität geschrieben, dann wird das überarbeitet und erweitert dabei. 
+
+12:04 
+
+B: Genau, so mache ich das eigentlich immer. 
+
+12:07 
+
+I: Okay. Gut, dann letzte Frage für den Teil. Beim Programmieren hast du da, also für wen schreibst du das? Wen hast du dabei im Kopf, falls es da wen gibt? Also hast du da irgendwen vor Augen, dann der Nächste den Code kriegt oder den Kunden? 
+
+12:30 
+
+B: Ja, das kann ich sogar ziemlich genau sagen. Wir haben nämlich ein sogenanntes QM. Das soll es geben. Also es heißt zumindest so. Also das stimmt, das habe ich vorhin bei unserem Ticket-Prozess noch nicht erklärt. Wenn das Ticket fertig ist, dann hat es dann natürlich einen bestimmten Status. Er ist dann beim QM. Der testet das dann
+
+noch mal. Könnte ja sein, dass wir irgendeinen Mist geschrieben haben. Weiß man ja nicht. Macht man ja nicht mit Absicht. Und den hat man eigentlich immer vor Augen, weil man genau weiß, dass was ich jetzt mache und was man da sieht und was es tut. Er ist der Nächste, der das sieht. 
+
+13:05 
+
+I: Alles klar. Okay, dann war das der zweite Teil. Dann gibt es jetzt noch im letzten Teil, da geht es um Probleme im Prozess. Ich stelle als erstes den Extremfall die Frage, hast du schon mal ein Projekt abgebrochen oder abbrechen müssen wegen Problemen im Prozess? 
+
+13:30 
+
+B: Abgebrochen noch nicht. 
+
+13:35 
+
+I: Gab es irgendwie wesentliche Verzögerungen oder so? 
+
+13:38 
+
+B: Oh ja, aber nicht bei meinem jetzigen Arbeitgeber, sondern bei meinem letzten. Da gibt es Chaos-Stories. Da ist das Problem, dass der Prozess, der existiert nicht. 
+
+13:51 
+
+I: Aha, okay?
+
+13:51 
+
+B: Also da habe ich auch was komplett anderes gemacht. Da war ich in der Materialflusssteuerung. Also habe da direkt mit C++ und ein paar SPS-Sprachen direkt Förderer angesteuert und den Materialfluss gemanagt. Das war eigentlich immer Chaos, wie so ein Projekt aufgezogen wird. Je nach Größe, da hat das ein halbes Jahr oder mein längstes, das hat zweieinhalb gedauert, glaube ich. Am Anfang denkt man sich dann, ja, jetzt mache ich alles richtig und voll schön und hin und her. Man programmiert dann lockerflockig darauf los. Es gab da kein Ticketsystem oder sowas. Was du überhaupt machen musst, das musstest du selbst wissen oder dir aneignen, weil man wird nicht angelernt. Aber das ist wieder ein anderes Thema. Dann setzt du das so lustig um. Bis du dann fertig bist, hat dann irgendwie im Design hat sich wieder irgendwas geändert oder an anderer Stelle kommt irgendwas dazu oder nicht, was nicht kommuniziert wird. Dann fährt man zur Inbetriebnahme raus und darf den ganzen Mist noch mal machen, weil nichts kommuniziert wurde. Wir hatten da echt Projekte, die hätte man in drei Monaten durchziehen können, wenn alles klar kommuniziert oder besser strukturiert wäre. Aber es hat dann ein Jahr gedauert. 
+
+15:11 
+
+I: Okay
+
+15:11 
+
+B: Weil einfach planlos. Deswegen bin ich da auch nicht mehr. 
+
+15:15 
+
+I: Ja, verständlich. Also hauptsächlich so, wenn die Anforderungen irgendwie nicht klar kommuniziert werden. 
+
+15:26 
+
+B: Genau, also, Kommunikation ist/ Man kann nicht zu viel kommunizieren, sage ich jetzt mal. 
+
+15:33 
+
+I: Okay. Wie bist du dann damit umgegangen? Wie hast du das trotzdem irgendwie zu laufen bekommen? Einfach durchbeißen? 
+
+15:47 
+
+B: Ja, man sitzt bei den Verteilzentren vor Ort draußen und dann hat man halt mal, ungelogen, irgendwann mal eine 100-Stunden-Woche, weil man irgendwelche Termine hat, die dann sowieso verschoben werden. Aber das wusstest du vorher nicht und (lacht) das war demotivierend. Aber ja, da muss man dadurch extrem nen Mehraufwand. Also wenn du die gleiche Aufgabe fünfmal/ die gleiche Ecke programmierst fünfmal, weil sich jedes Mal was ändert, ist das nervig. Dann braucht man halt auch fünfmal so lang. Und so macht man das.
+
+16:24 
+
+I: Okay. Und dann heutzutage beim Programmieren oder vielleicht auch in der Vergangenheit, wenn du dich erinnerst. Aber gibt es noch Momente, wo du vorm Code sitzt und theoretisch eigentlich weißt, was du machen musst, aber trotzdem irgendwie nicht vorankommst? 
+
+16:46 
+
+B: Ja, selten. Das sind dann meistens irgendwelche speziellen Eigenheiten der Programmiersprache, die man arbeitet. Man weiß genau, was man tun soll. Man weiß auch wie, aber es passieren seltsame Dinge. Und da kann es auch Stunden dauern, bis man merkt, man hat zwei Anweisungen in der falschen Reihenfolge oder irgendwie so ein abgefahrener Scheiß. 
+
+17:11 
+
+I: Okay. Also dann quasi Bugfixing eher so. 
+
+17:17 
+
+B: Genau. 
+
+17:19 
+
+I: Okay. Dann kommen wir auch hier quasi schon zur letzten Frage. Einfach, was du mit dem Begriff assoziierst, wenn ich dir den gleich so vorsage. Denkst du, dass du schon mal sowas wie eine Programmierblockade hattest?
+
+17:41 
+
+B: Eine Programmierblockade? Ich würde das mit einer Schreibblockade gleichsetzen
+
+und ich glaube eher nicht. 
+
+17:51 
+
+I: Okay, also Schreibblockaden sind dir vertraut? 
+
+17:54 
+
+B: Also ich kenne den Begriff. Also man will schreiben, aber es kommt nichts. In diesem Sinne hatte ich noch nie. 
+
+18:05 
+
+I: Okay. Kannst du dir vorstellen, woran es liegt, dass man das beim Programmieren nicht bekommt? 
+
+18:11 
+
+B: Gute Frage. Ich weiß es nicht. Ich glaube, das ist etwas rein psychisches. Das ist halt auch von Mensch zu Mensch unterschiedlich. Kann dazu leider nichts sagen. 
+
+18:28 
+
+I: Kein Problem. Das ist hier eher explorativ. Alles klar. Möchtest du dann von deiner Seite noch was hinzufügen? 
+
+18:45 
+
+B: Ich wüsste nicht was.

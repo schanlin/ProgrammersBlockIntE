@@ -1,0 +1,359 @@
+I: der nimmt jetzt auch auf. Bist du damit einverstanden, dass das Gespräch hier
+
+aufgezeichnet wird? 
+
+00:09 
+
+B: Ja, bin ich. 
+
+00:10 
+
+I: Alles klar. So, du bist die Nummer 11\. Das erste hast du vielleicht schon mal gesehen. Das/ erste Teil ist unser Fragebogen zur Erfassung von der Programmiererfahrung. Erste Frage ist, wie alt bist du? 
+
+00:23 
+
+B: Ich bin 22. 
+
+00:26 
+
+I: Wie viele Jahre programmierst du insgesamt schon? 
+
+00:28 
+
+B: Insgesamt, oh, vielleicht sechs Jahre.
+
+00:34 
+
+I: Wie viele davon in irgendeiner Art Ausbildung? 
+
+00:35 
+
+B: Drei. Drei Jahre. Seit 2019\. Ziemlich genau drei Jahre sind es jetzt, ja. 
+
+00:43 
+
+I: An der Uni alles? 
+
+00:46 
+
+B: Achso, na gut, an der Uni sind es natürlich dann mehr. Ich habe jetzt an Arbeit gedacht, aber wenn ich 2019 angefangen habe, dann sind es vier. Wegen der Uni noch ein Jahr drauf. Sorry.
+
+00:54 
+
+I: Okay. Ja, ist okay. Und dann ist die nächste Frage, seit wie vielen Jahren programmierst du für größere Softwareprojekte, zum Beispiel in einer Firma? 
+
+01:03 
+
+B: Seit drei Jahren dann. 
+
+01:06 
+
+I: Wie groß sind deine professionellen Projekte üblicherweise? Also klein wäre unter 900 Code-Zeilen, mittel wären 900 bis 40.000 und groß ist über 40.000.
+
+01:16
+
+B: Ja, groß 
+
+01:20 
+
+I: Auf einer Skala von 1 bis 10, 1 ist sehr unerfahren, 10 ist sehr erfahren, wie
+
+hoch schätzt du deine eigene Programmiererfahrung ein? 
+
+01:30 
+
+B: Ich würde sagen eine 7.
+
+01:35 
+
+I: Auf einer Skala von 1 bis 5 nur, wie hoch schätzt du deine Programmiererfahrung
+
+im Vergleich mit Experten mit 20 Jahren praktischer Erfahrung ein? 
+
+01:43 
+
+B: Oh, das ist schwierig, weil Zeit nicht unbedingt was... Ich würde sagen ne 3\. Ne 3? Ja, ne 3.
+
+01:55 
+
+I: Wenn du was dazu sagen möchtest
+
+01:59 
+
+B: Soll ich das ausführen? Ich darf ausführen? Ja, ich habe nur gedacht, weil Zeit ja nicht zwingend was über, ich sage mal, Skill aussagt, aber du hattest ja nach Erfahrung gefragt, die Erfahrung kriegst du ja trotzdem durch die Jahre, deswegen habe ich jetzt gerade überlegt. Aber ja, ich lasse es bei einer 3.
+
+02:13 
+
+I: Auf einer Skala von wieder 1 bis 5, wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen auf Arbeit ein?
+
+02:23 
+
+B: Da würde ich auch sagen eine 3. 
+
+02:26 
+
+I: Wie viele Programmiersprachen kennst du, wo du deine eigene Programmiererfahrung bei 3 oder höher einschätzen würdest?
+
+02:34 
+
+B: Also Kotlin, Java, C++, C nicht, C-Sharp. Ja, ich denke, das sind erstmal die 4, wo ich sagen würde, ja, ja.
+
+02:45 
+
+I: Die 4, okay. * Wie erfahren bist du mit den folgenden Programmierparadigmen, wieder
+
+auf einer Skala von 1 bis 5? Das erste ist funktionale Programmierung.
+
+03:01 
+
+B: Äh, ne 4. 
+
+03:03 
+
+I: Imperative Programmierung? 
+
+03:06 
+
+B: Das ist eine gute Frage. Vermutlich, hm, ja, kennt man da alles? Ich würde jetzt einfach mal sagen eine 5, aber da überlege ich gerade, ob ich unwissend bin und mich da zu hoch einschätze, deswegen... 
+
+03:17 
+
+I: Wir runden auf. 
+
+03:17 
+
+B: Wir runden auf eine 5?
+
+03:18 
+
+I: Wir runden auf, ja, ist okay. Logische Programmierung? 
+
+03:25 
+
+B: Ne 3. 
+
+03:27 
+
+I: Und objektorientierte Programmierung? 
+
+03:29 
+
+B: Ne 5. 
+
+03:32 
+
+I: Gut, das war der erste Teil schon. Danke dafür. * So, dann im zweiten Teil soll es jetzt um deinen Programmierprozess gehen und dazu würde ich dich einfach gerne bitten, mir was über ein einigermaßen aktuelles Projekt von dir zu erzählen. Ob das schon abgeschlossen ist oder noch in Arbeit, ist nicht so wichtig. Einfach einigermaßen aktuell. Kann von der Arbeit sein, kann privat sein. 
+
+04:07 
+
+B: Also einfach jetzt erst mal anfangen, wie der Prozess von so einem Projekt aussieht? 
+
+04:10 
+
+I: Genau, also wenn du den Auftrag kriegst oder von Anfang bis Ende quasi. 
+
+04:15 
+
+B: Also zuallererst würde ich mir erst mal Gedanken über die Requirements machen, was denn der Anspruch ist, also gerade von den Stakeholdern zum Beispiel, also vom Klienten. Ja, dann Requirements. Dann gibt es ja bei uns nen Product Owner, mit dem wir das auf Arbeit auch besprechen. Also wäre dann auch so die Einordnung zu treffen, was wichtiger ist, also so eine Einstufung zu treffen, was ist wichtig, was ist vielleicht was, was wir später implementieren können. Genau, also erst mal die wichtigsten Features des Ganzen. 
+
+Dann was wir immer so ein bisschen ignoriert haben in letzter Zeit, war die Architektur. Aber wir haben jetzt einen Kurs gehabt zur Architektur und versuchen das jetzt halt schon mit, ja vorher zu planen. Also vielleicht jetzt hier kein komplettes UML-Modell, aber bei einer Architektur gibt es ja so zwei Schichten, die man sich überlegen muss oder überlegen kann. Man kann natürlich auch weglassen und einfach draufloscoden. Und das ist jetzt so den Approach, den wir auf Arbeit nehmen, da auch erst mal vorher uns die Architektur zu überlegen, damit wir halt später das Programm besser warten können zum Beispiel. 
+
+05:19 
+
+B: Ja, dann würde ich sagen, also wenn wir im Team programmieren, gibt es natürlich dann, jeder hat so seine Aufgabe. Also das ist jetzt nicht, dass jeder alles programmiert, sondern je nachdem. Und was wir natürlich auch machen, ist testdriven entwickeln. Da ist jetzt die Frage, eigentlich ist es beim testdriven ja so, dass man zuerst die Tests schreibt und dann den Code. Ich würde sagen in der Praxis ist das nicht so der Fall. Also du schreibst wahrscheinlich schon erst den Code und dann irgendwann werden da mal Tests hinzugefügt, weil der Code ist halt eigentlich das, was fertig werden muss, auch wenn testdriven halt wichtig ist in meinen Augen. 
+
+Genau, also testdriven Entwicklung, auch wenn vielleicht der Code zuerst geschrieben wird, auf Tests verzichte ich auch in meinem privaten Projekt nicht und füge die relativ zeitig hinzu. 
+
+Ja, und dann je nachdem, ob ich eine Architektur mir vorher überlegt habe oder nicht, fange ich halt mit irgendeiner Komponente an. Also bei einer Architektur ist es, glaube ich, immer ganz sinnvoll, das Ganze aus Klient-Sicht auch zu betrachten, aus User-Sicht, wie der User Schritt für Schritt welche Komponenten sozusagen benutzen würde und so in der Schrittreihenfolge würde ich auch anfangen, das Ganze zu programmieren.
+
+06:29 
+
+B: Ja, und dann ist es eigentlich halt immer ein Programmieren, ein Test schreiben, dann Refactoren, dann weiter zur nächsten Komponente, wenn das alles klappt, dann vielleicht mal wieder neue Fehler introducen, wieder Tests schreiben, wieder Refactoren und das ist so der Prozess. Habe ich da jetzt irgendwas vergessen? Wolltest du noch irgendwas anderes hören? 
+
+06:51 
+
+I: Nö, das ist * so erst mal, was ich mir vorgestellt habe. (lacht) Du sagst, dass ihr jetzt die Architektur plant, das ist eher so seit Neuestem, und davor habt ihr einfach drauflosgecodet, oder wie muss ich mir das vorstellen? 
+
+07:11 
+
+B: Naja, wir haben schon Requirements gehabt, aber wir haben uns jetzt nicht so detailliert über die Architektur Gedanken gemacht, also man denkt schon vorher darüber nach, ok, welche Klassen gibt es jetzt und gerade so, ich würde so sagen, Architektursachen sind vielleicht auch was, was du erst mit einer Erfahrung, mit einer gewissen Erfahrung so mitkriegst, wie du jetzt vielleicht irgendeinen Service gut schreiben kannst, dass alles gut
+
+wartbar ist oder gut refactorbar, dass es nicht zusammenhängt, sodass du da so n riesenlangen Rattenschwanz hast oder so. 
+
+Also ich würde sagen, es gibt mehr Architekturüberlegungen jetzt als vorher durch die Kenntnis, die wir halt durch diesen Kurs erlangt haben, ja, aber es war nicht so, dass wir einfach vorher drauflosgeschrieben haben, wir haben schon im Team uns überlegt, ok, wie teilen wir das so ein bissel auf. 
+
+07:54 
+
+I: Aber es war mehr Bauchgefühl involviert, oder? 
+
+B: Genau, ja
+
+07:56 
+
+I: Okay. * Genau, und dann sagst du, also abhängig von Architektur oder nicht, fängst du mal mit einer Komponente an und also du bleibst dann auch bei einer Komponente oder
+
+hüpfst du da irgendwie durch die Gegend? 
+
+08:12 
+
+B: Das ist verschieden, würde ich sagen. Also ich glaube, das ist auch ein bisschen wie man selbst programmiert, also es gibt glaube ich Leute, die sehr viele Dinge parallel machen und es gibt Leute, die sich auf ein Ding konzentrieren. Ich würde sagen, es ist gemischt, ich versuche mich auf eine Komponente zu konzentrieren, aber es kann schon sein, wenn ich mal einen Test schreibe oder so, dass ich natürlich dann, wenn ich einen Fehler suche, eine andere Komponente irgendwie untersuchen muss und dann sehe ich vielleicht, ok, ich muss ja irgendwie was auslagern oder so und schreibe dann wieder an was Neuem und eigentlich bin ich ja über zwei Schritte gerade von der anderen Komponente gekommen, deswegen kann man das glaube ich nicht so grob gliedern, aber ich würde schon sagen, dass ich eher die Person bin, die ein bisschen was parallel macht. * Aber ich versuche mich darauf zu konzentrieren, nicht zu viel zu machen parallel, das ist glaube ich dann am Ende keine gute Idee. 
+
+08:59 
+
+I: Warum nicht? 
+
+09:00 
+
+B: Ich würde sagen, weil du so oft mit den Gedanken hin und her switchst. Also wenn die Komponenten zusammenhängen, dann ist das ok, glaube ich, also wenn die Komponenten miteinander reden müssen, dann hast du ja so einen Gedanken, den du gerade verfolgst. Aber wenn du zum Beispiel auch in mehreren Projekten parallel arbeitest, ist so das Phänomen, du konzentrierst dich auf was, was halt mit irgendwas zu tun hat, ok, dann wartest du, dass die Tests durchlaufen, und dann musst du so im Kopf diesen Schalter umlegen und in das andere Projekt gehen und ein völlig anderes Problem behandeln und dich dann da erstmal wieder reindenken. Dann schreibst du irgendwas, wartest wieder, dass die Tests durchlaufen, switchst wieder rüber, musst dich da erstmal wieder reindenken, ok, was habe ich vorhin gemacht, was ist jetzt der Fehler. So immer wieder dieses neue Andenken, was habe ich gemacht, wenn du das halt irgendwie, sag ich mal, zwischen drei Projekten andauernd wechselst, habe ich so die Erfahrung gemacht, dass es halt auch Nerven kosten kann, halt immer wieder aufs Neue, dann mehr oder weniger dich rein zu denken. Also es dauert jetzt nicht super lange, aber es ist halt schon hilfreich, an einem Problem zu sitzen und das erstmal zu lösen, würde ich sagen.
+
+10:02 
+
+I: Und du sagst, du programmierst auch für dich privat, unterscheidet sich der Prozess privat von dem auf der Arbeit? 
+
+10:11 
+
+B: Ich nehme ihn nicht so ernst (lacht). Naja zum Beispiel Architektur wäre was, ja ok, durch den Kurs auch jetzt, was ich mir vorher überlege, einfach um da ein bisschen die Praxis reinzukriegen. Aber bei einem privaten Projekt ist ne Architektur, glaube ich, erstmal nichts, was man jetzt so wirklich krass durchdenkt, weil es ist halt nur ein privates Projekt und ja. Ich denke, das ist das Einzige, was sich unterscheidet, wirklich diese Architektur vorher nicht so klein zu durchdenken, sondern einfach sich ranzusetzen und anzufangen, so einen groben Plan zu haben und dann je mehr man halt im Projekt drin ist, desto mehr ergibt sich die Architektur dann auch oder Designentscheidungen, die du im Kopf getroffen hast, zeigen sich ja dann auch. Genau, also die Architektur nicht so, aber ansonsten Test-Driven genauso, ja.
+
+11:04 
+
+I: Ok, und innerhalb von einer Komponente, Planungsprozesse, gibt's da noch/ also, schreibst du dann nochmal irgendwie Sachen auf oder? 
+
+11:13 
+
+B: Ne, das ist glaube ich eher so Bauchgefühl, würde ich sagen. Also ich überlege gerade, schreibe ich da so Sachen auf, naja, ich würde/ also mache halt Programmierparadigmen, wie keep it simple und so, also wenn die Funktion halt zu lange ist, dann kann man da schon mal überlegen, ne. Oder wenn man viel Code-Duplikationen irgendwie hat, ob man da vielleicht mal ein Service oder so einführt, aber jetzt vorher da irgendwas aufschreiben, eigentlich nicht. 
+
+11:37 
+
+I: Ok, alles klar. * Gut, das haben wir euch auch abgehakt. Ja, ich glaube für den zweiten Teil ist das dann schon relativ umfassend, ja. 
+
+B: Ok, schön
+
+I: Außer du möchtest auch was hinzufügen? 
+
+11:58 
+
+B: Ne, ich denke. 
+
+12:01 
+
+I: Gut, dann dritten Teil geht es jetzt um Probleme im Prozess. Einmal stelle ich quasi die Extremfrage, hast du schon mal ein Projekt abgebrochen? 
+
+12:15 
+
+B: Ne, eigentlich nicht. Also abgebrochen, weil ich es nicht lösen konnte, oder? 
+
+12:24 
+
+I: Also jetzt nicht durch äußere Umstände, also jetzt auf Arbeit irgendwie das Geld fehlt oder so, dann ist das ein anderer Grund 
+
+12:30 
+
+B: Nee, ich würde sagen, nee. Also, ich habe das immer größtenteils versucht, fertig zu kriegen. Also es war nie so ein Abbrechen, es war eher dann irgendwann mal verdrängen und keine Lust mehr gehabt.
+
+12:40 
+
+I: Ok, wann kommt das vor? 
+
+12:42 
+
+B: Früher eher, jetzt nicht mehr so, weil früher war dann eher so manchmal der Punkt erreicht, ja irgendwie habe ich keine Lust mehr drauf und ich habe jetzt eine neue Idee, die ich anfangen will. Und das alte Projekt, naja, das ist ja fast fertig, zu 80 Prozent, also irgendwie hast du es ja fertig gemacht. So, das war eher so mein Gedanke, aber ich glaube, das war wirklich in meiner Anfangszeit die ersten zwei, drei Jahre. Also inzwischen ist es schon so, dass ich die Projekte im Regelfall fertig stelle, einfach, ja, um sie fertig zu haben.
+
+13:08 
+
+I: Ok, also für das eigene Gefühl. 
+
+13:09 
+
+B: Genau, ja. 
+
+13:14 
+
+I: Ok, genau, also gab es schon Projekte auf Arbeit oder privat, hast du mitgekriegt, die sich deutlich verzögert haben? 
+
+13:24 
+
+B: Ja, extrem, also so ein Projekt kann sich auch mal, also gerade auf Arbeit gab es bei uns Projekte, die sich auch mal über ein halbes Jahr verzögert haben, also das war eigentlich keine Seltenheit. Ja, das lag an Planung, das lag einfach an Bugs, die man vielleicht nicht einkalkuliert hat, das lag an Dingen, an die man nicht gedacht hat, die noch implementiert werden mussten und das summiert sich dann halt über die Zeit einfach auf.
+
+Und dann vielleicht auch, wenn Leute im Urlaub sind, klar, muss ja der denen ihre Arbeit mit übernehmen und ja, so ist dann aus einem Vierteljahr halt auch mal ein halbes Jahr geworden, bei der Menge an Code, die halt auch geschrieben werden muss, ne. Ja, also doch, es gibt Verzögerung. 
+
+14:05 
+
+I: Ok, du sagst jetzt spezifisch, also es gibt Verzögerung durch Planung, was meinst du damit?
+
+14:09 
+
+B: Also gerade die Planung, also dadurch, dass wir keine Architektur vorher besprochen haben, da gibt es Sachen auf jeden Fall, die durch Architekturplanung hätten verhindert werden können, wenn es halt wirklich schlecht engineert ist und dann halt irgendwelche Bugs auftreten in, keine Ahnung, irgendwelchen States oder so, jetzt bin ich so ans Frontend denke, zum Beispiel. *  Naja, und dann auch/ wir arbeiten ja in Sprints, alle zwei Wochen wird da geplant, wer was macht. Und einfach, es sind halt auch oft so, ich sag mal, un/ also was heißt unkalkulierbare Risiken, aber wenn irgendwas halt länger dauert, das weiß man halt von vornherein einfach nicht, wie lange/ also doch, es gibt Story-Points, Estimates, aber wenn da doch halt irgendwas in dieser Story ist, was das Team nicht bedacht hat und dann doch noch auf die Person zukommt, dann dauert es halt einfach länger. Ja, das sind so die Faktoren. 
+
+Und was mir vielleicht auch noch einfällt, ist, dass wir uns auch gegenseitig halt dann helfen, wenn irgendwie ein Problem da ist und das aber natürlich dann auch Zeit frisst, wenn irgendwie ein Senior-Dev dann mit nem Junior zusammensitzt und zwei Stunden seiner Zeit opfert, dann hat der Senior halt am Ende weniger Zeit, um irgendwas zu lösen. Das ist vielleicht auch noch so ein Punkt. 
+
+15:20 
+
+I: Alles klar. Ok. Gibt es Momente, in denen du selber beim Coden vom Code sitzt und obwohl du theoretisch eigentlich weißt, wie es funktioniert, trotzdem nicht weiterkommst?
+
+15:34 
+
+B: Ich denke, die gibt es, ja. * Also ich würde nicht sagen, dass ich da verzweifle. Der erste Ansatz ist dann erstmal weiter darüber nachzudenken, den Code weiterlesen, Dokumentationen durchlesen. Dann ist der Ansatz vielleicht auch tatsächlich mal eine Pause machen. Das hilft mir auch oft. Einfach erstmal vom Kopf herauskommen und sich später nochmal neu reindenken und ja, wenn es hart auf hart kommt, dann einen Teamkollegen fragen, ob wir das zum Beispiel mal peer-reviewen können oder Rubberducking ist auch so ein prominentes Beispiel. Das hilft auch ganz gut, finde ich. Und ja, wenn es gar nicht geht, dann im Extremfall muss es dann halt jemand anders machen, auch wenn das glaube ich bis jetzt, also ich glaube maximal ein- oder zweimal vorkam, dass ich gesagt habe, ok, ich habe überhaupt keinen Plan. Meistens, wenn einem dann jemand hilft oder man das zu zweit oder zu dritt in der Gruppe macht, ist das eigentlich kein Problem, wenn mehr Leute dann auch darüber nachdenken und du dann vielleicht doch so diesen Geistesblitz hast und du denkst, ok, ja, das ist es.
+
+16:31 
+
+I: Also woran hängt das? Sind das dann Bugs, die sich nicht lösen lassen oder?
+
+16:35 
+
+B: Teilweise Bugs, würde ich sagen. Ich glaube bei neuen Implementierungen ist es nicht so kritisch, weil du ja sozusagen freigestellt bist, wie du es implementierst. Ja ok, wenn du irgendwie vorhandenen Code verstehen musst, kostet das halt Zeit, aber ist jetzt nicht so ein Problem. Also ich denke, ja, es sind Bugs, gerade vielleicht bei einer Microservice-Architektur auch, wenn viele Services mit drinhängen, wo du vielleicht auch nicht so einen Plan von diesem anderen Service hast, wie funktioniert der und so. Und du musst dann wieder jemand anderes fragen, der davon mehr Plan hat, so ganz spezielle Sachen auch, wo du vielleicht nicht drauf spezialisiert bist einfach und da nicht so viel Wissen drin hast.´Aber meistens sind es Bugs, ja.
+
+17:17 
+
+I: Ok, alles klar. 
+
+17:19 
+
+B: Ich hoffe, ich rede hier nicht zu viel. 
+
+17:21 
+
+I: Nein, das ist super. (lacht) Man kann nicht zu viel reden hier. Genau, also ich habe auch nur noch eine Frage. Würdest du sagen, du hattest schon mal eine Programmierblockade?
+
+17:36 
+
+B: Ne, eigentlich nicht. 
+
+17:38 
+
+I: Ok. 
+
+17:40 
+
+B: Ich weiß nicht, wie jemand das definiert, Programmierblockade, dass man überhaupt keine Lust mehr hat?
+
+17:43 
+
+I: Das ist jetzt, was du mit den Begriffen assoziierst. 
+
+17:46 
+
+B: Nee, nee, dann würde ich sagen, nee. Nee, hatte ich nicht
+
+17:47 
+
+I: Im Prinzip der Gedanke ist so, analog zu einer Schreibblockade vielleicht schon mal, aber da muss man halt eine Schreibblockade gehabt haben. 
+
+17:53 
+
+B: Nee, ich würde sagen, das gab es nicht.
+
+17:56 
+
+I: Ok. Alles klar. Gut. Möchtest du von deiner Seite noch irgendwas hinzufügen?
+
+18:03 
+
+B: Ich denke, ich habe dir jetzt lange genug im Ohr abgekaut. Ja, ne, ich denke, das war alles.
+
+18:09 
+
+I: Alles gut. Gut, dann vielen Dank. 
+
+18:13 
+
+B: Gerne.

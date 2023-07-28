@@ -1,0 +1,479 @@
+00:00 
+
+I: So, läuft. Okay, ja, bist du damit einverstanden, dass das Gespräch hier aufgezeichnet wird?
+
+00:07 
+
+B: Ja. 
+
+00:09 
+
+I: Alles klar. Das Interview hat drei Teile und der erste Teil, das ist unser Fragebogen zur Erfassung der Programmiererfahrung und der beginnt mit der Frage, wie alt bist du?
+
+00:27 
+
+B: Ich bin 38. 
+
+00:31 
+
+I: Wie viele Jahre programmierst du insgesamt schon, also auch hobbymäßig alles?
+
+00:41 
+
+B: Ja, 18 Jahre. 
+
+00:46 
+
+I: Okay. Hast du da irgendwie eine förmliche Ausbildung irgendwie gemacht?
+
+00:50 
+
+B: Ja, ich bin Fachinformatiker für Anwendungsentwicklung. 
+
+00:57 
+
+I: Okay, also eine Berufsausbildung.
+
+00:59 
+
+B: Ja, allerdings ist das eine Umschulung gewesen und auch sehr spät, also das ist noch gar nicht so lange her.
+
+01:06 
+
+I: Okay, alles klar. Wie viele Jahre hat das gedauert?
+
+01:13 
+
+B: Die Umschulung? Zwei. 
+
+01:15 
+
+I: Zwei, okay. Ja, seit wie vielen Jahren programmierst du für größere Softwareprojekte, zum Beispiel in einer Firma? 
+
+01:25 
+
+B: Ja, wie gesagt, seit 2010, 2012, sowas in der Drehe. 
+
+01:34 
+
+I: Also so zehn Jahre? 
+
+B: Ja. 
+
+01:36 
+
+I: Okay. Wie groß sind deine professionellen Projekte üblicherweise? Also wir unterscheiden klein, mittel und groß. Klein sind unter 900 Codezeilen, mittel sind 900 bis 40.000 Codezeilen und groß sind über 40.000 Codezeilen. 
+
+01:55 
+
+B: Jetzt aktuell in der aktuellen Firma oder meinst du private Projekte? 
+
+I: Die professionellen. 
+
+B: Die professionellen, groß würde ich sagen.
+
+02:05 
+
+I: Groß, okay. Aber du programmierst auch privat, ja? 
+
+02:08 
+
+B: Ja. 
+
+02:09 
+
+I: Okay. Gut, das wird später relevant. Auf einer Skala von 1 bis 10, 1 ist sehr unerfahren, 10 ist sehr erfahren. Wie hoch schätzt du deine eigene Programmiererfahrung ein? 
+
+02:27 
+
+B: Ich würde sagen 6, 7, 8, 7\. Nehmen wir 7. 
+
+02:33 
+
+I: 7, okay. * Auf einer Skala von 1 bis 5 nur, wie hoch schätzt du deine Programmiererfahrung im Vergleich mit deinen Kollegen ein? 
+
+02:52 
+
+B: Das ist eine gute Frage. Ich würde sagen 3. 
+
+02:58 
+
+I: 3, okay. Wie viele Programmiersprachen kennst du, wo du deine eigene Programmiererfahrung bei 3 oder höher einschätzen würdest und welche sind das? 
+
+03:16 
+
+B: Ich würde sagen 3\. Das ist einmal Python, das ist einmal TypeScript und Javascript. Ich nehme das jetzt mal als eins und C Sharp. 
+
+03:32 
+
+I: Okay, also wir haben TypeScript und Javascript schon ein paar Mal gehabt und haben sie einzeln gezählt, also würde ich auf 4 erhöhen. 
+
+03:38 
+
+B: Okay gut. 
+
+03:47 
+
+I: Und dann abschließend noch, wie erfahren bist du mit den folgenden Programmierparadigmen? Wenn dir der Begriff irgendwie nichts sagen sollte, dann ist das in Ordnung, dann schreiben wir eine 1 hin und moving on. Also auf einer Skala von 1 bis 5, funktionale Programmierung. 
+
+04:08 
+
+B: Oh, warte, der Ton ist gerade weg.
+
+04:10 
+
+I: Okay. 
+
+04:13 
+
+B: Nochmal bitte. 
+
+04:14 
+
+I: Also du hörst mich wieder? 
+
+04:16 
+
+B: Ja, ich höre dich wieder, ja. 
+
+04:18 
+
+I: Genau, also die Frage war auf einer Skala von 1 bis 5, wie erfahren bist du mit den folgenden Programmierparadigmen? Und das erste war funktionale Programmierung. 
+
+04:27 
+
+B: Gibt es eine Skala wieder? 
+
+04:29 
+
+I: Ja, von 1 bis 5, genau.
+
+04:31 
+
+B: 1 bis 5, 4. 
+
+04:36 
+
+I: 4, okay. Imperative Programmierung. 
+
+04:40 
+
+B: Oh, das sagt mir jetzt gerade nichts. 
+
+04:43 
+
+I: Das wäre so Pascal, C. 
+
+04:47 
+
+B: Oh, da eher ne 2. 
+
+04:49 
+
+I: Ne 2, okay. Logische Programmierung. 
+
+04:53 
+
+B: 3. 
+
+04:58 
+
+I: Und objektorientierte Programmierung. 
+
+05:00 
+
+B: Ja, 4 bis 5. 
+
+05:01 
+
+I: 4 bis 5\. Ich runde mal auf und schreibe da die 5\. Okay, das war es schon mit dem Fragebogen. Vielen Dank. Der zweite Teil, das sind offenere Fragen und da soll es jetzt mehr um deinen persönlichen Programmierprozess gehen. Und dafür würde ich dich quasi gern bitten, mir was über ein aktuelles Projekt von dir zu erzählen. Das kann vor kurzem abgeschlossen oder noch in Arbeit sein, von der Arbeit oder privat. Einfach so ein
+
+Projekt, wo du mich so ein bisschen durchführen kannst, wie du dabei vorgehst und so. 
+
+05:42 
+
+B: Die anderen Kollegen werden sicherlich schon darüber gesprochen haben. Wir machen eine Personalverwaltung, also ein Personalmanagement in der Firma. Jetzt weiß ich gerade nicht, was genau du von mir hören möchtest. 
+
+06:09 
+
+I: Also vielleicht, ich weiß nicht genau, was du machst. Vielleicht ist es ja einfacher, über irgendwie einzelne Tickets oder so zu sprechen. 
+
+06:19 
+
+B: Achso. Naja. Ich mache dort hauptsächlich so Strukturarbeiten, Daten aufbereiten, die Architektur der Anwendung. Ich arbeite natürlich klar nach Tickets. Je nachdem, was da anliegt. 
+
+06:41 
+
+I: Dann sagen wir, du bekommst ein Ticket. Wie gehst du dann vor?
+
+06:48 
+
+B: Ja, ich versuch erstmal/ also es kommt drauf an, was das für ein Ticket ist, ne. Also wir haben unterschiedliche Ticketformen. Das ist zum einen das Feature-Ticket und das andere ist das Bug-Fix-Ticket. Das Feature-Ticket ist natürlich eine neue Funktionalität und das Bug-Fix-Ticket ist, ja es funktioniert irgendwas nicht richtig. Also im Falle eines Bug-Fix-Tickets, dann versuche ich natürlich erstmal den Fehler nachzustellen, die Stellen zu finden und dann natürlich zu beheben. Bei Feature-Tickets mache ich mir grob immer einen Fahrplan. Also ich gucke mir das Feature an, was soll jetzt als nächstes passieren, was ist der Grundgedanke und hinter dem Gesamtfeature baue ich mir einen Fahrplan zusammen und setze den dann einfach um. 
+
+07:45 
+
+I: Okay, wie sieht so ein Fahrplan aus? Wie muss ich mir das vorstellen? 
+
+07:49 
+
+B: Naja, also ich schreibe mir im Groben auf, welche Knöpfe brauche ich, welche Funktionen brauche ich, was soll wann passieren, also der Programmablauf. Das schreibe ich mir vorher grob nen Plan vor und arbeite das dann runter.
+
+08:17 
+
+I: Okay, also du sagst, du arbeitest das runter, also wie du es aufgeschrieben/ also da hat das schon so eine Struktur, wie du es aufgeschrieben hast, die dann sinnvoll ist oder arbeitest du generell einfach eher so chronologisch oder?
+
+08:34 
+
+B: Naja, ich hab so/ mein persönlicher Fahrplan ist halt immer erstmal * es dreht sich ja meistens um Datenanzeige und Datenaufbereitung, also suche ich mir erst alles zusammen, bereite die für die Anzeige auf und bringe sie dann zur Anzeige letztendlich. 
+
+09:00 
+
+I: Okay, und das ist dann so ein relativ linearer Prozess? 
+
+09:03 
+
+B: Ja, für mich ja. Wenn ich jetzt nicht auf irgendwelche Unwegsamkeiten stoße, dann ist es ein relativ linearer Prozess, das richtig, ja. 
+
+09:16 
+
+I: Okay, ja, Planschreiben, diesen runterarbeiten, okay. Und im Vergleich jetzt, du sagst, du programmierst auch privat, ist es da ähnlich, gehst du da ähnlich vor? 
+
+09:35 
+
+B: Nein, tatsächlich nicht. Da existiert vieles einfach nur in meinem Kopf, ne, und arbeite das aus meinem Kopf runter, da dokumentiere ich kaum was, da schreibe ich kaum irgendwie nen Fahrplan, da schaue ich meistens erstmal wie die Dinge gehen und lasse mich dann ein bisschen meistens ablenken vom eigentlichen Ziel. 
+
+10:05 
+
+I: Okay. Also was meinst du damit, also du schaust mal, wie die Dinge gehen? 
+
+10:12 
+
+B: Also naja, meine privaten Projekte sind mehr so neue Technologien. (B disconnected vom Webroom) 
+
+10:34 
+
+B: Hallo? 
+
+10:34 
+
+I: Willkommen zurück. 
+
+10:35 
+
+B: Ja, ich bin kurz rausgeflogen. 
+
+10:38 
+
+I: Alles gut. 
+
+10:40 
+
+B: Ja, meine privaten Projekte, also ich habe, dadurch dass wir in der Firma viel programmieren, sind meine privaten Projekte mehr * Technologie ausprobieren. Also ein ständiges Weiterbilden und da gibt es oftmals auch keine * Sachen, die erledigt werden müssen, sondern ich gucke mir das einfach im Gesamten an und dann ja. Das sind so die
+
+privaten Projekte, die ich mache. Ich setze da einfach mal irgendwelche neuen Projekte auf mit neuen Technologien und gucke mir das einfach an, wie es funktioniert. 
+
+11:25 
+
+I: Okay, und du sagst, du hast dann die Dinge mehr im Kopf und schreibst halt nicht diesen Fahrplan auf, aber ist das, was du im Kopf hast, trotzdem mit einem Plan zu vergleichen? 
+
+11:37 
+
+B: Ja, kann man schon so sagen. Ich bin da bloß nicht so zielstrebig, ja. Natürlich, einen Fahrplan braucht man schon, man muss schon natürlich eine Vorstellung haben, was will man überhaupt machen, ja. 
+
+11:57 
+
+I: Okay. Gut, also das ist dann quasi trotzdem so hauptsächlich dieser Zweischritt. Also du schreibst es zwar nicht auf, aber es ist trotzdem Planung vorher quasi und dann das umsetzen. 
+
+12:19 
+
+B: Ja, klar. Also im gewissen Rahmen schon, wenn ich jetzt einfach wahllos anfangen würde, dann hätte das Ganze auch kein Sinn. Es muss ja schon ein bisschen Struktur haben. 
+
+12:32 
+
+I: Okay, und dann beim Umsetzen selbst, aber ist es halt weniger so ein Abarbeiten?  Also da ergeben sich die Aufgaben dann eher so spontan oder wie? 
+
+12:47 
+
+B: Ja, würde ich sagen. * Ich bin heute nicht ganz auf der Höhe, musst du wissen. Ich bin genauso ein bisschen angeschlagen wie du. 
+
+12:56 
+
+I: Ja, ja. Es (lacht) geht mir ja nicht anders. 
+
+13:02 
+
+B: Jetzt bin ich grade ein bisschen so/ stehe ich gerade ein bisschen auf dem Schlauch. 
+
+13:05 
+
+I: Ist in Ordnung, ist absolut in Ordnung. * Gut, beim Programmieren, vielleicht wieder bei der Arbeit. Hast du beim Programmieren noch wen im Kopf? Also schreibst du das für jemanden oder? 
+
+13:28 
+
+B: Wie meinst du das? 
+
+13:32 
+
+I: Also hast du irgendwie vielleicht den nächsten Kollegen, der es bekommen soll im Kopf oder den Kunden oder so? 
+
+13:42 
+
+B: Nö, eigentlich nicht. Also ja, natürlich habe ich den Kunden im Kopf. Ich kenne den Gedanken des Kunden hinter den Sachen, klar. Aber jetzt so beim Runterschreiben beim Programmieren eigentlich eher nicht, weil dann ist ja eigentlich schon klar, was gemacht werden soll. 
+
+14:05 
+
+I: Okay. 
+
+14:08 
+
+B: Und natürlich denke ich an meine Kollegen. Ich versuche so sauber wie möglich zu schreiben, dass sie das gut warten können. 
+
+14:16 
+
+I: Alles klar. Gut, ich glaube für den Prozess an sich ist das schon ausreichend. Dann kämen wir ja schon zum letzten Teil des Interviews und da soll es mehr quasi um Probleme im Prozess gehen. 
+
+14:34 
+
+B: Okay? 
+
+14:36 
+
+I: Und ich stelle quasi als erstes immer so die Extremfrage. Und zwar hast du schon mal ein Projekt irgendwie abgebrochen? 
+
+14:46 
+
+B: Nein, tatsächlich nicht, nein. 
+
+I: Nicht, okay?
+
+14:56 
+
+B: Also was verstehst du unter einem Abbruch? 
+
+15:02 
+
+I: Ja, das verstehen die Leute teilweise ein bisschen unterschiedlich. Also weggelegt und nie wieder aufgenommen. Oder vielleicht auf Arbeit, keine Ahnung, dass es irgendwie
+
+Probleme gab, dass man gesagt hat, das können wir so nicht umsetzen, das Projekt. 
+
+15:22 
+
+B: Also meistens finden wir eine Lösung. Auch wenn die nicht so aussieht, wie sie ursprünglich gewollt ist, aber eine Alternative lässt sich meistens finden. Von daher würde ich sagen grob abgelehnt oder/ habe ich nicht, wüsste ich nicht. 
+
+15:47 
+
+I: Okay. Alternativ dazu gibt es Projekte, die sich einfach zeitlich lange verzögert haben? 
+
+15:57 
+
+B: Ja, auch. Ja * Natürlich. Also ich glaube kein Projekt läuft wirklich glatt bis zu ner Abgabe. Also so ein bisschen überzeitlich ist man, glaube ich, immer. 
+
+16:23 
+
+I: Okay. Aber was sorgt so für die Verzögerung? Was sind so die Probleme, die auftreten können? 
+
+16:30 
+
+B: Ja meistens fehlen noch Informationen vom Kunden oder man braucht eine Rückmeldung, weil man auf ein Problem gestoßen ist und das mit dem Kunden abklären muss und die Rückmeldung dauert meistens eine ganze Weile. Mögliche Lösungen finden, das sind alles so Sachen, die ein Projekt auf jeden Fall verzögern können.
+
+16:58 
+
+I: Okay, also viel liegt an Kommunikation, höre ich da so raus. Was sind das denn für Informationen, die da fehlen können? 
+
+17:19 
+
+B: Naja, man stößt auf ein Problem, man kann es zum Beispiel nicht so lösen, wie es der Kunde gerne hätte, hat aber einen Alternativvorschlag und das muss man dem Kunden
+
+natürlich erstmal unterbreiten. Dann trägt er wieder erstmal ne Runde, überlegt sich,
+
+ob das immer noch an seinem Rahmen ist, wie er sich das vorgestellt hat und bis da Feedback kommt, das ist halt immer ein bisschen, dauert einfach ein bisschen. 
+
+17:47 
+
+I: Okay. Und von der eigenen Seite aus, also gibt es Momente, wo du beim Programmieren einfach nicht vorankommst?
+
+17:55 
+
+B: Ja, die gibt es genug. Es gibt manche Tage, da ist man einfach dämlich, ne, sage ich jetzt mal kurz. Da ist man gedankenleer, ne, man kommt nicht gleich auf die einfachsten Lösungen. Dann gibt es wieder Tage, da geht es locker-flockig von der Hand. 
+
+18:19 
+
+I: Okay, aber du würdest sagen, das ist tagesformabhängig, es gibt ja nicht irgendwie ein Muster oder so?
+
+18:24 
+
+B: Nö, würde ich jetzt nicht sagen. 
+
+18:32 
+
+I: Okay. * Ich überlege gerade. * Hast du vielleicht ein Beispiel für eine Stelle, an der du dämlich warst oder an der du das jetzt sagen würdest? 
+
+18:55 
+
+B: Da gibt es viele, immer mal ab und zu. Das sind manchmal ganz einfache Sachen, banale Dinge, die einem an dem Punkt einfach nicht einfallen. Bei mir ist es dann manchmal so, dass ich zum Beispiel in der Dusche oder irgendwo, wenn ich nicht vor dem Projekt sitze, ich meistens auf die Lösung komme.
+
+19:28 
+
+I: Ist das dann auch eine Lösungsstrategie, bewusst vom Projekt wegzugehen? Was machst du, wenn du nicht vorankommst? Wie löst du das?
+
+19:38 
+
+B: Wenn ich nicht vorankomme, lasse ich natürlich das Projekt erstmal kurz beiseite oder ich versuche, irgendwie mit nem Kollegen mich kurz zu schließen und der ihre Sicht einzubeziehen. Ganz klar, man kann nicht immer alles wissen. Vielleicht hat jemand auch einfach auch eine andere Lösung, eine genauso gute Lösung. Und wenn es gar nicht weitergeht, dann muss man das halt auch mal kurz liegen lassen, mal was anderes machen, mal rausgehen, mal andere Gedanken haben, damit man wieder einfach eine andere Sicht, eine frische Sicht auf die Dinge bekommen kann. So handhabe ich das zumindest, wenn ich da jetzt vor einem Problem stehe. 
+
+20:26 
+
+I: Okay. Ja dann, letzte Frage für den Begriff, was du damit assoziierst. Denkst du,
+
+dass du schon mal eine Programmierblockade hattest?
+
+20:46 
+
+B: Jetzt über einen längeren Zeitraum oder wie? 
+
+20:53 
+
+I: Zum Beispiel, wenn du das mit dem Begriff so assoziierst, dann ja. 
+
+21:00 
+
+B: Eigentlich nicht. Ich weiß nicht, was bei dir ein langer Zeitraum ist. * In der Regel nicht.
+
+21:17 
+
+I: Alles klar. Was würdest du denn als langen Zeitraum sehen?
+
+21:23 
+
+B: Naja, also wenn ich jetzt ein paar Tage an einem Problem sitze und da nicht auf die Lösung komme, dann bin ich davon (?erhagelt), würde ich sagen.
+
+21:29 
+
+I: Okay. Und das kommt aber selten vor? 
+
+21:35 
+
+B: Das kommt nicht so häufig vor, sagen wir es mal so. 
+
+21:38 
+
+I: Aber gab es schon?
+
+21:42 
+
+B: Gab es schon, dass ich ein paar Tage lang an einem Problem geknaubelt habe. Ja, gab es mit Sicherheit. 
+
+21:53 
+
+I: Okay, aber da ist dann trotzdem Kollegen fragen oder mal was anderes/
+
+21:55 
+
+B: Da ist trotzdem Kollegen fragen. Andere Sichten einholen, bis man zur Lösung kommt.
+
+22:06 
+
+I: Okay. Ja, würdest du dann von deiner Seite noch irgendwie was hinzufügen wollen?
+
+22:15 
+
+B: Nö, ich wüsste nicht was.
