@@ -8,6 +8,7 @@ This repository contains supplemental materials for the title study.
 Contains two files: 
 
 * The *Main Questionnaire* contains open questions on the programming process and the questions regarding problems/blocks. 
+
 * The *Questionnaire on Programming Experience* contains questions regarding the participants programming knowledge and experience, which used fixed scales (denoted within the questionnaire).
 
 ## Interview Transcripts
