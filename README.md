@@ -17,5 +17,10 @@ Contains the transcripts of all 15 interviews. The transcripts were anonymized, 
 ## Analysis
 Contains four files:
 
-* 
-* 
+* *Programming Experience* contains the complete participant information gained through the *Questionnaire on Programming Experience*, which was partly shown in Table 2.
+
+* *Problem Statements* contains the analysis for RQ1.
+
+* *Programming Activities* contains the analysis for RQ2.
+
+* *Writing Strategies* contains the analysis for RQ3.
