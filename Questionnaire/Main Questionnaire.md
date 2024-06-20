@@ -8,17 +8,17 @@
 
 I'd like to ask you to tell me about a recent project of yours. It can be finished or still in progress, from work or a private project. Just walk me through it from start to end.	
 
-What kind of project was that?
+*What kind of project was that?*
 
-How did you proceed?
+*How did you proceed?*
 
-What did you do before/after programming?
+*What did you do before/after programming?*
 
-Were there any special cirsumstances that made the project more challenging than usual?
+*Were there any special cirsumstances that made the project more challenging than usual?*
 
-Have there been any other problems in the process?
+*Have there been any other problems in the process?*
 
-Were these problems common in other projects as well?
+*Were these problems common in other projects as well?*
 
 Is the process you just described comparable to your other projects?
 
@@ -35,13 +35,13 @@ Have there been projects that have been delayed significantly or where deadlines
 
 Have there been moments where you were just stuck on a project, even though there were no special circumstances impeding the process?
 
-What were the problems that lead to that?
+*What were the problems that lead to that?*
 
-How disturbing did you find those problems?
+*How annoying did you find those problems?*
 
-How did you address the problems?
+*How did you address the problems?*
 
-Do you think you've ever had programmer's block?
+*Do you think you've ever had programmer's block?*
 
 
 Do you want to add anything else?
