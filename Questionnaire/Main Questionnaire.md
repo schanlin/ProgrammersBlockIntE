@@ -1,8 +1,10 @@
 # Questionnaire
 
+The questionnaire consists of three parts: Programming Experience, Programming Process, and Blocks. All questions marked in *italics* are potential follow-up questions. They can be omitted if they are already answered within the context of an earlier question.
+
 ## Part 1:	Programming Experience
 
-*See Questionnaire on Programming Experience.*
+(See Questionnaire on Programming Experience.)
 
 ## Part 2:	Programming Process
 
