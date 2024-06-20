@@ -1,4 +1,4 @@
-# On Writer's Block in Programming: Is this a thing?
+# Toward a Theory on Programmer’s Block Inspired by Writer’s Block
  
 This repository contains supplemental materials for the title study. 
 
